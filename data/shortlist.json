@@ -1,10 +1,10 @@
 {
 "genere": "2026-10-26",
 "stats": {
-"rejet": 1363,
-"hors_zone": 702,
-"retenu": 2069,
+"rejet": 1371,
+"retenu": 2061,
 "hors_horizon": 252,
+"hors_zone": 702,
 "trop_cher": 84,
 "horaire": 182,
 "deja_suggere": 12,
@@ -208,17 +208,17 @@
 "u": "https://75.agendaculturel.fr/concert/philippe-alegre-3.html"
 },
 {
-"id": "672eea87f20c",
-"t": "L'archi-visite",
-"d": "dim 01/11 15:00",
-"l": "Lafayette Anticipations (4e)",
+"id": "8d1b7c2d0ba6",
+"t": "Fête de la soupe au jardin partagé",
+"d": "dim 01/11 17:00",
+"l": "Jardin partagé (12e)",
 "p": "gratuit",
 "th": [
 "autre"
 ],
 "sc": 4,
-"u": "https://www.paris.fr/evenements/l-archi-visite-126338",
-"r": "https://billetterie.lafayetteanticipations.com/l-archi-visite-visite-css5-lafayetteanticipationsweb-pg51-ei1136607.html",
+"u": "https://www.paris.fr/evenements/fete-de-la-soupe-au-jardin-partage-118098",
+"r": "http://www.autourdelabaleine.fr",
 "dec": 1
 },
 {
