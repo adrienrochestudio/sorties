@@ -45,7 +45,7 @@ Dans adrienrochestudio@gmail.com, sans invités, sans notification, disponibilit
 - Aucun tiret cadratin, pas de vocabulaire ronflant.
 
 ## 6. Enregistrer
-Rien à pousser : l'Action relit l'agenda à 10h37 et met la carte à jour. Ne modifie aucun fichier du dépôt.
+Rien à pousser : l'Action relit l'agenda à 10h37. Ne modifie aucun fichier du dépôt.
 
 ## 7. Récapitulatif
 Court, phrases courtes : nombre créé par période, jours Ana, Vichy et amis, liste (date, heure, titre, lieu, prix), problèmes rencontrés.

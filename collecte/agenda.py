@@ -1,6 +1,6 @@
 """Relit l'agenda Google (adresse iCal secrète, secret AGENDA_ICS) dans la GitHub Action.
 
-- Reconstruit data/suggeres.json : les [Sortie suggérée] présentes dans l'agenda, avec coordonnées pour la carte.
+- Reconstruit data/suggeres.json : les [Sortie suggérée] présentes dans l'agenda (id, date, lieu, thème).
 - Apprend des suppressions : une suggestion à venir qui a disparu de l'agenda baisse le poids de son lieu et de son thème.
 Sans secret ou en cas d'erreur réseau, ne touche à rien.
 """
@@ -138,7 +138,9 @@ def main():
             if th:
                 p["themes"][th] = max(-6, p["themes"].get(th, 0) - 1)
         ecrire(DATA / "poids.json", p, indent=1)
-    ecrire(DATA / "suggeres.json", sorted(actuels, key=lambda s: s["d"]), indent=0)
+    # Le dépôt est public : on ne garde que ce qu'il faut pour les leçons (pas de titre, lien ni coordonnées)
+    minimal = [{k: s[k] for k in ("id", "d", "l", "th")} for s in actuels]
+    ecrire(DATA / "suggeres.json", sorted(minimal, key=lambda s: s["d"]), indent=0)
     print(f"agenda : {len(actuels)} suggestions, {len(supprimes)} suppressions apprises",
           [s["t"][:50] for s in supprimes])
 

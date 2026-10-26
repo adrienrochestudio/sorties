@@ -1,13 +1,13 @@
-"""Filtres durs, score, diversité : produit la shortlist que Claude lit le dimanche, et les données de la carte.
+"""Filtres durs, score, diversité : produit la shortlist que Claude lit le dimanche.
 
 Entrées : data/brut/evenements.json, config/*.json, data/poids.json (leçons), data/suggeres.json (déjà créés).
-Sorties : data/shortlist.json (versionné, compact), site/carte.json.
+Sortie : data/shortlist.json (versionné, compact).
 """
 import re
 from collections import Counter, defaultdict
 from datetime import date, timedelta
 
-from commun import CONFIG, DATA, SITE, aujourdhui, ecrire, lire, norm, parse_dt
+from commun import CONFIG, DATA, aujourdhui, ecrire, lire, norm, parse_dt
 from creneaux import buckets
 
 JOURS = ["lun", "mar", "mer", "jeu", "ven", "sam", "dim"]
@@ -154,7 +154,7 @@ def main():
         stats["retenu"] += 1
 
     candidats.sort(key=lambda c: -c[2])
-    shortlist, pris_ids, carte, titres_pris = [], set(), [], set()
+    shortlist, pris_ids, titres_pris = [], set(), set()
     for b in buckets(demain, R["horizon_semaines"]):
         d0, d1 = date.fromisoformat(b["debut"]), date.fromisoformat(b["fin"])
         if b["mode"] == "proche":
@@ -198,22 +198,10 @@ def main():
             del c["_k"]
         shortlist.append({**b, "candidats": choisis})
 
-    for e, dt, sc, ths, dec, dim_soir, forte, zone in candidats[:600]:
-        if e.get("lat") is None or e.get("lon") is None:
-            continue
-        carte.append({"id": e["id"], "t": e["titre"][:120], "d": e["debut"], "f": e.get("fin"),
-                      "l": e["lieu"], "a": e["adresse"], "lat": round(float(e["lat"]), 5),
-                      "lon": round(float(e["lon"]), 5), "p": e["tranche"], "th": ths[0], "u": e["url"],
-                      "ant": int(bool(forte)), "dec": int(dec), "pe": int(e["periode"]),
-                      "s": int(e["id"] in pris_ids)})
-    for s in SUGGERES:
-        if s.get("lat") is not None:
-            carte.append({**s, "sug": 1})
 
     ecrire(DATA / "shortlist.json", {"genere": aujourdhui().isoformat(), "stats": stats,
                                      "buckets": shortlist}, indent=0)
-    ecrire(SITE / "carte.json", {"genere": aujourdhui().isoformat(), "evenements": carte})
-    print(dict(stats), "| shortlist:", sum(len(b["candidats"]) for b in shortlist), "| carte:", len(carte))
+    print(dict(stats), "| shortlist:", sum(len(b["candidats"]) for b in shortlist))
 
 
 if __name__ == "__main__":

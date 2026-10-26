@@ -9,7 +9,6 @@ from zoneinfo import ZoneInfo
 RACINE = Path(__file__).resolve().parent.parent
 DATA = RACINE / "data"
 CONFIG = RACINE / "config"
-SITE = RACINE / "site"
 PARIS = ZoneInfo("Europe/Paris")
 
 

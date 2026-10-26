@@ -11,8 +11,8 @@ on:
     paths:
       - "collecte/**"
       - "config/**"
-      - "site/index.html"
       - "data/seed/**"
+      - ".github/workflows/**"
 
 permissions:
   contents: write
@@ -53,9 +53,11 @@ jobs:
           name: brut
           path: data/brut/
           retention-days: 7
+      - name: Site vide (carte retirée)
+        run: mkdir -p vide && touch vide/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: vide
 
   publier:
     needs: construire
