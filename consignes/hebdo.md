@@ -3,13 +3,11 @@
 La collecte, le filtrage et le score sont déjà faits par la GitHub Action du samedi soir. Ton travail : choisir dans la shortlist, vérifier peu, créer les événements. Ne fais pas de recherche web générale.
 
 ## 0. Préparer
-- `python3 collecte/maj.py voir` : la shortlist en texte. Si elle date de plus de 3 jours, signale-le dans le récapitulatif et continue.
-- Google Drive : lis "Agenda sorties - journal" (JSON {"crees": [], "lecons": []}) et "Agenda sorties - profils" (amis). Fichier absent : continue sans.
+- `python3 collecte/maj.py voir` : la shortlist en texte (la lecture seule suffit, aucun push). Si elle date de plus de 3 jours, signale-le dans le récapitulatif et continue.
+- Google Drive : lis "Agenda sorties - profils" (amis). Fichier absent : continue sans.
 
 ## 1. Leçons
-- Pour chaque entrée de "crees", `get_event` : introuvable ou annulé = supprimé par Adrien.
-- Pour chaque suppression : ajoute-la à "lecons" (titre, lieu, thème, date constatée), retire-la de "crees", et lance `python3 collecte/maj.py lecon "<lieu>" "<thème>"`.
-- Retire de "crees" les événements passés depuis plus de 30 jours.
+Rien à faire : la GitHub Action relit l'agenda chaque matin, repère les suggestions supprimées par Adrien et ajuste les poids. La shortlist en tient déjà compte.
 
 ## 2. Agendas
 - Semaines 1 à 3 : `list_events` sur adrienrochestudio@gmail.com et adrienroche@ecoprod.com. Repère les jours Ana (titre ou description contient "Ana"), les jours Vichy (titre, description ou lieu contient "Vichy") et les créneaux occupés.
@@ -41,14 +39,13 @@ Dans adrienrochestudio@gmail.com, sans invités, sans notification, disponibilit
   Places : disponibles (vérifié le JJ/MM) ou "non vérifié, open data"
   Prix : montant, "gratuit" ou "inconnu"
   Thème : ...
+  Réf : <id de la shortlist, entre crochets dans la liste>
   [Sortie suggérée]
 - ANTICIPER avec une date d'ouverture de billetterie future : crée aussi "Billetterie : <nom> ouvre" ce jour-là à 10h, 15 min, avec le lien et [Sortie suggérée].
 - Aucun tiret cadratin, pas de vocabulaire ronflant.
 
 ## 6. Enregistrer
-- Journal Drive : ajoute chaque événement créé à "crees" (id agenda, titre, lieu, thème, prix, date, date de création).
-- Écris crees.json (liste : id shortlist, t titre, d début ISO, l lieu, lat, lon, p tranche de prix, th thème, u lien ; jamais de prénom d'ami), puis `python3 collecte/maj.py suggere crees.json`.
-- `git add data/suggeres.json data/poids.json && git commit -m "Sorties du <date>" && git push`. La carte se met à jour seule.
+Rien à pousser : l'Action relit l'agenda à 10h37 et met la carte à jour. Ne modifie aucun fichier du dépôt.
 
 ## 7. Récapitulatif
-Court, phrases courtes : leçons de la semaine, nombre créé par période, jours Ana, Vichy et amis, liste (date, heure, titre, lieu, prix), problèmes rencontrés.
+Court, phrases courtes : nombre créé par période, jours Ana, Vichy et amis, liste (date, heure, titre, lieu, prix), problèmes rencontrés.

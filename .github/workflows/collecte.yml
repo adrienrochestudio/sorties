@@ -3,6 +3,8 @@ name: collecte
 on:
   schedule:
     - cron: "17 22 * * 6"   # samedi 23h17 à Paris (heure d'hiver), avant la tâche Claude du dimanche
+    - cron: "37 9 * * 0"    # dimanche 10h37, après la tâche : carte et suggestions à jour
+    - cron: "7 5 * * 1-5"   # chaque matin de semaine : suppressions apprises, carte à jour
   workflow_dispatch:
   push:
     branches: [main]
@@ -11,8 +13,6 @@ on:
       - "config/**"
       - "site/index.html"
       - "data/seed/**"
-      - "data/poids.json"
-      - "data/suggeres.json"
 
 permissions:
   contents: write
@@ -34,13 +34,17 @@ jobs:
           python-version: "3.12"
       - name: Collecte
         run: python collecte/collecte.py
+      - name: Relecture de l'agenda
+        env:
+          AGENDA_ICS: ${{ secrets.AGENDA_ICS }}
+        run: python collecte/agenda.py
       - name: Filtrage et shortlist
         run: python collecte/filtrer.py
       - name: Versionner la shortlist
         run: |
           git config user.name "sorties-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/shortlist.json
+          git add data/shortlist.json data/suggeres.json data/poids.json
           git diff --cached --quiet || { git commit -m "Shortlist $(date -u +%F)" && git pull --rebase && git push; }
       - name: Rapport
         run: cat data/brut/rapport.json

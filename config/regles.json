@@ -150,7 +150,9 @@
   "parents? ?/ ?enfants?",
   "\\bstage\\b",
   "\\bpour les tout-petits\\b",
-  "\\bheure du conte\\b"
+  "\\bheure du conte\\b",
+  "\\barchi-visite\\b",
+  "\\bvisites? (commentee|guidee|contee)s?\\b"
  ],
  "periodes_par_bucket": 3
 }
