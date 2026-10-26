@@ -143,6 +143,9 @@ def main():
         if not ok:
             stats["horaire"] += 1
             continue
+        if zone == "hors_paris" and not e["periode"] and dt.weekday() < 4:
+            stats["hors_paris_semaine"] += 1
+            continue
         ths = themes(norm(e["titre"] + " " + e["tags"]))
         sc = score(e, t, ths)
         forte = e["anticiper"] or any(f in norm(e["lieu"]) for f in R["lieux_forte_demande"])
