@@ -1,0 +1,23 @@
+{
+ "poids": {
+  "10": ["kafka", "tcheque", "prague", "expressionnis", "murnau", "fritz lang", "nosferatu", "cinema muet", "film muet", "cine-concert", "cine concert"],
+  "8": ["jazz", "piano", "recital", "zweig", "rilke", "balzac", "nouvelle vague tcheque", "forman", "menzel", "copie restauree", "version restauree", "retrospective"],
+  "6": ["bresson", "tati", "jacques demy", "godard", "truffaut", "resnais", "akerman", "ophuls", "bunuel", "pasolini", "rossellini", "de sica", "tarkovski", "ozu", "kurosawa", "kore-eda", "miyazaki", "takahata", "wong kar", "bong joon", "park chan", "hitchcock", "kubrick", "orson welles", "capra", "wyler", "scorsese", "coen", "jarmusch", "kaurismaki", "wenders", "herzog", "almodovar", "wes anderson", "lanthimos", "pawlikowski", "vinterberg", "buster keaton", "griffith", "stroheim", "eisenstein", "wegener", "musique de chambre", "quatuor", "orgue", "baroque", "opera", "symphoni", "bresil", "bossa", "samba", "choro", "peinture", "peintre", "vernissage"],
+  "4": ["concert", "lecture", "conference", "musiques du monde", "techno", "marche nocturne", "marche de noel", "marche de createurs", "chocolat", "torrefact", "bao", "street food", "cinema", "projection", "theatre", "exposition", "nocturne"],
+  "2": ["intelligence artificielle", "pop", "rap", "hip-hop", "danse", "cirque", "marionnette"]
+ },
+ "themes": {
+  "cinema": ["cinema", "film", "projection", "cine-concert", "cine concert", "retrospective", "seance", "avant-premiere"],
+  "jazz": ["jazz", "jam session", "swing", "bebop"],
+  "classique": ["piano", "recital", "quatuor", "musique de chambre", "orgue", "baroque", "symphoni", "orchestre", "opera", "classique"],
+  "concert": ["concert", "musique", "live", "musiques du monde", "bresil", "samba", "pop", "rap", "chanson"],
+  "techno": ["techno", "club", "dj set", "house", "electro"],
+  "expo": ["exposition", "expo", "vernissage", "galerie", "peinture", "musee", "nocturne"],
+  "theatre": ["theatre", "piece", "mise en scene", "seul en scene", "spectacle"],
+  "litterature": ["lecture", "poesie", "litterature", "kafka", "zweig", "rilke", "balzac"],
+  "talk": ["conference", "debat", "colloque", "seminaire", "table ronde", "rencontre"],
+  "marche-degustation": ["marche", "degustation", "chocolat", "cafe", "bao", "street food", "cuisine"],
+  "danse": ["danse", "ballet", "choregraph"],
+  "cirque": ["cirque", "marionnette", "acrobat"]
+ }
+}

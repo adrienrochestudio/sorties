@@ -1,0 +1,59 @@
+name: collecte
+
+on:
+  schedule:
+    - cron: "17 22 * * 6"   # samedi 23h17 à Paris (heure d'hiver), avant la tâche Claude du dimanche
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "collecte/**"
+      - "config/**"
+      - "site/index.html"
+      - "data/seed/**"
+      - "data/poids.json"
+      - "data/suggeres.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: true
+
+jobs:
+  construire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collecte
+        run: python collecte/collecte.py
+      - name: Filtrage et shortlist
+        run: python collecte/filtrer.py
+      - name: Versionner la shortlist
+        run: |
+          git config user.name "sorties-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/shortlist.json
+          git diff --cached --quiet || { git commit -m "Shortlist $(date -u +%F)" && git pull --rebase && git push; }
+      - name: Rapport
+        run: cat data/brut/rapport.json
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publier:
+    needs: construire
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - id: deploiement
+        uses: actions/deploy-pages@v4

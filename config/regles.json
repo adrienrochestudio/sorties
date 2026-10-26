@@ -1,0 +1,29 @@
+{
+ "horizon_semaines": 26,
+ "prix_max": 100,
+ "arrondissements": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 18, 19, 20],
+ "dispo": {
+  "lundi_jeudi_debut_min": "18:00",
+  "dimanche_fin_max": "18:00"
+ },
+ "rejets": [
+  "horreur", "slasher", "gore", "zombie",
+  "slam", "scene ouverte", "open mic",
+  "street art", "graffiti", "immersi", "photographi", "photographe",
+  "portes ouvertes", "atelier d'artiste", "modele vivant", "sculpture", "gravure", "serigraphie", "atelier d'ecriture",
+  "club de lecture", "salon du livre", "dedicace", "rencontre avec l'auteur", "rencontre avec l'autrice",
+  "degustation de vin", "oenolog", "biere", "whisky", "diner gastronomique",
+  "sport", "match", "marathon", "yoga", "fitness",
+  "visite guidee", "balade urbaine", "promenade guidee",
+  "jeune public", "des 3 ans", "des 4 ans", "des 5 ans", "des 6 ans", "pour les enfants", "en famille",
+  "goethe"
+ ],
+ "rejets_sauf": {"atelier": ["cuisine", "bao"]},
+ "lieux_favoris": ["institut suedois", "rotonde", "mk2 quai de loire", "mk2 quai de seine", "chapeau rouge", "chez adel"],
+ "lieux_connus": ["cinematheque", "seydoux", "philharmonie", "cite de la musique", "opera bastille", "maison de la poesie", "college de france", "ecole normale superieure", "sorbonne", "bnf", "forum des images", "gaite lyrique", "bourse de commerce", "orsay", "louvre", "mahj", "duc des lombards", "sunset", "sunside", "new morning", "baiser sale", "centre tcheque"],
+ "lieux_forte_demande": ["philharmonie", "opera bastille", "palais garnier", "opera garnier", "theatre des champs-elysees", "salle gaveau", "salle cortot", "new morning", "duc des lombards", "louvre", "orsay", "grand palais", "bourse de commerce", "cinematheque"],
+ "prix_bonus": {"gratuit": 4, "0-15": 3, "15-50": 0, "50-100": -3, "inconnu": -1},
+ "decouverte_part": 0.2,
+ "meme_lieu_jours": 21,
+ "meme_theme_par_semaine": 2
+}
