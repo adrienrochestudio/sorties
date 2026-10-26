@@ -2,11 +2,12 @@
 "genere": "2026-10-26",
 "stats": {
 "rejet": 1173,
-"retenu": 1998,
+"retenu": 1992,
 "hors_horizon": 275,
 "hors_zone": 681,
 "trop_cher": 71,
-"horaire": 193
+"horaire": 193,
+"hors_paris_semaine": 6
 },
 "buckets": [
 {
@@ -845,18 +846,18 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "2ef42641ea37",
-"t": "Janáček, Lettres intimes, Quatuor Bennewitz",
-"d": "mar 01/12 20:00",
-"l": "Salle Molière (Auditorium de Lyon) (Lyon)",
-"p": "10 €",
+"id": "dca3706c8a80",
+"t": "Cycle IA, démocraties et milieu informationnel",
+"d": "jeu 03/12 18:00",
+"l": "Théâtre de la Concorde (8e)",
+"p": "gratuit",
 "th": [
-"classique"
+"theatre",
+"talk"
 ],
-"sc": 19,
-"u": "https://www.auditorium-lyon.com/fr/saison-2026-27/musique-chambre/janacek-lettres-intimes",
-"ant": "ouverte",
-"train": "2h00"
+"sc": 18,
+"u": "https://www.paris.fr/evenements/cycle-ia-democraties-et-milieu-informationnel-103234",
+"r": "https://billetterie.theatredelaconcorde.paris/selection/event/date?productId=10229949112708"
 },
 {
 "id": "8ab6ae216f7b",
@@ -994,20 +995,6 @@
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
-{
-"id": "c35ef4d179c6",
-"t": "Viktoria Mullova et Alasdair Beatson, sonates de Beethoven",
-"d": "mar 15/12 20:00",
-"l": "Opéra de Dijon, Auditorium (Dijon)",
-"p": "5.5 €",
-"th": [
-"classique"
-],
-"sc": 17,
-"u": "https://www.opera-dijon.fr/fr/au-programme/calendrier/saison-26-27/viktoria-mullova-alasdair-beatson-1/",
-"ant": "ouverte",
-"train": "1h40"
-},
 {
 "id": "fb5d1f6f28a9",
 "t": "FEUX D'ARTIFICES | HAENDEL | MOZART",
@@ -1315,18 +1302,17 @@
 "ant": "ouverte"
 },
 {
-"id": "eac017f0cafd",
-"t": "Julie Fuchs, Je te veux",
-"d": "mer 07/04 20:00",
-"l": "Grand-Théâtre d'Angers (Angers Nantes Opéra) (Angers)",
-"p": "14 €",
+"id": "874c003a30f7",
+"t": "Fête du piano",
+"d": "dim 11/04 15:00",
+"l": "Cité de la musique, Salle des concerts (Paris)",
+"p": "11 €",
 "th": [
 "classique"
 ],
-"sc": 21,
-"u": "https://www.angers-nantes-opera.com/programmation/musique-en-scene/je-te-veux",
-"ant": "ouverte",
-"train": "1h30"
+"sc": 18,
+"u": "https://philharmoniedeparis.fr/fr/activite/musique-de-chambre/29463-fete-du-piano",
+"ant": "ouverte"
 },
 {
 "id": "ff40e806e2c4",
