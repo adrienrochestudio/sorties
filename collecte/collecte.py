@@ -248,6 +248,12 @@ def lieux():
 
 # ---------- Événements à anticiper ----------
 
+def prix_min(valeur):
+    """Plus petit montant d'une fourchette libre ("11-123", "38 à 205 €"), le tarif d'entrée."""
+    nombres = [float(x.replace(",", ".")) for x in re.findall(r"\d+(?:[.,]\d+)?", str(valeur or ""))]
+    return min(nombres) if nombres else None
+
+
 def anticiper():
     sortie = []
     for a in lire(DATA / "seed" / "anticiper.json", []):
@@ -259,7 +265,7 @@ def anticiper():
                           debut=d.isoformat(), fin=a.get("date_fin"), lieu=a.get("lieu", ""),
                           adresse=a.get("adresse", ""), ville=a.get("ville", "Paris"),
                           arr=arrondissement(a.get("adresse")), lat=a.get("lat"), lon=a.get("lon"),
-                          prix=prix_euros(f'{a.get("prix")} €'), gratuit=norm(a.get("prix")) == "gratuit",
+                          prix=prix_min(a.get("prix")), gratuit=norm(a.get("prix")) == "gratuit",
                           url=a.get("url", ""), tags=",".join(a.get("themes", [])), source="anticiper",
                           anticiper=True, categorie=a.get("categorie", ""),
                           periode=bool(a.get("date_fin") and a.get("date_fin") != a.get("date_debut"))))
