@@ -87,11 +87,14 @@ def qfap(depuis):
             lat=geo.get("lat"), lon=geo.get("lon"), gratuit=gratuit,
             prix=prix_euros(r.get("price_detail")), url=r.get("url") or "",
             resa=r.get("access_link") or "", tags=r.get("qfap_tags") or "", source="qfap")
-        occ = [o for o in occurrences(r.get("occurrences")) if o[0].date() >= depuis]
+        toutes = occurrences(r.get("occurrences"))
+        occ = [o for o in toutes if o[0].date() >= depuis]
         d0, d1 = parse_dt(r.get("date_start")), parse_dt(r.get("date_end"))
-        longue = bool(d0 and d1 and (d1 - d0).days > 7 and len(occ) > 6)
-        if occ and len(occ) <= 20 and not longue:
-            for d, f in occ:
+        etendue = (d1 - d0).days + 1 if d0 and d1 else 1
+        # Ouvert presque tous les jours (expo) = période ; rendez-vous espacés (jam du jeudi) = dates
+        continu = etendue > 7 and len({o[0].date() for o in toutes}) / etendue >= 0.4
+        if occ and not continu:
+            for d, f in occ[:4]:
                 sortie.append(evt(id=ident("qfap", r.get("id"), d.isoformat()), debut=d.isoformat(),
                                   fin=f.isoformat() if f else None, **base))
         else:

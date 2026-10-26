@@ -33,6 +33,9 @@ li.ant .t::after{content:"  à réserver tôt";color:var(--rouge);font-size:12px
 li.sug .t{color:var(--plaque)}
 .vide{color:var(--gris)}
 #carte{height:100%;background:var(--fond-carte)}
+.leaflet-tile-pane{filter:grayscale(.85) contrast(.95)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .leaflet-tile-pane{filter:grayscale(1) invert(1) brightness(.85) contrast(.9)}}
+:root[data-theme="dark"] .leaflet-tile-pane{filter:grayscale(1) invert(1) brightness(.85) contrast(.9)}
 .leaflet-popup-content{font:14px/1.4 "IBM Plex Sans",sans-serif}
 .leaflet-popup-content a{color:var(--plaque)}
 .legende{position:absolute;right:12px;bottom:22px;z-index:500;background:var(--papier);padding:8px 12px;font-size:12px;color:var(--gris)}
@@ -63,9 +66,8 @@ li.sug .t{color:var(--plaque)}
 const JOURS=["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
 const MOIS=["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
 const css=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
-const sombre=matchMedia("(prefers-color-scheme: dark)").matches;
 const carte=L.map("carte",{zoomControl:true}).setView([48.858,2.35],12);
-L.tileLayer(`https://{s}.basemaps.cartocdn.com/${sombre?"dark_all":"light_all"}/{z}/{x}/{y}{r}.png`,{maxZoom:19,attribution:'&copy; OpenStreetMap, &copy; CARTO'}).addTo(carte);
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(carte);
 const calque=L.layerGroup().addTo(carte);
 let tous=[],marqueurs={};
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
