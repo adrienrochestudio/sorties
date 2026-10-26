@@ -12,3 +12,15 @@ Suggestions de sorties à Paris pour l'agenda d'Adrien, avec le moins d'IA possi
 - `site/` : la carte, publiée sur GitHub Pages.
 
 Cycle : samedi soir, l'Action collecte et publie la shortlist ; dimanche matin, Claude choisit, vérifie et crée les événements, puis pousse `data/suggeres.json` et `data/poids.json`, ce qui relance la carte.
+
+## Exploitation
+
+- Tâche planifiée "Agenda sorties Paris" (dimanche 9h56, Sonnet) : lit `consignes/hebdo.md`, crée les sorties dans l'agenda, ne modifie rien dans le dépôt.
+- Action GitHub : samedi 23h17 (collecte), dimanche 10h37 et chaque matin de semaine (relecture de l'agenda, leçons, carte).
+- Secret GitHub `AGENDA_ICS` : adresse iCal secrète de l'agenda adrienrochestudio. Sans lui, pas de relecture d'agenda.
+- Fichier Drive "Agenda sorties - profils" : profils d'amis pour le quota 10 à 20 %.
+- Pour reprendre le projet dans une nouvelle conversation : "projet sorties, dépôt adrienrochestudio/sorties".
+
+## Historique
+
+- 26/10/2026 : refonte (base de données, courbe sur 6 mois, carte, relecture d'agenda). Agenda remis à zéro, `data/suggeres.json` vidé.
