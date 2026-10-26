@@ -1,12 +1,12 @@
 {
 "genere": "2026-10-26",
 "stats": {
-"rejet": 1116,
-"retenu": 1851,
-"hors_horizon": 193,
+"rejet": 1170,
+"retenu": 1813,
+"hors_horizon": 196,
 "hors_zone": 681,
 "trop_cher": 71,
-"horaire": 198
+"horaire": 193
 },
 "buckets": [
 {
@@ -138,19 +138,6 @@
 "u": "https://www.paris.fr/evenements/seminaire-france-suede-et-empire-ottoman-alliances-artistiques-113007"
 },
 {
-"id": "6ec1d95b1096",
-"t": "Venez jouer avec des jeux géants",
-"d": "ven 30/10 13:00",
-"l": "Médiathèque Virginia Woolf (13e)",
-"p": "gratuit",
-"th": [
-"autre"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/venez-jouer-avec-des-jeux-geants-124388",
-"dec": 1
-},
-{
 "id": "4620051f4bf2",
 "t": "Choeur Traditionnel Irlandais, Venu de Dublin",
 "d": "ven 30/10 15:00",
@@ -203,17 +190,31 @@
 "u": "https://www.paris.fr/evenements/petit-dejeuner-musical-voix-ce-que-tu-peux-faire-115024"
 },
 {
-"id": "4879c809fada",
-"t": "Bal des sorcières d'Halloween",
-"d": "sam 31/10 19:00",
-"l": " (Paris)",
-"p": "15 €",
+"id": "672eea87f20c",
+"t": "L'archi-visite",
+"d": "dim 01/11 15:00",
+"l": "Lafayette Anticipations (4e)",
+"p": "gratuit",
 "th": [
 "autre"
 ],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/bal-des-sorcieres-d-halloween-125806",
-"r": "http://ndseniors.free.fr",
+"sc": 4,
+"u": "https://www.paris.fr/evenements/l-archi-visite-126338",
+"r": "https://billetterie.lafayetteanticipations.com/l-archi-visite-visite-css5-lafayetteanticipationsweb-pg51-ei1136607.html",
+"dec": 1
+},
+{
+"id": "8d1b7c2d0ba6",
+"t": "Fête de la soupe au jardin partagé",
+"d": "dim 01/11 17:00",
+"l": "Jardin partagé (12e)",
+"p": "gratuit",
+"th": [
+"autre"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/fete-de-la-soupe-au-jardin-partage-118098",
+"r": "http://www.autourdelabaleine.fr",
 "dec": 1
 },
 {
@@ -281,20 +282,6 @@
 "r": "https://lemelville.fr/?p=6106"
 },
 {
-"id": "bbb703fa31e9",
-"t": "Mario Canonge et Michel Zenino – Duo jazz",
-"d": "mer 04/11 18:00",
-"l": "Le Baiser Salé (1e)",
-"p": "15 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115812",
-"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
-},
-{
 "id": "d80c7b236312",
 "t": "Lecture : Sous le regard de Stefan Zweig",
 "d": "mer 04/11 18:00",
@@ -307,6 +294,19 @@
 "sc": 16,
 "u": "https://www.paris.fr/evenements/lecture-sous-le-regard-de-stefan-zweig-124037",
 "r": "https://artistictheatre.com/sous-le-regard-de-stefan-zweig/"
+},
+{
+"id": "3afa910f49f6",
+"t": "Éléonore Langelier Quintet - « Jazz Loves Amy » A tribute to Amy Winehouse",
+"d": "mer 04/11 20:00",
+"l": "Le Baiser Salé (1e)",
+"p": "25 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 15,
+"u": "https://www.paris.fr/evenements/eleonore-langelier-quintet-jazz-loves-amy-a-tribute-to-amy-winehouse-125016"
 },
 {
 "id": "35de71155358",
@@ -508,20 +508,6 @@
 "r": "https://animravel.aniapp.fr/actualites/114"
 },
 {
-"id": "b9ed3bb427c0",
-"t": "Mario Canonge et Michel Zenino – Duo jazz",
-"d": "mer 11/11 18:00",
-"l": "Le Baiser Salé (1e)",
-"p": "15 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115812",
-"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
-},
-{
 "id": "d6911bacd448",
 "t": "Jean-Charles Acquaviva Trio",
 "d": "mer 11/11 19:30",
@@ -560,6 +546,20 @@
 ],
 "sc": 18,
 "u": "https://www.paris.fr/evenements/cafe-cine-l-histoire-de-la-science-fiction-88646"
+},
+{
+"id": "8ea0d0984752",
+"t": "#JazzDeDemain Lauriane Ludosky – Jazz Explorations",
+"d": "jeu 12/11 20:00",
+"l": "Le Baiser Salé (1e)",
+"p": "25 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 15,
+"u": "https://www.paris.fr/evenements/jazzdedemain-lauriane-ludosky-jazz-explorations-117671",
+"r": "https://www.billetweb.fr/jazzdedemain-jazzdedemain-lauriane-ludosky-jazz-explorations-lauriane-ludosky-tba3"
 },
 {
 "id": "49b8a0090d7f",
@@ -633,6 +633,19 @@
 "dec": 1
 },
 {
+"id": "7cb1f26c9afa",
+"t": "La gourmandise dans la peinture occidentale : une conférence savoureuse",
+"d": "sam 14/11 14:00",
+"l": "Bibliothèque Louise Walser-Gaillard (9e)",
+"p": "gratuit",
+"th": [
+"expo",
+"talk"
+],
+"sc": 14,
+"u": "https://www.paris.fr/evenements/la-gourmandise-dans-la-peinture-occidentale-une-conference-savoureuse-124116"
+},
+{
 "id": "cc1982d1d808",
 "t": "Henri Louis : Concert d'Unité - Classique et chanson",
 "d": "sam 14/11 19:00",
@@ -671,19 +684,6 @@
 ],
 "sc": 24,
 "u": "https://www.paris.fr/evenements/lucie-deroian-chant-corine-durous-piano-126246"
-},
-{
-"id": "e7a07c247882",
-"t": "Concert gratuit : Ukraine, trois siècles de musique",
-"d": "lun 16/11 19:30",
-"l": "Studio L'Accord Parfait (18e)",
-"p": "gratuit",
-"th": [
-"concert"
-],
-"sc": 22,
-"u": "https://www.paris.fr/evenements/concert-gratuit-ukraine-trois-siecles-de-musique-126005",
-"r": "https://www.billetweb.fr/terre-de-musiques-op-1-ukraine3"
 }
 ]
 },
@@ -772,20 +772,6 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "b65ebd5b2d59",
-"t": "Mario Canonge et Michel Zenino – Duo jazz",
-"d": "mer 25/11 18:00",
-"l": "Le Baiser Salé (1e)",
-"p": "15 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115812",
-"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
-},
-{
 "id": "83e65417ec90",
 "t": "La putain de performance",
 "d": "mer 25/11 19:30",
@@ -837,6 +823,19 @@
 ],
 "sc": 24,
 "u": "https://www.paris.fr/evenements/recital-musical-etty-rilke-une-quete-d-absolu-126527"
+},
+{
+"id": "32d30f57d0b3",
+"t": "Concert Nous Sommes le Vent par l'harmonie de La Sirène et Hormê",
+"d": "dim 29/11 15:00",
+"l": "Conservatoire Municipal Darius Milhaud (14e)",
+"p": "gratuit",
+"th": [
+"concert"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/concert-nous-sommes-le-vent-par-l-harmonie-de-la-sirene-et-horme-115885",
+"r": "https://www.helloasso.com/associations/la-sirene-de-paris/evenements/nous-sommes-le-vent-concert-harmonie"
 }
 ]
 },
@@ -847,20 +846,6 @@
 "cible": 1,
 "mode": "moyen",
 "candidats": [
-{
-"id": "468127484cc1",
-"t": "Mario Canonge et Michel Zenino – DUO JAZZ",
-"d": "mer 02/12 18:00",
-"l": "Le Baiser Salé (1e)",
-"p": "15 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115810",
-"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
-},
 {
 "id": "dca3706c8a80",
 "t": "Cycle IA, démocraties et milieu informationnel",
@@ -874,6 +859,19 @@
 "sc": 18,
 "u": "https://www.paris.fr/evenements/cycle-ia-democraties-et-milieu-informationnel-103234",
 "r": "https://billetterie.theatredelaconcorde.paris/selection/event/date?productId=10229949112708"
+},
+{
+"id": "7587c1392673",
+"t": "À l’œuvre : Mariam The Believer",
+"d": "jeu 03/12 18:00",
+"l": "Institut Suédois (3e)",
+"p": "gratuit",
+"th": [
+"concert"
+],
+"sc": 18,
+"u": "https://www.paris.fr/evenements/a-l-oeuvre-mariam-the-believer-126336",
+"r": "https://paris.si.se/agenda/a-loeuvre-mariam-the-believer/"
 },
 {
 "id": "58c9492a26ce",
@@ -925,18 +923,18 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "768026e57469",
-"t": "Mario Canonge et Michel Zenino – DUO JAZZ",
-"d": "mer 09/12 18:00",
+"id": "815b44391d37",
+"t": "#JazzDeDemain #LaPetiteHeure by… Le Ninon Valder Ensemble",
+"d": "jeu 10/12 18:00",
 "l": "Le Baiser Salé (1e)",
-"p": "15 €",
+"p": "13 €",
 "th": [
 "jazz",
 "concert"
 ],
 "sc": 18,
-"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115810",
-"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
+"u": "https://www.paris.fr/evenements/jazzdedemain-lapetiteheure-by-le-ninon-valder-ensemble-116677",
+"r": "https://www.billetweb.fr/bo/lists.php?type=promo"
 },
 {
 "id": "5874af3b30c3",
