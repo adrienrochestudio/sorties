@@ -1,12 +1,12 @@
 {
 "genere": "2026-10-26",
 "stats": {
-"rejet": 1656,
-"retenu": 2789,
-"hors_horizon": 326,
-"hors_zone": 973,
-"trop_cher": 99,
-"horaire": 387
+"rejet": 1116,
+"retenu": 1851,
+"hors_horizon": 193,
+"hors_zone": 681,
+"trop_cher": 71,
+"horaire": 198
 },
 "buckets": [
 {
@@ -23,7 +23,6 @@
 "l": "Musée d'Art et d'Histoire du Judaïsme (4e)",
 "p": "5 €",
 "th": [
-"cinema",
 "expo"
 ],
 "sc": 30,
@@ -32,31 +31,31 @@
 "pe": 1
 },
 {
-"id": "c95a77e6313b",
-"t": "Monet, peindre le temps",
-"d": "mar 27/10 > 25/01",
-"l": "Musée de l'Orangerie (1e)",
-"p": "12.5 €",
-"th": [
-"concert",
-"expo"
-],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/monet-peindre-le-temps-116716",
-"r": "https://www.musee-orangerie.fr/fr/programme/agenda/expositions/monet-peindre-le-temps",
-"pe": 1
-},
-{
-"id": "a89cb8a54a82",
-"t": "Yu Nishimura Towards a Sea",
-"d": "mar 27/10 > 03/01",
-"l": "Lafayette Anticipations (4e)",
+"id": "e77927da1d75",
+"t": "Exposition Pablo Flaiszman à la galerie Christian Collin",
+"d": "mar 27/10 > 06/11",
+"l": "Galerie Christian Collin (2e)",
 "p": "gratuit",
 "th": [
 "expo"
 ],
-"sc": 17,
-"u": "https://www.paris.fr/evenements/yu-nishimura-towards-a-sea-116990",
+"sc": 25,
+"u": "https://www.paris.fr/evenements/exposition-pablo-flaiszman-a-la-galerie-christian-collin-126086",
+"pe": 1
+},
+{
+"id": "ae1a7ced2d95",
+"t": "Les lundis jazz manouche du Piano Vache",
+"d": "mar 27/10 > 15/12",
+"l": "Le Piano Vache (5e)",
+"p": "gratuit",
+"th": [
+"jazz",
+"classique"
+],
+"sc": 21,
+"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
+"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver",
 "pe": 1
 },
 {
@@ -74,32 +73,32 @@
 "dec": 1
 },
 {
-"id": "4352689a9b02",
-"t": "#JazzDeDemain Arlet Feuillard & The Syntest Quintet",
-"d": "jeu 29/10 18:00",
+"id": "9f6afdec8efa",
+"t": "Mario Canonge et Michel Zenino – DUO JAZZ",
+"d": "mer 28/10 18:00",
 "l": "Le Baiser Salé (1e)",
-"p": "9 €",
+"p": "15 €",
 "th": [
 "jazz",
 "concert"
 ],
 "sc": 18,
-"u": "https://www.paris.fr/evenements/jazzdedemain-arlet-feuillard-the-syntest-quintet-116223",
-"r": "https://www.lebaisersale.com/fr/agenda/5962-jazzdedemain-arlet-feuillard-the-syntest-quintet"
+"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115813",
+"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
 {
-"id": "fe6d3718b4a8",
-"t": "Lecture musicale Mary Lou Williams, little piano girl, Dès 7 ans au 38Riv",
-"d": "jeu 29/10 19:30",
+"id": "98f87ff268db",
+"t": "Carte blanche à Camille Bertault, Jazz & compositions au 38Riv Jazz Club",
+"d": "jeu 29/10 18:30",
 "l": "38Riv Jazz Club (4e)",
-"p": "13 €",
+"p": "24 €",
 "th": [
 "jazz",
-"classique"
+"concert"
 ],
-"sc": 27,
-"u": "https://www.paris.fr/evenements/lecture-musicale-mary-lou-williams-little-piano-girl-des-7-ans-au-38riv-117400",
-"r": "https://38riv.com/concerts/lecture-musicale-mary-lou-williams-little-piano-girl"
+"sc": 18,
+"u": "https://www.paris.fr/evenements/carte-blanche-a-camille-bertault-jazz-compositions-au-38riv-jazz-club-118423",
+"r": "https://38riv.com/concerts/carte-blanche-camille-bertault-1"
 },
 {
 "id": "ff174bcdf47a",
@@ -114,16 +113,16 @@
 "u": "https://www.paris.fr/evenements/seremos-fuego-118287"
 },
 {
-"id": "bbada48be8d9",
-"t": "Exposition Pascal Pichon : \"Ce qui demeure\".",
-"d": "ven 30/10 09:30",
-"l": "galerie les montparnos (6e)",
+"id": "362ddb30ea30",
+"t": "VERNISSAGE - Exposition \"Coup de soleil\" - Laety Des et Mélanie Cot",
+"d": "ven 30/10 09:00",
+"l": "Centre Paris Anim' Wangari Muta Maathai (20e)",
 "p": "gratuit",
 "th": [
 "expo"
 ],
-"sc": 20,
-"u": "https://www.paris.fr/evenements/exposition-pascal-pichon-ce-qui-demeure-123702"
+"sc": 14,
+"u": "https://www.paris.fr/evenements/vernissage-exposition-la-marque-de-juliette-jacobs-118273"
 },
 {
 "id": "b16d5b3754c8",
@@ -139,44 +138,30 @@
 "u": "https://www.paris.fr/evenements/seminaire-france-suede-et-empire-ottoman-alliances-artistiques-113007"
 },
 {
-"id": "68111491e47f",
-"t": "Exposition Pablo Flaiszman à la galerie Christian Collin",
-"d": "ven 30/10 12:00",
-"l": "Galerie Christian Collin (2e)",
+"id": "6ec1d95b1096",
+"t": "Venez jouer avec des jeux géants",
+"d": "ven 30/10 13:00",
+"l": "Médiathèque Virginia Woolf (13e)",
 "p": "gratuit",
 "th": [
-"cinema",
-"expo"
+"autre"
 ],
-"sc": 28,
-"u": "https://www.paris.fr/evenements/exposition-pablo-flaiszman-a-la-galerie-christian-collin-126086"
-},
-{
-"id": "e9012b80dfe7",
-"t": "Stage vacances d'automne - Cirque parent/enfant",
-"d": "ven 30/10 14:30",
-"l": "Centre Paris Anim' Wangari Muta Maathai (20e)",
-"p": "13.9 €",
-"th": [
-"cirque"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/stage-vacances-d-automne-cirque-parent-enfant-au-centre-paris-anim-wangari-116739",
+"sc": 4,
+"u": "https://www.paris.fr/evenements/venez-jouer-avec-des-jeux-geants-124388",
 "dec": 1
 },
 {
-"id": "3f116b6f5267",
-"t": "Bals d'époque de l'Hôtel de la Marine",
-"d": "ven 30/10 16:30",
-"l": "Hôtel de la Marine (8e)",
-"p": "9 €",
+"id": "4620051f4bf2",
+"t": "Choeur Traditionnel Irlandais, Venu de Dublin",
+"d": "ven 30/10 15:00",
+"l": "église St Philippe du Roule (8e)",
+"p": "gratuit",
 "th": [
-"danse"
+"concert"
 ],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/bals-d-epoque-de-l-hotel-de-la-marine-124091",
-"r": "https://www.hotel-de-la-marine.paris/agenda/bals-d-epoque-de-l-hotel-de-la-marine",
-"dec": 1
+"sc": 14,
+"u": "https://www.paris.fr/evenements/choeur-traditionnel-irlandais-venu-de-dublin-126006",
+"r": "https://www.eventbrite.fr/e/2003355197324?aff=oddtdtcreator"
 },
 {
 "id": "1a7ae9407453",
@@ -185,7 +170,6 @@
 "l": "Centre Paris Anim' Annie Fratellini (ex Villiot Rapée) (12e)",
 "p": "gratuit",
 "th": [
-"concert",
 "expo"
 ],
 "sc": 6,
@@ -194,18 +178,43 @@
 "dec": 1
 },
 {
-"id": "2633effecbd4",
-"t": "Le dispositif Relax : séances et représentations accessibles avec ou sans handicap toute l'année !",
-"d": "sam 31/10 13:00",
-"l": "UGC Ciné Cité Paris 19ème (19e)",
-"p": "4 €",
+"id": "4b08fc0e20cc",
+"t": "Cookin' With Dexter Gordon",
+"d": "ven 30/10 20:00",
+"l": "Le Melville (8e)",
+"p": "10 €",
 "th": [
-"cinema",
-"classique"
+"concert"
 ],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/le-dispositif-relax-seances-et-representations-accessibles-avec-ou-sans-handicap-toute-l-annee-65962",
-"r": "https://culture-relax.org/"
+"sc": 15,
+"u": "https://www.paris.fr/evenements/cookin-with-dexter-gordon-114881",
+"r": "https://lemelville.fr/?p=6056"
+},
+{
+"id": "d032869ac003",
+"t": "Petit déjeuner musical - Voix, ce que tu peux faire !",
+"d": "sam 31/10 10:00",
+"l": "Médiathèque Jean-Pierre Melville (13e)",
+"p": "gratuit",
+"th": [
+"talk"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/petit-dejeuner-musical-voix-ce-que-tu-peux-faire-115024"
+},
+{
+"id": "4879c809fada",
+"t": "Bal des sorcières d'Halloween",
+"d": "sam 31/10 19:00",
+"l": " (Paris)",
+"p": "15 €",
+"th": [
+"autre"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/bal-des-sorcieres-d-halloween-125806",
+"r": "http://ndseniors.free.fr",
+"dec": 1
 },
 {
 "id": "dd5b9657ae72",
@@ -219,20 +228,6 @@
 ],
 "sc": 17,
 "u": "https://www.paris.fr/evenements/etats-sensibles-2-performance-de-peinture-live-piano-improvise-123386"
-},
-{
-"id": "769721aec77a",
-"t": "Les lundis jazz manouche du Piano Vache",
-"d": "lun 02/11 20:00",
-"l": "Le Piano Vache (5e)",
-"p": "gratuit",
-"th": [
-"jazz",
-"classique"
-],
-"sc": 24,
-"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
 }
 ]
 },
@@ -244,14 +239,28 @@
 "mode": "proche",
 "candidats": [
 {
+"id": "763e54cd7d2a",
+"t": "Exposition Portraits de Résistantes : Mémoire et Liberté au Centre Paris Anim' Maurice Ravel",
+"d": "mar 03/11 > 26/11",
+"l": "Centre Paris Anim' Maurice Ravel (12e)",
+"p": "gratuit",
+"th": [
+"expo",
+"talk"
+],
+"sc": 15,
+"u": "https://www.paris.fr/evenements/exposition-portraits-de-resistantes-memoire-et-liberte-au-centre-paris-anim-maurice-ravel-126017",
+"pe": 1
+},
+{
 "id": "c75e04c43c97",
 "t": "Spectacle « Trad Now » - Sun-A Lee x Kim Joohong / Yunbyul Ballet Company",
 "d": "mar 03/11 18:00",
 "l": "Centre Culturel Coréen (8e)",
 "p": "gratuit",
 "th": [
-"concert",
-"theatre"
+"theatre",
+"danse"
 ],
 "sc": 6,
 "u": "https://www.paris.fr/evenements/spectacle-trad-now-sun-a-lee-x-kim-joohong-yunbyul-ballet-company-123112",
@@ -265,7 +274,6 @@
 "l": "Le Melville (8e)",
 "p": "10 €",
 "th": [
-"jazz",
 "concert"
 ],
 "sc": 17,
@@ -287,6 +295,20 @@
 "r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
 {
+"id": "d80c7b236312",
+"t": "Lecture : Sous le regard de Stefan Zweig",
+"d": "mer 04/11 18:00",
+"l": "Théâtre Artistic Athévains (11e)",
+"p": "35 €",
+"th": [
+"theatre",
+"litterature"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/lecture-sous-le-regard-de-stefan-zweig-124037",
+"r": "https://artistictheatre.com/sous-le-regard-de-stefan-zweig/"
+},
+{
 "id": "35de71155358",
 "t": "[Concert] - The Sounds of Revolution: America 250 in Opera",
 "d": "jeu 05/11 18:00",
@@ -301,72 +323,18 @@
 "r": "https://www.helloasso.com/associations/fondation-des-etats-unis/evenements/concert-the-sounds-of-revolution-ameria-250-in-opera"
 },
 {
-"id": "7230ce59cfc6",
-"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
-"d": "jeu 05/11 22:00",
-"l": "38Riv (4e)",
-"p": "9 €",
+"id": "774aa0bf2706",
+"t": "Breque - Lisa Biscaro Balle",
+"d": "jeu 05/11 19:00",
+"l": "Le Regard du Cygne (20e)",
+"p": "11 €",
 "th": [
-"jazz",
-"classique"
-],
-"sc": 23,
-"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
-"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
-},
-{
-"id": "1167c67222d5",
-"t": "Exposition Pascal Pichon : \"Ce qui demeure\".",
-"d": "ven 06/11 09:30",
-"l": "galerie les montparnos (6e)",
-"p": "gratuit",
-"th": [
-"expo"
-],
-"sc": 20,
-"u": "https://www.paris.fr/evenements/exposition-pascal-pichon-ce-qui-demeure-123702"
-},
-{
-"id": "26f04d52645f",
-"t": "expo \"pluriel·le·s\"",
-"d": "ven 06/11 11:00",
-"l": "Centre Paris Anim' Annie Fratellini (ex Villiot Rapée) (12e)",
-"p": "gratuit",
-"th": [
-"concert",
-"expo"
-],
-"sc": 6,
-"u": "https://www.paris.fr/evenements/expo-pluriel-le-s-126025",
-"r": "www.claje.asso.fr",
-"dec": 1
-},
-{
-"id": "1da4329aad30",
-"t": "Exposition Pablo Flaiszman à la galerie Christian Collin",
-"d": "ven 06/11 12:00",
-"l": "Galerie Christian Collin (2e)",
-"p": "gratuit",
-"th": [
-"cinema",
-"expo"
-],
-"sc": 28,
-"u": "https://www.paris.fr/evenements/exposition-pablo-flaiszman-a-la-galerie-christian-collin-126086"
-},
-{
-"id": "81699f2eb523",
-"t": "Les bals de Sangnier",
-"d": "ven 06/11 13:30",
-"l": "Centre Paris Anim' Marc Sangnier (14e)",
-"p": "gratuit",
-"th": [
+"talk",
 "danse"
 ],
-"sc": 6,
-"u": "https://www.paris.fr/evenements/the-dansant-123031",
-"r": "https://marcsangnier.aniapp.fr",
-"dec": 1
+"sc": 15,
+"u": "https://www.paris.fr/evenements/breque-lisa-biscaro-balle-117331",
+"r": "https://leregardducygne.mapado.com/event/795238-breque-lisa-biscaro-balle-compagnie-lalaia"
 },
 {
 "id": "7f1e6d534d75",
@@ -375,12 +343,25 @@
 "l": "Auditorium de l'Hôpital Bretonneau (18e)",
 "p": "gratuit",
 "th": [
-"classique",
 "concert"
 ],
 "sc": 22,
 "u": "https://www.paris.fr/evenements/concert-gratuit-ukraine-trois-siecles-de-musique-126184",
 "r": "https://www.billetweb.fr/terre-de-musiques-op-1-ukraine"
+},
+{
+"id": "787e8da42966",
+"t": "Projection - lecture - signature autour du film « À jamais »",
+"d": "ven 06/11 18:30",
+"l": "La Table des Matières (14e)",
+"p": "gratuit",
+"th": [
+"cinema",
+"litterature"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/projection-lecture-signature-autour-du-film-a-jamais-126236",
+"r": "https://www.latabledesmatieres.org/evenements/"
 },
 {
 "id": "cb137c2d2313",
@@ -402,7 +383,6 @@
 "l": "Bibliothèque Amélie (7e)",
 "p": "gratuit",
 "th": [
-"litterature",
 "danse"
 ],
 "sc": 6,
@@ -417,25 +397,51 @@
 "p": "gratuit",
 "th": [
 "jazz",
-"classique"
+"theatre"
 ],
 "sc": 24,
 "u": "https://www.paris.fr/evenements/aperoduke-mary-lou-williams-au-coeur-de-l-histoire-du-jazz-par-leila-olivesi-103757",
 "r": "https://www.helloasso.com/associations/la-maison-du-duke/evenements/mary-lou-williams-2eme-partie"
 },
 {
-"id": "abb6aa618f33",
-"t": "Le dispositif Relax : séances et représentations accessibles avec ou sans handicap toute l'année !",
-"d": "sam 07/11 13:00",
-"l": "UGC Ciné Cité Paris 19ème (19e)",
-"p": "4 €",
+"id": "f372d1bd2aa2",
+"t": "10 ans de LIMBO",
+"d": "sam 07/11 12:30",
+"l": "Le Consulat Voltaire (11e)",
+"p": "gratuit",
 "th": [
-"cinema",
-"classique"
+"autre"
 ],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/le-dispositif-relax-seances-et-representations-accessibles-avec-ou-sans-handicap-toute-l-annee-65962",
-"r": "https://culture-relax.org/"
+"sc": 4,
+"u": "https://www.paris.fr/evenements/journee-evenement-10-ans-de-limbo-125377",
+"r": "https://www.helloasso.com/associations/limbo/evenements/10-ans-de-limbo-7-novembre-2026-a-paris-2",
+"dec": 1
+},
+{
+"id": "5e760411916b",
+"t": "J'ai un coup de cœur… et vous ?",
+"d": "sam 07/11 15:00",
+"l": "Bibliothèque Louise Walser-Gaillard (9e)",
+"p": "gratuit",
+"th": [
+"litterature"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/j-ai-un-coup-de-coeur-et-vous-117276",
+"dec": 1
+},
+{
+"id": "00c807cfd8d5",
+"t": "Rencontre avec Thibault Lafargue",
+"d": "sam 07/11 17:00",
+"l": "Bibliothèque Rainer Maria Rilke (5e)",
+"p": "gratuit",
+"th": [
+"litterature",
+"talk"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/rencontre-avec-thibault-lafargue-125503"
 },
 {
 "id": "efc60f95380c",
@@ -444,26 +450,11 @@
 "l": "Eglise Saint Étienne du Mont (5e)",
 "p": "10 €",
 "th": [
-"classique",
 "concert"
 ],
 "sc": 19,
 "u": "https://www.paris.fr/evenements/concert-florilege-de-choeurs-sacres-7-nov-2026-125957",
 "r": "https://www.helloasso.com/associations/choeur-et-orchestre-symphonique-de-paris/evenements/concert-florilege-de-choeurs-sacres-7-nov-2026"
-},
-{
-"id": "208c0a6f23a0",
-"t": "Les lundis jazz manouche du Piano Vache",
-"d": "lun 09/11 20:00",
-"l": "Le Piano Vache (5e)",
-"p": "gratuit",
-"th": [
-"jazz",
-"classique"
-],
-"sc": 24,
-"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
 }
 ]
 },
@@ -475,18 +466,46 @@
 "mode": "proche",
 "candidats": [
 {
+"id": "509d70cdcff8",
+"t": "soyez nos voix - exposition transfrontaliere et itinérante",
+"d": "mar 10/11 > 01/12",
+"l": "Maison de la Vie Associative et Citoyenne du 14e arrondissement (14e)",
+"p": "gratuit",
+"th": [
+"expo",
+"talk"
+],
+"sc": 15,
+"u": "https://www.paris.fr/evenements/soyez-nos-voix-exposition-transfrontaliere-et-itinerante-126158",
+"pe": 1
+},
+{
 "id": "04ee5f1bc01a",
 "t": "Peacock dreams | Abdullah Miniawy (trio)",
 "d": "mar 10/11 18:00",
 "l": "Réfectoire des Cordeliers (6e)",
 "p": "gratuit",
 "th": [
-"jazz",
-"concert"
+"concert",
+"theatre"
 ],
 "sc": 16,
 "u": "https://www.paris.fr/evenements/peacock-dreams-abdullah-miniawy-trio-125901",
 "r": "https://billetterie-culture.u-pariscite.fr/event/798164-peacock-dreams-abdullah-miniawy-trio"
+},
+{
+"id": "4d288e1a7036",
+"t": "Soirée jeunes talents queer",
+"d": "mar 10/11 18:30",
+"l": "Centre Paris Anim' Maurice Ravel (12e)",
+"p": "gratuit",
+"th": [
+"concert",
+"danse"
+],
+"sc": 14,
+"u": "https://www.paris.fr/evenements/soiree-jeunes-talents-queer-126494",
+"r": "https://animravel.aniapp.fr/actualites/114"
 },
 {
 "id": "b9ed3bb427c0",
@@ -509,12 +528,25 @@
 "l": "Le Melville (8e)",
 "p": "10 €",
 "th": [
-"jazz",
 "concert"
 ],
 "sc": 15,
 "u": "https://www.paris.fr/evenements/jean-charles-acquaviva-trio-116285",
 "r": "https://lemelville.fr/?p=6439"
+},
+{
+"id": "efba594ad3a4",
+"t": "Conférence Sonia Delaunay",
+"d": "jeu 12/11 18:00",
+"l": "Bibliothèque Amélie (7e)",
+"p": "gratuit",
+"th": [
+"expo",
+"talk"
+],
+"sc": 14,
+"u": "https://www.paris.fr/evenements/conference-artora-sonia-delaunay-108261",
+"r": "https://artora.fr/"
 },
 {
 "id": "7ead114a29ff",
@@ -528,20 +560,6 @@
 ],
 "sc": 18,
 "u": "https://www.paris.fr/evenements/cafe-cine-l-histoire-de-la-science-fiction-88646"
-},
-{
-"id": "a7918d4a6270",
-"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
-"d": "jeu 12/11 22:00",
-"l": "38Riv (4e)",
-"p": "9 €",
-"th": [
-"jazz",
-"classique"
-],
-"sc": 23,
-"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
-"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
 },
 {
 "id": "49b8a0090d7f",
@@ -593,8 +611,8 @@
 "l": "Médiathèque Marguerite Duras (20e)",
 "p": "gratuit",
 "th": [
-"classique",
-"concert"
+"concert",
+"theatre"
 ],
 "sc": 16,
 "u": "https://www.paris.fr/evenements/pauline-mann-en-concert-118498",
@@ -615,31 +633,18 @@
 "dec": 1
 },
 {
-"id": "698232a0258d",
-"t": "soyez nos voix - exposition transfrontaliere et itinérante",
-"d": "sam 14/11 10:00",
-"l": "Maison de la Vie Associative et Citoyenne du 14e arrondissement (14e)",
-"p": "gratuit",
+"id": "cc1982d1d808",
+"t": "Henri Louis : Concert d'Unité - Classique et chanson",
+"d": "sam 14/11 19:00",
+"l": "Fontaine Culture (11e)",
+"p": "25 €",
 "th": [
-"expo",
-"talk"
+"classique",
+"concert"
 ],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/soyez-nos-voix-exposition-transfrontaliere-et-itinerante-126158"
-},
-{
-"id": "c6ae64120913",
-"t": "Le dispositif Relax : séances et représentations accessibles avec ou sans handicap toute l'année !",
-"d": "sam 14/11 13:00",
-"l": "UGC Ciné Cité Paris 19ème (19e)",
-"p": "4 €",
-"th": [
-"cinema",
-"classique"
-],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/le-dispositif-relax-seances-et-representations-accessibles-avec-ou-sans-handicap-toute-l-annee-65962",
-"r": "https://culture-relax.org/"
+"sc": 14,
+"u": "https://www.paris.fr/evenements/henri-louis-concert-d-unite-classique-et-chanson-126081",
+"r": "https://www.billetweb.fr/henri-louis"
 },
 {
 "id": "97144578a9f4",
@@ -648,8 +653,7 @@
 "l": "Conservatoire Darius Milhaud (14e)",
 "p": "gratuit",
 "th": [
-"theatre",
-"litterature"
+"cirque"
 ],
 "sc": 6,
 "u": "https://www.paris.fr/evenements/cirque-sham-125545",
@@ -675,26 +679,11 @@
 "l": "Studio L'Accord Parfait (18e)",
 "p": "gratuit",
 "th": [
-"classique",
 "concert"
 ],
 "sc": 22,
 "u": "https://www.paris.fr/evenements/concert-gratuit-ukraine-trois-siecles-de-musique-126005",
 "r": "https://www.billetweb.fr/terre-de-musiques-op-1-ukraine3"
-},
-{
-"id": "52fc3a2365bc",
-"t": "Les lundis jazz manouche du Piano Vache",
-"d": "lun 16/11 20:00",
-"l": "Le Piano Vache (5e)",
-"p": "gratuit",
-"th": [
-"jazz",
-"classique"
-],
-"sc": 24,
-"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
 }
 ]
 },
@@ -726,7 +715,6 @@
 "l": "Le Baiser Salé (1e)",
 "p": "13 €",
 "th": [
-"jazz",
 "concert"
 ],
 "sc": 24,
@@ -734,47 +722,45 @@
 "r": "https://www.billetweb.fr/thierry-p-ala-v-rioca-lherm-les-20-ans-du-duo-thierry-peala-verioca-lherm-roberto-de-olivei"
 },
 {
-"id": "b6cbfb0c88bd",
-"t": "expo \"pluriel·le·s\"",
-"d": "ven 20/11 11:00",
-"l": "Centre Paris Anim' Annie Fratellini (ex Villiot Rapée) (12e)",
-"p": "gratuit",
-"th": [
-"concert",
-"expo"
-],
-"sc": 6,
-"u": "https://www.paris.fr/evenements/expo-pluriel-le-s-126025",
-"r": "www.claje.asso.fr",
-"dec": 1
-},
-{
-"id": "b001ddc327be",
-"t": "Le dispositif Relax : séances et représentations accessibles avec ou sans handicap toute l'année !",
-"d": "sam 21/11 13:00",
-"l": "UGC Ciné Cité Paris 19ème (19e)",
-"p": "4 €",
-"th": [
-"cinema",
-"classique"
-],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/le-dispositif-relax-seances-et-representations-accessibles-avec-ou-sans-handicap-toute-l-annee-65962",
-"r": "https://culture-relax.org/"
-},
-{
-"id": "7168ed834e0c",
-"t": "Les lundis jazz manouche du Piano Vache",
-"d": "lun 23/11 20:00",
-"l": "Le Piano Vache (5e)",
+"id": "51c85db9b798",
+"t": "JAZZ : Master Class Steve Potts et concert",
+"d": "ven 20/11 14:00",
+"l": "Conservatoire Municipal Charles Munch (11e)",
 "p": "gratuit",
 "th": [
 "jazz",
-"classique"
+"concert"
 ],
-"sc": 24,
-"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
+"sc": 20,
+"u": "https://www.paris.fr/evenements/jazz-master-class-steve-potts-et-concert-126161"
+},
+{
+"id": "0f130ac592f8",
+"t": "Jake Sherman en concert au 38Riv Jazz Club",
+"d": "lun 23/11 18:30",
+"l": "38Riv Jazz Club (4e)",
+"p": "19 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 20,
+"u": "https://www.paris.fr/evenements/jake-sherman-en-concert-au-38riv-jazz-club-125759",
+"r": "https://38riv.com/concerts/jake-sherman"
+},
+{
+"id": "b9d7b14e3ff7",
+"t": "Soirée partagée : Yasminee Lepe & Delphine Mothes",
+"d": "lun 23/11 19:00",
+"l": "Le Regard du Cygne (20e)",
+"p": "11 €",
+"th": [
+"danse"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/soiree-partagee-yasminee-lepe-delphine-mothes-117339",
+"r": "https://leregardducygne.mapado.com/event/795686-soiree-partagee-under-my-blood-volet-i-variation-pour-un-corps-de-yasminee-lepe-et-natures-petite-forme-de-delphine-mothes",
+"dec": 1
 }
 ]
 },
@@ -786,33 +772,45 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "969a2aa541e9",
-"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
-"d": "jeu 26/11 22:00",
-"l": "38Riv (4e)",
-"p": "9 €",
+"id": "b65ebd5b2d59",
+"t": "Mario Canonge et Michel Zenino – Duo jazz",
+"d": "mer 25/11 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "15 €",
 "th": [
 "jazz",
-"classique"
+"concert"
 ],
-"sc": 23,
-"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
-"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
+"sc": 18,
+"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115812",
+"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
 {
-"id": "de9877888bd6",
-"t": "expo \"pluriel·le·s\"",
-"d": "ven 27/11 11:00",
-"l": "Centre Paris Anim' Annie Fratellini (ex Villiot Rapée) (12e)",
+"id": "83e65417ec90",
+"t": "La putain de performance",
+"d": "mer 25/11 19:30",
+"l": "Cirque Electrique (20e)",
+"p": "14 €",
+"th": [
+"cirque"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/la-putain-de-performance-117469",
+"r": "https://www.helloasso.com/associations/compagnie-mona-lisa",
+"dec": 1
+},
+{
+"id": "7ccc4692716c",
+"t": "Table ronde Jazzwomen | Festival Monte le son 2026 \"Ô féminins\"",
+"d": "jeu 26/11 18:00",
+"l": "Médiathèque musicale de Paris – Christiane Eda-Pierre (1e)",
 "p": "gratuit",
 "th": [
-"concert",
-"expo"
+"jazz",
+"talk"
 ],
-"sc": 6,
-"u": "https://www.paris.fr/evenements/expo-pluriel-le-s-126025",
-"r": "www.claje.asso.fr",
-"dec": 1
+"sc": 16,
+"u": "https://www.paris.fr/evenements/les-40-ans-de-l-album-tutu-conference-par-vincent-cotro-cycle-miles-davis-123665"
 },
 {
 "id": "0486c170482a",
@@ -839,20 +837,6 @@
 ],
 "sc": 24,
 "u": "https://www.paris.fr/evenements/recital-musical-etty-rilke-une-quete-d-absolu-126527"
-},
-{
-"id": "4afd0da26098",
-"t": "Les lundis jazz manouche du Piano Vache",
-"d": "lun 30/11 20:00",
-"l": "Le Piano Vache (5e)",
-"p": "gratuit",
-"th": [
-"jazz",
-"classique"
-],
-"sc": 24,
-"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
 }
 ]
 },
@@ -864,46 +848,59 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "b5b116c760e2",
-"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
-"d": "jeu 03/12 22:00",
-"l": "38Riv (4e)",
-"p": "9 €",
+"id": "468127484cc1",
+"t": "Mario Canonge et Michel Zenino – DUO JAZZ",
+"d": "mer 02/12 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "15 €",
 "th": [
 "jazz",
-"classique"
+"concert"
 ],
-"sc": 23,
-"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
-"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
+"sc": 18,
+"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115810",
+"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
 {
-"id": "86fdd1a6ef30",
-"t": "Les bals de Sangnier",
-"d": "ven 04/12 13:30",
-"l": "Centre Paris Anim' Marc Sangnier (14e)",
+"id": "dca3706c8a80",
+"t": "Cycle IA, démocraties et milieu informationnel",
+"d": "jeu 03/12 18:00",
+"l": "Théâtre de la Concorde (8e)",
 "p": "gratuit",
 "th": [
-"danse"
+"theatre",
+"talk"
 ],
-"sc": 6,
-"u": "https://www.paris.fr/evenements/the-dansant-123031",
-"r": "https://marcsangnier.aniapp.fr",
-"dec": 1
+"sc": 18,
+"u": "https://www.paris.fr/evenements/cycle-ia-democraties-et-milieu-informationnel-103234",
+"r": "https://billetterie.theatredelaconcorde.paris/selection/event/date?productId=10229949112708"
 },
 {
-"id": "856c8ce81443",
-"t": "Le dispositif Relax : séances et représentations accessibles avec ou sans handicap toute l'année !",
-"d": "sam 05/12 13:00",
-"l": "UGC Ciné Cité Paris 19ème (19e)",
-"p": "4 €",
+"id": "58c9492a26ce",
+"t": "Cézanne : Le regard en feu",
+"d": "ven 04/12 17:30",
+"l": "Bibliothèque Mohammed Arkoun (5e)",
+"p": "gratuit",
 "th": [
-"cinema",
-"classique"
+"expo",
+"talk"
 ],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/le-dispositif-relax-seances-et-representations-accessibles-avec-ou-sans-handicap-toute-l-annee-65962",
-"r": "https://culture-relax.org/"
+"sc": 18,
+"u": "https://www.paris.fr/evenements/cezanne-le-regard-en-feu-125106"
+},
+{
+"id": "8ab6ae216f7b",
+"t": "Ouvrons les écoutilles ! - Four-Eight Sound - Vincent Meurisse alias Kent Riss",
+"d": "ven 04/12 18:30",
+"l": "La Pop (19e)",
+"p": "15 €",
+"th": [
+"autre"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/ouvrons-les-ecoutilles-four-eight-sound-vincent-meurisse-alias-kent-riss-118203",
+"r": "https://2ewt66ry.mapado.com/event/787496-ouvrons-les-ecoutilles-four-eight-sound?eventDate=2994407",
+"dec": 1
 },
 {
 "id": "2095fdf3612f",
@@ -917,20 +914,6 @@
 ],
 "sc": 22,
 "u": "https://www.paris.fr/evenements/visions-d-avant-garde-les-pionnieres-de-l-experimentation-cinematographique-cine-concert-d-olivier-longre-118503"
-},
-{
-"id": "2b455352d33b",
-"t": "Les lundis jazz manouche du Piano Vache",
-"d": "lun 07/12 20:00",
-"l": "Le Piano Vache (5e)",
-"p": "gratuit",
-"th": [
-"jazz",
-"classique"
-],
-"sc": 24,
-"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
 }
 ]
 },
@@ -942,74 +925,72 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "3452226fc30e",
-"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
-"d": "jeu 10/12 22:00",
-"l": "38Riv (4e)",
-"p": "9 €",
+"id": "768026e57469",
+"t": "Mario Canonge et Michel Zenino – DUO JAZZ",
+"d": "mer 09/12 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "15 €",
 "th": [
 "jazz",
-"classique"
-],
-"sc": 23,
-"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
-"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
-},
-{
-"id": "fe633c16b87e",
-"t": "Théâtre des Fleurs : exposition de portraits de fleurs monumentaux dans le Marais",
-"d": "ven 11/12 09:00",
-"l": "Galerie Joseph (3e)",
-"p": "gratuit",
-"th": [
-"expo",
-"theatre"
+"concert"
 ],
 "sc": 18,
-"u": "https://www.paris.fr/evenements/theatre-des-fleurs-exposition-de-portraits-de-fleurs-monumentaux-dans-le-marais-125202"
+"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115810",
+"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
 {
-"id": "f21a92eba7ec",
-"t": "Le dispositif Relax : séances et représentations accessibles avec ou sans handicap toute l'année !",
-"d": "sam 12/12 13:00",
-"l": "UGC Ciné Cité Paris 19ème (19e)",
-"p": "4 €",
-"th": [
-"cinema",
-"classique"
-],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/le-dispositif-relax-seances-et-representations-accessibles-avec-ou-sans-handicap-toute-l-annee-65962",
-"r": "https://culture-relax.org/"
-},
-{
-"id": "9ce39c618006",
-"t": "Le spectacle « Fanfare » au Cirque Électrique",
-"d": "sam 12/12 14:00",
-"l": "Cirque Electrique (20e)",
+"id": "5874af3b30c3",
+"t": "David Sauzay Quartet / ‘Live at the Jass Club’",
+"d": "jeu 10/12 18:30",
+"l": "JASS CLUB PARIS (13e)",
 "p": "10 €",
 "th": [
-"theatre",
-"cirque"
+"concert",
+"techno"
 ],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/le-spectacle-fanfare-au-cirque-electrique-112986",
-"r": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
+"sc": 15,
+"u": "https://www.paris.fr/evenements/david-sauzay-quartet-live-at-the-jass-club-125684"
+},
+{
+"id": "114aaae1c845",
+"t": "Laura Buenrostro Latin jazz",
+"d": "ven 11/12 20:00",
+"l": "Le Melville (8e)",
+"p": "10 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 21,
+"u": "https://www.paris.fr/evenements/laura-buenrostro-latin-jazz-126470"
+},
+{
+"id": "c250124931d0",
+"t": "BOUM 1986 avec Thomas Jolly",
+"d": "sam 12/12 18:00",
+"l": "Musée d'Orsay (7e)",
+"p": "?",
+"th": [
+"expo"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/boum-1986-avec-thomas-jolly-123196",
+"r": "https://www.musee-orsay.fr/fr/programme/agenda/evenements/boum-1986-avec-thomas-jolly#prochaines-dates",
 "dec": 1
 },
 {
-"id": "83b6997b907d",
-"t": "Les lundis jazz manouche du Piano Vache",
-"d": "lun 14/12 20:00",
-"l": "Le Piano Vache (5e)",
-"p": "gratuit",
+"id": "30d6eecadf61",
+"t": "L’art de la nuance",
+"d": "dim 13/12 10:00",
+"l": "Théâtre du Châtelet (1e)",
+"p": "35 €",
 "th": [
-"jazz",
-"classique"
+"concert",
+"theatre"
 ],
-"sc": 24,
-"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
+"sc": 16,
+"u": "https://www.paris.fr/evenements/copie-de-je-cherche-les-notes-qui-s-aiment-wolfgang-amadeus-mozart-113767",
+"r": "https://www.chatelet.com/programmation/26-27/lart-de-la-nuance/"
 }
 ]
 },
@@ -1027,8 +1008,7 @@
 "l": "Théâtre des Champs-Élysées (8e)",
 "p": "64 €",
 "th": [
-"concert",
-"theatre"
+"concert"
 ],
 "sc": 5,
 "u": "https://www.paris.fr/evenements/feux-d-artifices-haendel-mozart-123626",
@@ -1050,8 +1030,8 @@
 "l": "Salle Gaveau (8e)",
 "p": "?",
 "th": [
-"classique",
-"concert"
+"concert",
+"theatre"
 ],
 "sc": 9,
 "u": "https://www.paris.fr/evenements/natalie-dessay-la-nuit-americaine-115695",
@@ -1073,8 +1053,7 @@
 "l": "Théâtre des Champs-Elysées (8e)",
 "p": "64 €",
 "th": [
-"concert",
-"theatre"
+"concert"
 ],
 "sc": 5,
 "u": "https://www.paris.fr/evenements/songe-et-tourment-mendelssohn-schumann-mozart-123630",
@@ -1087,8 +1066,7 @@
 "l": "Philharmonie de Paris (19e)",
 "p": "?",
 "th": [
-"cinema",
-"jazz"
+"expo"
 ],
 "sc": 15,
 "u": "https://www.paris.fr/evenements/billie-holiday-legende-noire-117989",
@@ -1124,7 +1102,6 @@
 "l": "Philharmonie de Paris (19e)",
 "p": "39 €",
 "th": [
-"jazz",
 "concert"
 ],
 "sc": 15,
@@ -1175,8 +1152,7 @@
 "l": "Théâtre des Champs-Elysées (8e)",
 "p": "64 €",
 "th": [
-"concert",
-"theatre"
+"concert"
 ],
 "sc": 5,
 "u": "https://www.paris.fr/evenements/dialogue-avec-beethoven-123647",
@@ -1198,7 +1174,6 @@
 "l": "Philharmonie de Paris (19e)",
 "p": "?",
 "th": [
-"classique",
 "concert"
 ],
 "sc": 18,
@@ -1212,8 +1187,7 @@
 "l": "Théâtre des champs-Elysées (8e)",
 "p": "64 €",
 "th": [
-"concert",
-"theatre"
+"concert"
 ],
 "sc": 5,
 "u": "https://www.paris.fr/evenements/schumann-mayer-123649",
