@@ -1,12 +1,12 @@
 {
 "genere": "2026-10-26",
 "stats": {
-"rejet": 1173,
-"retenu": 1992,
-"hors_horizon": 275,
-"hors_zone": 681,
-"trop_cher": 71,
-"horaire": 193,
+"rejet": 1377,
+"retenu": 2073,
+"hors_horizon": 252,
+"hors_zone": 703,
+"trop_cher": 84,
+"horaire": 182,
 "hors_paris_semaine": 6
 },
 "buckets": [
@@ -45,18 +45,17 @@
 "pe": 1
 },
 {
-"id": "ae1a7ced2d95",
-"t": "Les lundis jazz manouche du Piano Vache",
-"d": "mar 27/10 > 15/12",
-"l": "Le Piano Vache (5e)",
-"p": "gratuit",
+"id": "c95a77e6313b",
+"t": "Monet, peindre le temps",
+"d": "mar 27/10 > 25/01",
+"l": "Musée de l'Orangerie (1e)",
+"p": "12.5 €",
 "th": [
-"jazz",
-"classique"
+"expo"
 ],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver",
+"sc": 18,
+"u": "https://www.paris.fr/evenements/monet-peindre-le-temps-116716",
+"r": "https://www.musee-orangerie.fr/fr/programme/agenda/expositions/monet-peindre-le-temps",
 "pe": 1
 },
 {
@@ -72,20 +71,6 @@
 "u": "https://www.paris.fr/evenements/soiree-dansante-rock-4-temps-moderne-dans-le-13eme-125380",
 "r": "https://rockit.dance/events/2026-10-27-dance-paradise/",
 "dec": 1
-},
-{
-"id": "9f6afdec8efa",
-"t": "Mario Canonge et Michel Zenino – DUO JAZZ",
-"d": "mer 28/10 18:00",
-"l": "Le Baiser Salé (1e)",
-"p": "15 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115813",
-"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
 {
 "id": "fdc76da9c698",
@@ -114,6 +99,20 @@
 "u": "https://75.agendaculturel.fr/concert/leo-labarriere-trio.html"
 },
 {
+"id": "4352689a9b02",
+"t": "#JazzDeDemain Arlet Feuillard & The Syntest Quintet",
+"d": "jeu 29/10 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "9 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 18,
+"u": "https://www.paris.fr/evenements/jazzdedemain-arlet-feuillard-the-syntest-quintet-116223",
+"r": "https://www.lebaisersale.com/fr/agenda/5962-jazzdedemain-arlet-feuillard-the-syntest-quintet"
+},
+{
 "id": "98f87ff268db",
 "t": "Carte blanche à Camille Bertault, Jazz & compositions au 38Riv Jazz Club",
 "d": "jeu 29/10 18:30",
@@ -128,16 +127,18 @@
 "r": "https://38riv.com/concerts/carte-blanche-camille-bertault-1"
 },
 {
-"id": "ff174bcdf47a",
-"t": "Seremos Fuego!",
-"d": "ven 30/10 09:00",
-"l": "Galerie ASIEMUT (10e)",
-"p": "gratuit",
+"id": "c5febeec476e",
+"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
+"d": "jeu 29/10 22:00",
+"l": "38Riv (4e)",
+"p": "9 €",
 "th": [
-"expo"
+"jazz",
+"concert"
 ],
-"sc": 20,
-"u": "https://www.paris.fr/evenements/seremos-fuego-118287"
+"sc": 23,
+"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
+"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
 },
 {
 "id": "b16d5b3754c8",
@@ -153,6 +154,20 @@
 "u": "https://www.paris.fr/evenements/seminaire-france-suede-et-empire-ottoman-alliances-artistiques-113007"
 },
 {
+"id": "3f116b6f5267",
+"t": "Bals d'époque de l'Hôtel de la Marine",
+"d": "ven 30/10 16:30",
+"l": "Hôtel de la Marine (8e)",
+"p": "9 €",
+"th": [
+"danse"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/bals-d-epoque-de-l-hotel-de-la-marine-124091",
+"r": "https://www.hotel-de-la-marine.paris/agenda/bals-d-epoque-de-l-hotel-de-la-marine",
+"dec": 1
+},
+{
 "id": "1a7ae9407453",
 "t": "finissage expo \"trànsitos\"",
 "d": "ven 30/10 18:00",
@@ -165,18 +180,6 @@
 "u": "https://www.paris.fr/evenements/finissage-expo-transitos-124366",
 "r": "www.claje.asso.fr",
 "dec": 1
-},
-{
-"id": "d032869ac003",
-"t": "Petit déjeuner musical - Voix, ce que tu peux faire !",
-"d": "sam 31/10 10:00",
-"l": "Médiathèque Jean-Pierre Melville (13e)",
-"p": "gratuit",
-"th": [
-"talk"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/petit-dejeuner-musical-voix-ce-que-tu-peux-faire-115024"
 },
 {
 "id": "169d8fc8ca7d",
@@ -206,20 +209,6 @@
 "dec": 1
 },
 {
-"id": "8d1b7c2d0ba6",
-"t": "Fête de la soupe au jardin partagé",
-"d": "dim 01/11 17:00",
-"l": "Jardin partagé (12e)",
-"p": "gratuit",
-"th": [
-"autre"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/fete-de-la-soupe-au-jardin-partage-118098",
-"r": "http://www.autourdelabaleine.fr",
-"dec": 1
-},
-{
 "id": "dd5b9657ae72",
 "t": "États sensibles #2 — Performance de peinture live & piano improvisé",
 "d": "lun 02/11 18:00",
@@ -231,6 +220,20 @@
 ],
 "sc": 17,
 "u": "https://www.paris.fr/evenements/etats-sensibles-2-performance-de-peinture-live-piano-improvise-123386"
+},
+{
+"id": "769721aec77a",
+"t": "Les lundis jazz manouche du Piano Vache",
+"d": "lun 02/11 20:00",
+"l": "Le Piano Vache (5e)",
+"p": "gratuit",
+"th": [
+"jazz",
+"classique"
+],
+"sc": 24,
+"u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
+"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
 }
 ]
 },
@@ -270,6 +273,20 @@
 "r": "https://lemelville.fr/?p=6106"
 },
 {
+"id": "bbb703fa31e9",
+"t": "Mario Canonge et Michel Zenino – Duo jazz",
+"d": "mer 04/11 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "15 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 18,
+"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115812",
+"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
+},
+{
 "id": "d80c7b236312",
 "t": "Lecture : Sous le regard de Stefan Zweig",
 "d": "mer 04/11 18:00",
@@ -284,17 +301,18 @@
 "r": "https://artistictheatre.com/sous-le-regard-de-stefan-zweig/"
 },
 {
-"id": "3afa910f49f6",
-"t": "Éléonore Langelier Quintet - « Jazz Loves Amy » A tribute to Amy Winehouse",
-"d": "mer 04/11 20:00",
-"l": "Le Baiser Salé (1e)",
-"p": "25 €",
+"id": "0130b74c9b88",
+"t": "Jam Session Jazz au 38Riv, animée par Solène Cairoli",
+"d": "mer 04/11 22:00",
+"l": "38Riv (4e)",
+"p": "9 €",
 "th": [
 "jazz",
 "concert"
 ],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/eleonore-langelier-quintet-jazz-loves-amy-a-tribute-to-amy-winehouse-125016"
+"sc": 23,
+"u": "https://www.paris.fr/evenements/copie-de-jam-session-jazz-au-38riv-animee-par-solene-cairoli-80910",
+"r": "https://38riv.com/concerts?search=solene%20Cairoli&category=All"
 },
 {
 "id": "35de71155358",
@@ -309,6 +327,20 @@
 "sc": 18,
 "u": "https://www.paris.fr/evenements/concert-the-sounds-of-revolution-america-250-in-opera-126312",
 "r": "https://www.helloasso.com/associations/fondation-des-etats-unis/evenements/concert-the-sounds-of-revolution-ameria-250-in-opera"
+},
+{
+"id": "81699f2eb523",
+"t": "Les bals de Sangnier",
+"d": "ven 06/11 13:30",
+"l": "Centre Paris Anim' Marc Sangnier (14e)",
+"p": "gratuit",
+"th": [
+"danse"
+],
+"sc": 6,
+"u": "https://www.paris.fr/evenements/the-dansant-123031",
+"r": "https://marcsangnier.aniapp.fr",
+"dec": 1
 },
 {
 "id": "7f1e6d534d75",
@@ -392,32 +424,6 @@
 "dec": 1
 },
 {
-"id": "5e760411916b",
-"t": "J'ai un coup de cœur… et vous ?",
-"d": "sam 07/11 15:00",
-"l": "Bibliothèque Louise Walser-Gaillard (9e)",
-"p": "gratuit",
-"th": [
-"litterature"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/j-ai-un-coup-de-coeur-et-vous-117276",
-"dec": 1
-},
-{
-"id": "00c807cfd8d5",
-"t": "Rencontre avec Thibault Lafargue",
-"d": "sam 07/11 17:00",
-"l": "Bibliothèque Rainer Maria Rilke (5e)",
-"p": "gratuit",
-"th": [
-"litterature",
-"talk"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/rencontre-avec-thibault-lafargue-125503"
-},
-{
 "id": "efc60f95380c",
 "t": "Concert : Florilège de Choeurs sacrés - 7 novembre 2026",
 "d": "sam 07/11 19:45",
@@ -466,20 +472,6 @@
 "mode": "proche",
 "candidats": [
 {
-"id": "509d70cdcff8",
-"t": "soyez nos voix - exposition transfrontaliere et itinérante",
-"d": "mar 10/11 > 01/12",
-"l": "Maison de la Vie Associative et Citoyenne du 14e arrondissement (14e)",
-"p": "gratuit",
-"th": [
-"expo",
-"talk"
-],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/soyez-nos-voix-exposition-transfrontaliere-et-itinerante-126158",
-"pe": 1
-},
-{
 "id": "04ee5f1bc01a",
 "t": "Peacock dreams | Abdullah Miniawy (trio)",
 "d": "mar 10/11 18:00",
@@ -494,18 +486,32 @@
 "r": "https://billetterie-culture.u-pariscite.fr/event/798164-peacock-dreams-abdullah-miniawy-trio"
 },
 {
-"id": "4d288e1a7036",
-"t": "Soirée jeunes talents queer",
+"id": "d8a67008f95f",
+"t": "Les mardis blues du Piano Vache",
 "d": "mar 10/11 18:30",
-"l": "Centre Paris Anim' Maurice Ravel (12e)",
+"l": "Le Piano Vache (5e)",
 "p": "gratuit",
 "th": [
-"concert",
-"danse"
+"classique",
+"concert"
 ],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/soiree-jeunes-talents-queer-126494",
-"r": "https://animravel.aniapp.fr/actualites/114"
+"sc": 16,
+"u": "https://www.paris.fr/evenements/les-mardis-blues-du-piano-vache-125555",
+"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-mardi#reserver"
+},
+{
+"id": "e793e1c81b4c",
+"t": "Jam Session Funk au 38Riv, animée par Pierre Gibbe",
+"d": "mar 10/11 22:00",
+"l": "38Riv (4e)",
+"p": "9 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 15,
+"u": "https://www.paris.fr/evenements/jam-session-funk-au-38riv-animee-par-pierre-gibbe-80899",
+"r": "https://38riv.com/concerts?search=pierre%20gibbe&category=39"
 },
 {
 "id": "d6911bacd448",
@@ -545,20 +551,6 @@
 ],
 "sc": 21,
 "u": "https://75.agendaculturel.fr/concert/mario-panteliadis.html"
-},
-{
-"id": "8ea0d0984752",
-"t": "#JazzDeDemain Lauriane Ludosky – Jazz Explorations",
-"d": "jeu 12/11 20:00",
-"l": "Le Baiser Salé (1e)",
-"p": "25 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/jazzdedemain-lauriane-ludosky-jazz-explorations-117671",
-"r": "https://www.billetweb.fr/jazzdedemain-jazzdedemain-lauriane-ludosky-jazz-explorations-lauriane-ludosky-tba3"
 },
 {
 "id": "49b8a0090d7f",
@@ -645,18 +637,30 @@
 "u": "http://www.newmorning.com/20261114-7736-leee-john-of-imagination.html"
 },
 {
-"id": "cc1982d1d808",
-"t": "Henri Louis : Concert d'Unité - Classique et chanson",
-"d": "sam 14/11 19:00",
-"l": "Fontaine Culture (11e)",
-"p": "25 €",
+"id": "698232a0258d",
+"t": "soyez nos voix - exposition transfrontaliere et itinérante",
+"d": "sam 14/11 10:00",
+"l": "Maison de la Vie Associative et Citoyenne du 14e arrondissement (14e)",
+"p": "gratuit",
 "th": [
-"classique",
+"expo",
+"talk"
+],
+"sc": 18,
+"u": "https://www.paris.fr/evenements/soyez-nos-voix-exposition-transfrontaliere-et-itinerante-126158"
+},
+{
+"id": "7314796e9684",
+"t": "#Rdv avec LE QUINT’UP",
+"d": "sam 14/11 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "13 €",
+"th": [
 "concert"
 ],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/henri-louis-concert-d-unite-classique-et-chanson-126081",
-"r": "https://www.billetweb.fr/henri-louis"
+"sc": 18,
+"u": "https://www.paris.fr/evenements/rdv-avec-le-quint-up-114466",
+"r": "https://www.lebaisersale.com/fr/agenda?date_concert=24%2F09%2F2026&artiste=LE+QUINT%E2%80%99UP"
 },
 {
 "id": "97144578a9f4",
@@ -708,6 +712,19 @@
 "r": "https://www.fondation-jeromeseydoux-pathe.com/event/3363"
 },
 {
+"id": "cc3f281e9f7a",
+"t": "JAZZETTE à La Trockette 2.2",
+"d": "mer 18/11 18:00",
+"l": "La Trockette (11e)",
+"p": "gratuit",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 20,
+"u": "https://www.paris.fr/evenements/jazzette-a-la-trockette-2-2-125707"
+},
+{
 "id": "cd133795bc2a",
 "t": "Thierry Péala et Vérioca Lherm - Les 20 ANS du duo",
 "d": "mer 18/11 20:00",
@@ -719,19 +736,6 @@
 "sc": 24,
 "u": "https://www.paris.fr/evenements/thierry-peala-et-verioca-lherm-les-20-ans-du-duo-118095",
 "r": "https://www.billetweb.fr/thierry-p-ala-v-rioca-lherm-les-20-ans-du-duo-thierry-peala-verioca-lherm-roberto-de-olivei"
-},
-{
-"id": "51c85db9b798",
-"t": "JAZZ : Master Class Steve Potts et concert",
-"d": "ven 20/11 14:00",
-"l": "Conservatoire Municipal Charles Munch (11e)",
-"p": "gratuit",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 20,
-"u": "https://www.paris.fr/evenements/jazz-master-class-steve-potts-et-concert-126161"
 },
 {
 "id": "0f130ac592f8",
