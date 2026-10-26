@@ -16,8 +16,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: collecte
@@ -53,18 +51,3 @@ jobs:
           name: brut
           path: data/brut/
           retention-days: 7
-      - name: Site vide (carte retirée)
-        run: mkdir -p vide && touch vide/.nojekyll
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: vide
-
-  publier:
-    needs: construire
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploiement.outputs.page_url }}
-    steps:
-      - id: deploiement
-        uses: actions/deploy-pages@v4
