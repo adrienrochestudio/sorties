@@ -2,8 +2,8 @@
 "genere": "2026-10-26",
 "stats": {
 "rejet": 1173,
-"retenu": 1910,
-"hors_horizon": 272,
+"retenu": 1998,
+"hors_horizon": 275,
 "hors_zone": 681,
 "trop_cher": 71,
 "horaire": 193
@@ -845,18 +845,18 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "dca3706c8a80",
-"t": "Cycle IA, démocraties et milieu informationnel",
-"d": "jeu 03/12 18:00",
-"l": "Théâtre de la Concorde (8e)",
-"p": "gratuit",
+"id": "2ef42641ea37",
+"t": "Janáček, Lettres intimes, Quatuor Bennewitz",
+"d": "mar 01/12 20:00",
+"l": "Salle Molière (Auditorium de Lyon) (Lyon)",
+"p": "10 €",
 "th": [
-"theatre",
-"talk"
+"classique"
 ],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/cycle-ia-democraties-et-milieu-informationnel-103234",
-"r": "https://billetterie.theatredelaconcorde.paris/selection/event/date?productId=10229949112708"
+"sc": 19,
+"u": "https://www.auditorium-lyon.com/fr/saison-2026-27/musique-chambre/janacek-lettres-intimes",
+"ant": "ouverte",
+"train": "2h00"
 },
 {
 "id": "8ab6ae216f7b",
@@ -934,6 +934,19 @@
 "u": "https://75.agendaculturel.fr/concert/tasha-e-tracie-deize-tigrona.html"
 },
 {
+"id": "9fca269aad65",
+"t": "Jean Rondeau en récital",
+"d": "jeu 10/12 20:00",
+"l": "Cité de la musique, Salle des concerts (Paris)",
+"p": "11 €",
+"th": [
+"classique"
+],
+"sc": 32,
+"u": "https://philharmoniedeparis.fr/fr/activite/recital/29452-jean-rondeau",
+"ant": "ouverte"
+},
+{
 "id": "114aaae1c845",
 "t": "Laura Buenrostro Latin jazz",
 "d": "ven 11/12 20:00",
@@ -961,20 +974,6 @@
 "dec": 1
 },
 {
-"id": "30d6eecadf61",
-"t": "L’art de la nuance",
-"d": "dim 13/12 10:00",
-"l": "Théâtre du Châtelet (1e)",
-"p": "35 €",
-"th": [
-"concert",
-"theatre"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/copie-de-je-cherche-les-notes-qui-s-aiment-wolfgang-amadeus-mozart-113767",
-"r": "https://www.chatelet.com/programmation/26-27/lart-de-la-nuance/"
-},
-{
 "id": "47eb000e4556",
 "t": "Les Pêcheurs de perles",
 "d": "lun 14/12 00:00",
@@ -995,6 +994,20 @@
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
+{
+"id": "c35ef4d179c6",
+"t": "Viktoria Mullova et Alasdair Beatson, sonates de Beethoven",
+"d": "mar 15/12 20:00",
+"l": "Opéra de Dijon, Auditorium (Dijon)",
+"p": "5.5 €",
+"th": [
+"classique"
+],
+"sc": 17,
+"u": "https://www.opera-dijon.fr/fr/au-programme/calendrier/saison-26-27/viktoria-mullova-alasdair-beatson-1/",
+"ant": "ouverte",
+"train": "1h40"
+},
 {
 "id": "fb5d1f6f28a9",
 "t": "FEUX D'ARTIFICES | HAENDEL | MOZART",
@@ -1020,6 +1033,21 @@
 ],
 "sc": 22,
 "u": "http://www.newmorning.com/20261218-7810-music-is-our-sanctuary-tribute-to-mizell-brothers-by-aldorande-friends.html"
+},
+{
+"id": "e8d83e3761fe",
+"t": "Les Demoiselles de Rochefort en ciné-concert",
+"d": "sam 19/12 > 20/12",
+"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
+"p": "11 €",
+"th": [
+"cinema",
+"classique"
+],
+"sc": 27,
+"u": "https://philharmoniedeparis.fr/fr/activite/cine-concert/29390-les-demoiselles-de-rochefort",
+"pe": 1,
+"ant": "ouverte"
 }
 ]
 },
@@ -1030,6 +1058,21 @@
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
+{
+"id": "a94eb36dcff2",
+"t": "Nouvel An à Prague, Originální Pražský Synkopický Orchestr",
+"d": "mer 30/12 > 02/01",
+"l": "Auditorium-Orchestre national de Lyon (Lyon)",
+"p": "14 €",
+"th": [
+"classique"
+],
+"sc": 24,
+"u": "https://www.auditorium-lyon.com/fr/saison-2026-27/symphonique/nouvel-an-prague",
+"pe": 1,
+"ant": "ouverte",
+"train": "2h00"
+},
 {
 "id": "10635b017658",
 "t": "Natalie Dessay, la Nuit Américaine",
@@ -1054,57 +1097,59 @@
 "mode": "anticiper",
 "candidats": [
 {
-"id": "312bb9fa7e39",
-"t": "SONGE ET TOURMENT | MENDELSSOHN | SCHUMANN | MOZART",
-"d": "jeu 21/01 19:00",
-"l": "Théâtre des Champs-Elysées (8e)",
-"p": "64 €",
+"id": "640eceb7123d",
+"t": "Khatia Buniatishvili, récital de piano",
+"d": "lun 18/01 20:00",
+"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
+"p": "11 €",
 "th": [
-"concert"
+"classique"
 ],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/songe-et-tourment-mendelssohn-schumann-mozart-123630",
-"r": "https://www.orchestredechambredeparis.com/concert/songe-et-tourment/"
+"sc": 22,
+"u": "https://philharmoniedeparis.fr/fr/activite/recital-piano/29174-khatia-buniatishvili",
+"ant": "ouverte"
 },
 {
-"id": "46ee43849207",
-"t": "Billie Holiday. Légende noire",
-"d": "ven 22/01 > 11/07",
-"l": "Philharmonie de Paris (19e)",
-"p": "?",
-"th": [
-"expo"
-],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/billie-holiday-legende-noire-117989",
-"r": "https://philharmoniedeparis.fr/fr/activite/exposition/30027-billie-holiday",
-"pe": 1
-},
-{
-"id": "9f7289ec6bc4",
-"t": "SOPHIE ALOUR",
-"d": "mar 26/01 00:00",
-"l": "New Morning (10e)",
+"id": "6d9886f10032",
+"t": "Shalosh, What We Are Made Of",
+"d": "jeu 21/01 20:30",
+"l": "New Morning (Paris)",
 "p": "?",
 "th": [
 "jazz",
-"concert"
+"classique"
 ],
-"sc": 16,
-"u": "http://www.newmorning.com/20270126-7846-sophie-alour.html"
+"sc": 18,
+"u": "https://www.newmorning.com/20270121-7792-shalosh.html",
+"ant": "ouverte"
 },
 {
-"id": "973375119eb2",
-"t": "Beethoven l'Empereur",
-"d": "dim 31/01 17:00",
-"l": "Salle Gaveau (8e)",
-"p": "?",
+"id": "30e10a93edc7",
+"t": "Visions sonores : Berlin, symphonie d'une grande ville et L'Homme à la caméra",
+"d": "dim 24/01 16:00",
+"l": "Cité de la musique, Salle des concerts (Paris)",
+"p": "11 €",
 "th": [
-"concert"
+"cinema",
+"classique"
 ],
-"sc": 3,
-"u": "https://www.paris.fr/evenements/beethoven-l-empereur-115696",
-"r": "https://sallegaveau.com/event-pro/arielle-beck-piano-lorchestre-lamoureux/"
+"sc": 20,
+"u": "https://philharmoniedeparis.fr/fr/activite/cine-concert/29354-visions-sonores",
+"ant": "ouverte"
+},
+{
+"id": "24a48684f44d",
+"t": "Janáček, Katia Kabanova",
+"d": "mer 27/01 > 13/02",
+"l": "Palais Garnier (9e)",
+"p": "40 €",
+"th": [
+"classique"
+],
+"sc": 13,
+"u": "https://www.operadeparis.fr/saison-26-27/opera/katia-kabanova",
+"pe": 1,
+"ant": "ouverte"
 }
 ]
 },
@@ -1116,44 +1161,59 @@
 "mode": "anticiper",
 "candidats": [
 {
-"id": "474b671e99bf",
-"t": "FRANCESCA TANDOI",
-"d": "mar 09/02 00:00",
-"l": "New Morning (10e)",
+"id": "e8cf6931ed35",
+"t": "Metropolis de Fritz Lang en ciné-concert",
+"d": "dim 07/02 16:00",
+"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
+"p": "11 €",
+"th": [
+"cinema",
+"concert"
+],
+"sc": 36,
+"u": "https://philharmoniedeparis.fr/fr/activite/cine-concert/29356-metropolis",
+"ant": "ouverte"
+},
+{
+"id": "4127bc000379",
+"t": "Francesca Tandoi",
+"d": "mar 09/02 20:30",
+"l": "New Morning (Paris)",
 "p": "?",
 "th": [
 "jazz",
-"concert"
+"classique"
 ],
-"sc": 16,
-"u": "http://www.newmorning.com/20270209-7791-francesca-tandoi.html"
+"sc": 18,
+"u": "https://www.newmorning.com/20270209-7791-francesca-tandoi.html",
+"ant": "ouverte"
 },
 {
-"id": "38548305082e",
-"t": "CARTE BLANCHE À THOMAS ENHCO",
-"d": "ven 12/02 19:00",
-"l": "Philharmonie de Paris (19e)",
-"p": "39 €",
+"id": "42355376ef33",
+"t": "Stéphane Degout et Quatuor Diotima",
+"d": "dim 14/02 17:00",
+"l": "Opéra national du Rhin, Opéra de Strasbourg (Strasbourg)",
+"p": "6 €",
 "th": [
-"concert"
+"classique"
 ],
 "sc": 15,
-"u": "https://www.paris.fr/evenements/carte-blanche-a-thomas-enhco-123641",
-"r": "https://www.orchestredechambredeparis.com/concert/carte-blanche-a-thomas-enhco/"
+"u": "https://www.operanationaldurhin.eu/fr/spectacles/saison-26-27/concert/stephane-degout-1",
+"ant": "ouverte",
+"train": "1h50"
 },
 {
-"id": "0bce46d874bc",
-"t": "Israël en Egypte",
-"d": "sam 27/02 18:30",
-"l": "Théâtre des Champs-Elysées (8e)",
-"p": "?",
+"id": "68988ef44b46",
+"t": "Vivaldi, Rameau, Rebel : peindre la nature",
+"d": "sam 27/02 20:00",
+"l": "Théâtre du Châtelet (Paris)",
+"p": "5 €",
 "th": [
-"concert",
-"theatre"
+"classique"
 ],
-"sc": 7,
-"u": "https://www.paris.fr/evenements/israel-en-egypte-124800",
-"r": "https://billetterie.theatrechampselysees.fr/selection/event/date?productId=10229724631433"
+"sc": 17,
+"u": "https://www.chatelet.com/programmation/26-27/vivaldi-rebel/",
+"ant": "ouverte"
 }
 ]
 },
@@ -1164,6 +1224,47 @@
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
+{
+"id": "0776f64322e5",
+"t": "Benjamin Bernheim, récital de chant",
+"d": "mer 03/03 20:00",
+"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
+"p": "11 €",
+"th": [
+"classique"
+],
+"sc": 28,
+"u": "https://philharmoniedeparis.fr/fr/activite/recital-vocal/29304-benjamin-bernheim-carrie-ann-matheson",
+"ant": "ouverte"
+},
+{
+"id": "e255823df445",
+"t": "Bach au cinéma, Orchestre national d'Île-de-France",
+"d": "ven 05/03 20:00",
+"l": "Cité de la musique, Salle des concerts (Paris)",
+"p": "11 €",
+"th": [
+"cinema",
+"classique"
+],
+"sc": 26,
+"u": "https://philharmoniedeparis.fr/fr/activite/concert-avec-images/29437-bach-au-cinema",
+"ant": "ouverte"
+},
+{
+"id": "dfb8e3a24035",
+"t": "Récital Piotr Beczała",
+"d": "dim 07/03 20:00",
+"l": "Palais Garnier (9e)",
+"p": "25 €",
+"th": [
+"classique"
+],
+"sc": 18,
+"u": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala",
+"dim_soir": 1,
+"ant": "ouverte"
+},
 {
 "id": "80e88b452df0",
 "t": "COMPLET - 13/03/2027 - JEANNE ADDED",
@@ -1176,33 +1277,6 @@
 ],
 "sc": 20,
 "u": "http://www.newmorning.com/20270313-7912-jeanne-added.html"
-},
-{
-"id": "f41f133510d6",
-"t": "Concert Européennes - Orchestre Pasdeloup",
-"d": "sam 13/03 14:00",
-"l": "Salle Gaveau (8e)",
-"p": "?",
-"th": [
-"classique",
-"concert"
-],
-"sc": 9,
-"u": "https://www.paris.fr/evenements/concert-europeennes-orchestre-pasdeloup-118446",
-"r": "https://www.concertspasdeloup.fr/boutique-concerts/europeennes-salle-gaveau-13-mars-2027/"
-},
-{
-"id": "79f32afaf05b",
-"t": "DIALOGUE AVEC BEETHOVEN",
-"d": "jeu 25/03 19:00",
-"l": "Théâtre des Champs-Elysées (8e)",
-"p": "64 €",
-"th": [
-"concert"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/dialogue-avec-beethoven-123647",
-"r": "https://www.orchestredechambredeparis.com/concert/dialogue-avec-beethoven/"
 }
 ]
 },
@@ -1214,43 +1288,60 @@
 "mode": "anticiper",
 "candidats": [
 {
-"id": "c8d95ecf68fc",
-"t": "EDDIE 9V",
-"d": "mer 31/03 00:00",
-"l": "New Morning (10e)",
+"id": "8a87f1cba864",
+"t": "Nelson Goerner, récital de piano",
+"d": "lun 05/04 20:00",
+"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
+"p": "11 €",
+"th": [
+"classique"
+],
+"sc": 22,
+"u": "https://philharmoniedeparis.fr/fr/activite/recital-piano/29346-nelson-goerner",
+"ant": "ouverte"
+},
+{
+"id": "27babf55bf9d",
+"t": "Aaron Parks Little Big",
+"d": "mer 07/04 19:30",
+"l": "New Morning (Paris)",
 "p": "?",
 "th": [
 "jazz",
-"concert"
+"classique"
 ],
-"sc": 16,
-"u": "http://www.newmorning.com/20270331-7815-eddie-9v.html"
+"sc": 22,
+"u": "https://www.newmorning.com/20270407-7786-aaron-parks.html",
+"ant": "ouverte"
 },
 {
-"id": "a0248c909a6d",
-"t": "Jardin secret",
-"d": "sam 10/04 17:30",
-"l": "Philharmonie de Paris (19e)",
-"p": "?",
+"id": "eac017f0cafd",
+"t": "Julie Fuchs, Je te veux",
+"d": "mer 07/04 20:00",
+"l": "Grand-Théâtre d'Angers (Angers Nantes Opéra) (Angers)",
+"p": "14 €",
 "th": [
-"concert"
+"classique"
 ],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/jardin-secret-109833",
-"r": "https://philharmoniedeparis.fr/fr/activite/concert-lecture/29459-jardin-secret?itemId=145940"
+"sc": 21,
+"u": "https://www.angers-nantes-opera.com/programmation/musique-en-scene/je-te-veux",
+"ant": "ouverte",
+"train": "1h30"
 },
 {
-"id": "9555e5411ba1",
-"t": "SCHUMANN | MAYER",
-"d": "jeu 22/04 20:00",
-"l": "Théâtre des champs-Elysées (8e)",
-"p": "64 €",
+"id": "ff40e806e2c4",
+"t": "(LA)HORDE, Age of Content Orchestral",
+"d": "jeu 22/04 > 25/04",
+"l": "Théâtre Graslin (Angers Nantes Opéra) (Nantes)",
+"p": "12 €",
 "th": [
-"concert"
+"danse"
 ],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/schumann-mayer-123649",
-"r": "https://www.orchestredechambredeparis.com/concert/le-point-du-jour/"
+"sc": 12,
+"u": "https://www.angers-nantes-opera.com/programmation/musique-et-danse/age-of-content-orchestral",
+"pe": 1,
+"ant": "ouverte",
+"train": "2h00"
 }
 ]
 }
