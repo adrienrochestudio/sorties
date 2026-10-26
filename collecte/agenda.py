@@ -97,7 +97,7 @@ def main():
         d = debut(c["DTSTART"])
         if not d or d.date() < limite:
             continue
-        titre = texte_ics(c.get("SUMMARY", ("", ""))[1])
+        titre = re.sub(r"^Avec [^-]{1,40} - ", "", texte_ics(c.get("SUMMARY", ("", ""))[1]))  # pas de prénoms en public
         lieu = texte_ics(c.get("LOCATION", ("", ""))[1])
         ref = re.search(r"R[ée]f\s*:\s*([0-9a-f]{12})", desc)
         lien = re.search(r"Lien\s*:\s*(\S+)", desc)
