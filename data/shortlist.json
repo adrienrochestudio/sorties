@@ -1,9 +1,9 @@
 {
 "genere": "2026-10-26",
 "stats": {
-"rejet": 1170,
-"retenu": 1813,
-"hors_horizon": 196,
+"rejet": 1173,
+"retenu": 1910,
+"hors_horizon": 272,
 "hors_zone": 681,
 "trop_cher": 71,
 "horaire": 193
@@ -87,6 +87,32 @@
 "r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
 {
+"id": "fdc76da9c698",
+"t": "Piano Pulse #5",
+"d": "mer 28/10 19:30",
+"l": "Centre tchèque de Paris (6e)",
+"p": "?",
+"th": [
+"cinema",
+"classique"
+],
+"sc": 32,
+"u": "https://75.agendaculturel.fr/concert/piano-pulse-5.html"
+},
+{
+"id": "dfe6fd149366",
+"t": "Léo Labarrière Trio",
+"d": "mer 28/10 19:30",
+"l": "Sunset-Sunside (1e)",
+"p": "?",
+"th": [
+"jazz",
+"classique"
+],
+"sc": 22,
+"u": "https://75.agendaculturel.fr/concert/leo-labarriere-trio.html"
+},
+{
 "id": "98f87ff268db",
 "t": "Carte blanche à Camille Bertault, Jazz & compositions au 38Riv Jazz Club",
 "d": "jeu 29/10 18:30",
@@ -113,18 +139,6 @@
 "u": "https://www.paris.fr/evenements/seremos-fuego-118287"
 },
 {
-"id": "362ddb30ea30",
-"t": "VERNISSAGE - Exposition \"Coup de soleil\" - Laety Des et Mélanie Cot",
-"d": "ven 30/10 09:00",
-"l": "Centre Paris Anim' Wangari Muta Maathai (20e)",
-"p": "gratuit",
-"th": [
-"expo"
-],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/vernissage-exposition-la-marque-de-juliette-jacobs-118273"
-},
-{
 "id": "b16d5b3754c8",
 "t": "Exposition : France, Suède et Empire ottoman : alliances artistiques",
 "d": "ven 30/10 11:00",
@@ -136,19 +150,6 @@
 ],
 "sc": 24,
 "u": "https://www.paris.fr/evenements/seminaire-france-suede-et-empire-ottoman-alliances-artistiques-113007"
-},
-{
-"id": "4620051f4bf2",
-"t": "Choeur Traditionnel Irlandais, Venu de Dublin",
-"d": "ven 30/10 15:00",
-"l": "église St Philippe du Roule (8e)",
-"p": "gratuit",
-"th": [
-"concert"
-],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/choeur-traditionnel-irlandais-venu-de-dublin-126006",
-"r": "https://www.eventbrite.fr/e/2003355197324?aff=oddtdtcreator"
 },
 {
 "id": "1a7ae9407453",
@@ -165,19 +166,6 @@
 "dec": 1
 },
 {
-"id": "4b08fc0e20cc",
-"t": "Cookin' With Dexter Gordon",
-"d": "ven 30/10 20:00",
-"l": "Le Melville (8e)",
-"p": "10 €",
-"th": [
-"concert"
-],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/cookin-with-dexter-gordon-114881",
-"r": "https://lemelville.fr/?p=6056"
-},
-{
 "id": "d032869ac003",
 "t": "Petit déjeuner musical - Voix, ce que tu peux faire !",
 "d": "sam 31/10 10:00",
@@ -188,6 +176,19 @@
 ],
 "sc": 16,
 "u": "https://www.paris.fr/evenements/petit-dejeuner-musical-voix-ce-que-tu-peux-faire-115024"
+},
+{
+"id": "169d8fc8ca7d",
+"t": "Philippe Alègre",
+"d": "dim 01/11 00:00",
+"l": "Église Saint-Julien-le-Pauvre (5e)",
+"p": "?",
+"th": [
+"classique",
+"concert"
+],
+"sc": 21,
+"u": "https://75.agendaculturel.fr/concert/philippe-alegre-3.html"
 },
 {
 "id": "672eea87f20c",
@@ -239,20 +240,6 @@
 "cible": 5,
 "mode": "proche",
 "candidats": [
-{
-"id": "763e54cd7d2a",
-"t": "Exposition Portraits de Résistantes : Mémoire et Liberté au Centre Paris Anim' Maurice Ravel",
-"d": "mar 03/11 > 26/11",
-"l": "Centre Paris Anim' Maurice Ravel (12e)",
-"p": "gratuit",
-"th": [
-"expo",
-"talk"
-],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/exposition-portraits-de-resistantes-memoire-et-liberte-au-centre-paris-anim-maurice-ravel-126017",
-"pe": 1
-},
 {
 "id": "c75e04c43c97",
 "t": "Spectacle « Trad Now » - Sun-A Lee x Kim Joohong / Yunbyul Ballet Company",
@@ -321,20 +308,6 @@
 "sc": 18,
 "u": "https://www.paris.fr/evenements/concert-the-sounds-of-revolution-america-250-in-opera-126312",
 "r": "https://www.helloasso.com/associations/fondation-des-etats-unis/evenements/concert-the-sounds-of-revolution-ameria-250-in-opera"
-},
-{
-"id": "774aa0bf2706",
-"t": "Breque - Lisa Biscaro Balle",
-"d": "jeu 05/11 19:00",
-"l": "Le Regard du Cygne (20e)",
-"p": "11 €",
-"th": [
-"talk",
-"danse"
-],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/breque-lisa-biscaro-balle-117331",
-"r": "https://leregardducygne.mapado.com/event/795238-breque-lisa-biscaro-balle-compagnie-lalaia"
 },
 {
 "id": "7f1e6d534d75",
@@ -455,6 +428,32 @@
 "sc": 19,
 "u": "https://www.paris.fr/evenements/concert-florilege-de-choeurs-sacres-7-nov-2026-125957",
 "r": "https://www.helloasso.com/associations/choeur-et-orchestre-symphonique-de-paris/evenements/concert-florilege-de-choeurs-sacres-7-nov-2026"
+},
+{
+"id": "a6ce2c50ae8b",
+"t": "Alexandra Nomidou",
+"d": "dim 08/11 16:00",
+"l": "Église Saint-Julien-le-Pauvre (5e)",
+"p": "?",
+"th": [
+"classique",
+"concert"
+],
+"sc": 25,
+"u": "https://75.agendaculturel.fr/concert/alexandra-nomidou.html"
+},
+{
+"id": "89b533a880b2",
+"t": "OI VA VOI",
+"d": "lun 09/11 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 18,
+"u": "http://www.newmorning.com/20261109-7804-festival-jazz-n-klezmer-oi-va-voi.html"
 }
 ]
 },
@@ -521,20 +520,6 @@
 "r": "https://lemelville.fr/?p=6439"
 },
 {
-"id": "efba594ad3a4",
-"t": "Conférence Sonia Delaunay",
-"d": "jeu 12/11 18:00",
-"l": "Bibliothèque Amélie (7e)",
-"p": "gratuit",
-"th": [
-"expo",
-"talk"
-],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/conference-artora-sonia-delaunay-108261",
-"r": "https://artora.fr/"
-},
-{
 "id": "7ead114a29ff",
 "t": "Café ciné : le cinéma d’Hayao miyazaki",
 "d": "jeu 12/11 18:05",
@@ -546,6 +531,19 @@
 ],
 "sc": 18,
 "u": "https://www.paris.fr/evenements/cafe-cine-l-histoire-de-la-science-fiction-88646"
+},
+{
+"id": "efe606d86557",
+"t": "Mario Panteliadis",
+"d": "jeu 12/11 19:00",
+"l": "Église Saint-Julien-le-Pauvre (5e)",
+"p": "?",
+"th": [
+"classique",
+"concert"
+],
+"sc": 21,
+"u": "https://75.agendaculturel.fr/concert/mario-panteliadis.html"
 },
 {
 "id": "8ea0d0984752",
@@ -633,17 +631,17 @@
 "dec": 1
 },
 {
-"id": "7cb1f26c9afa",
-"t": "La gourmandise dans la peinture occidentale : une conférence savoureuse",
-"d": "sam 14/11 14:00",
-"l": "Bibliothèque Louise Walser-Gaillard (9e)",
-"p": "gratuit",
+"id": "abbef32830c6",
+"t": "LEEE JOHN OF IMAGINATION",
+"d": "sam 14/11 00:00",
+"l": "New Morning (10e)",
+"p": "?",
 "th": [
-"expo",
-"talk"
+"jazz",
+"concert"
 ],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/la-gourmandise-dans-la-peinture-occidentale-une-conference-savoureuse-124116"
+"sc": 20,
+"u": "http://www.newmorning.com/20261114-7736-leee-john-of-imagination.html"
 },
 {
 "id": "cc1982d1d808",
@@ -772,6 +770,19 @@
 "mode": "moyen",
 "candidats": [
 {
+"id": "5ee486e43e7d",
+"t": "GINTON",
+"d": "mer 25/11 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 18,
+"u": "http://www.newmorning.com/20261125-7762-ginton.html"
+},
+{
 "id": "83e65417ec90",
 "t": "La putain de performance",
 "d": "mer 25/11 19:30",
@@ -823,19 +834,6 @@
 ],
 "sc": 24,
 "u": "https://www.paris.fr/evenements/recital-musical-etty-rilke-une-quete-d-absolu-126527"
-},
-{
-"id": "32d30f57d0b3",
-"t": "Concert Nous Sommes le Vent par l'harmonie de La Sirène et Hormê",
-"d": "dim 29/11 15:00",
-"l": "Conservatoire Municipal Darius Milhaud (14e)",
-"p": "gratuit",
-"th": [
-"concert"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/concert-nous-sommes-le-vent-par-l-harmonie-de-la-sirene-et-horme-115885",
-"r": "https://www.helloasso.com/associations/la-sirene-de-paris/evenements/nous-sommes-le-vent-concert-harmonie"
 }
 ]
 },
@@ -859,32 +857,6 @@
 "sc": 18,
 "u": "https://www.paris.fr/evenements/cycle-ia-democraties-et-milieu-informationnel-103234",
 "r": "https://billetterie.theatredelaconcorde.paris/selection/event/date?productId=10229949112708"
-},
-{
-"id": "7587c1392673",
-"t": "À l’œuvre : Mariam The Believer",
-"d": "jeu 03/12 18:00",
-"l": "Institut Suédois (3e)",
-"p": "gratuit",
-"th": [
-"concert"
-],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/a-l-oeuvre-mariam-the-believer-126336",
-"r": "https://paris.si.se/agenda/a-loeuvre-mariam-the-believer/"
-},
-{
-"id": "58c9492a26ce",
-"t": "Cézanne : Le regard en feu",
-"d": "ven 04/12 17:30",
-"l": "Bibliothèque Mohammed Arkoun (5e)",
-"p": "gratuit",
-"th": [
-"expo",
-"talk"
-],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/cezanne-le-regard-en-feu-125106"
 },
 {
 "id": "8ab6ae216f7b",
@@ -912,6 +884,32 @@
 ],
 "sc": 22,
 "u": "https://www.paris.fr/evenements/visions-d-avant-garde-les-pionnieres-de-l-experimentation-cinematographique-cine-concert-d-olivier-longre-118503"
+},
+{
+"id": "6bcbcefae163",
+"t": "CIGARILLOS EN EL SHTRUDDLE",
+"d": "lun 07/12 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 20,
+"u": "http://www.newmorning.com/20261207-7805-cigarillos-en-el-shtruddle.html"
+},
+{
+"id": "1ebc2865f165",
+"t": "Marco Castello",
+"d": "lun 07/12 19:30",
+"l": "La Bellevilloise (20e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 23,
+"u": "https://75.agendaculturel.fr/concert/marco-castello.html"
 }
 ]
 },
@@ -923,31 +921,17 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "815b44391d37",
-"t": "#JazzDeDemain #LaPetiteHeure by… Le Ninon Valder Ensemble",
-"d": "jeu 10/12 18:00",
-"l": "Le Baiser Salé (1e)",
-"p": "13 €",
+"id": "4b44c68f0862",
+"t": "Tasha e Tracie + Deize Tigrona",
+"d": "mer 09/12 00:00",
+"l": "La Bellevilloise (20e)",
+"p": "?",
 "th": [
 "jazz",
 "concert"
 ],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/jazzdedemain-lapetiteheure-by-le-ninon-valder-ensemble-116677",
-"r": "https://www.billetweb.fr/bo/lists.php?type=promo"
-},
-{
-"id": "5874af3b30c3",
-"t": "David Sauzay Quartet / ‘Live at the Jass Club’",
-"d": "jeu 10/12 18:30",
-"l": "JASS CLUB PARIS (13e)",
-"p": "10 €",
-"th": [
-"concert",
-"techno"
-],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/david-sauzay-quartet-live-at-the-jass-club-125684"
+"sc": 21,
+"u": "https://75.agendaculturel.fr/concert/tasha-e-tracie-deize-tigrona.html"
 },
 {
 "id": "114aaae1c845",
@@ -989,6 +973,18 @@
 "sc": 16,
 "u": "https://www.paris.fr/evenements/copie-de-je-cherche-les-notes-qui-s-aiment-wolfgang-amadeus-mozart-113767",
 "r": "https://www.chatelet.com/programmation/26-27/lart-de-la-nuance/"
+},
+{
+"id": "47eb000e4556",
+"t": "Les Pêcheurs de perles",
+"d": "lun 14/12 00:00",
+"l": "Théâtre des Champs-Élysées (8e)",
+"p": "?",
+"th": [
+"classique"
+],
+"sc": 23,
+"u": "https://75.agendaculturel.fr/concert/les-pecheurs-de-perles.html"
 }
 ]
 },
@@ -1011,6 +1007,19 @@
 "sc": 5,
 "u": "https://www.paris.fr/evenements/feux-d-artifices-haendel-mozart-123626",
 "r": "https://www.orchestredechambredeparis.com/concert/feux-dartifices/"
+},
+{
+"id": "8eb74b85a794",
+"t": "MUSIC IS OUR SANCTUARY : TRIBUTE TO MIZELL BROTHERS BY ALDORANDE & FRIENDS",
+"d": "ven 18/12 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 22,
+"u": "http://www.newmorning.com/20261218-7810-music-is-our-sanctuary-tribute-to-mizell-brothers-by-aldorande-friends.html"
 }
 ]
 },
@@ -1072,6 +1081,19 @@
 "pe": 1
 },
 {
+"id": "9f7289ec6bc4",
+"t": "SOPHIE ALOUR",
+"d": "mar 26/01 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 16,
+"u": "http://www.newmorning.com/20270126-7846-sophie-alour.html"
+},
+{
 "id": "973375119eb2",
 "t": "Beethoven l'Empereur",
 "d": "dim 31/01 17:00",
@@ -1093,6 +1115,19 @@
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
+{
+"id": "474b671e99bf",
+"t": "FRANCESCA TANDOI",
+"d": "mar 09/02 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 16,
+"u": "http://www.newmorning.com/20270209-7791-francesca-tandoi.html"
+},
 {
 "id": "38548305082e",
 "t": "CARTE BLANCHE À THOMAS ENHCO",
@@ -1130,6 +1165,19 @@
 "mode": "anticiper",
 "candidats": [
 {
+"id": "80e88b452df0",
+"t": "COMPLET - 13/03/2027 - JEANNE ADDED",
+"d": "sam 13/03 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 20,
+"u": "http://www.newmorning.com/20270313-7912-jeanne-added.html"
+},
+{
 "id": "f41f133510d6",
 "t": "Concert Européennes - Orchestre Pasdeloup",
 "d": "sam 13/03 14:00",
@@ -1165,6 +1213,19 @@
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
+{
+"id": "c8d95ecf68fc",
+"t": "EDDIE 9V",
+"d": "mer 31/03 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 16,
+"u": "http://www.newmorning.com/20270331-7815-eddie-9v.html"
+},
 {
 "id": "a0248c909a6d",
 "t": "Jardin secret",
