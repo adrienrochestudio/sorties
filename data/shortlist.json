@@ -1,12 +1,13 @@
 {
 "genere": "2026-10-26",
 "stats": {
-"rejet": 1377,
-"retenu": 2073,
+"rejet": 1363,
+"hors_zone": 702,
+"retenu": 2069,
 "hors_horizon": 252,
-"hors_zone": 703,
 "trop_cher": 84,
 "horaire": 182,
+"deja_suggere": 12,
 "hors_paris_semaine": 6
 },
 "buckets": [
@@ -82,7 +83,7 @@
 "cinema",
 "classique"
 ],
-"sc": 32,
+"sc": 28,
 "u": "https://75.agendaculturel.fr/concert/piano-pulse-5.html"
 },
 {
@@ -95,7 +96,7 @@
 "jazz",
 "classique"
 ],
-"sc": 22,
+"sc": 21,
 "u": "https://75.agendaculturel.fr/concert/leo-labarriere-trio.html"
 },
 {
@@ -108,7 +109,7 @@
 "jazz",
 "concert"
 ],
-"sc": 18,
+"sc": 17,
 "u": "https://www.paris.fr/evenements/jazzdedemain-arlet-feuillard-the-syntest-quintet-116223",
 "r": "https://www.lebaisersale.com/fr/agenda/5962-jazzdedemain-arlet-feuillard-the-syntest-quintet"
 },
@@ -122,7 +123,7 @@
 "jazz",
 "concert"
 ],
-"sc": 18,
+"sc": 17,
 "u": "https://www.paris.fr/evenements/carte-blanche-a-camille-bertault-jazz-compositions-au-38riv-jazz-club-118423",
 "r": "https://38riv.com/concerts/carte-blanche-camille-bertault-1"
 },
@@ -136,7 +137,7 @@
 "jazz",
 "concert"
 ],
-"sc": 23,
+"sc": 22,
 "u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
 "r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
 },
@@ -182,6 +183,18 @@
 "dec": 1
 },
 {
+"id": "d032869ac003",
+"t": "Petit déjeuner musical - Voix, ce que tu peux faire !",
+"d": "sam 31/10 10:00",
+"l": "Médiathèque Jean-Pierre Melville (13e)",
+"p": "gratuit",
+"th": [
+"talk"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/petit-dejeuner-musical-voix-ce-que-tu-peux-faire-115024"
+},
+{
 "id": "169d8fc8ca7d",
 "t": "Philippe Alègre",
 "d": "dim 01/11 00:00",
@@ -191,7 +204,7 @@
 "classique",
 "concert"
 ],
-"sc": 21,
+"sc": 19,
 "u": "https://75.agendaculturel.fr/concert/philippe-alegre-3.html"
 },
 {
@@ -209,19 +222,6 @@
 "dec": 1
 },
 {
-"id": "dd5b9657ae72",
-"t": "États sensibles #2 — Performance de peinture live & piano improvisé",
-"d": "lun 02/11 18:00",
-"l": "Rêva (13e)",
-"p": "?",
-"th": [
-"classique",
-"concert"
-],
-"sc": 17,
-"u": "https://www.paris.fr/evenements/etats-sensibles-2-performance-de-peinture-live-piano-improvise-123386"
-},
-{
 "id": "769721aec77a",
 "t": "Les lundis jazz manouche du Piano Vache",
 "d": "lun 02/11 20:00",
@@ -231,7 +231,7 @@
 "jazz",
 "classique"
 ],
-"sc": 24,
+"sc": 22,
 "u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
 "r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
 }
@@ -268,7 +268,7 @@
 "th": [
 "concert"
 ],
-"sc": 17,
+"sc": 16,
 "u": "https://www.paris.fr/evenements/square-noon-115101",
 "r": "https://lemelville.fr/?p=6106"
 },
@@ -282,7 +282,7 @@
 "jazz",
 "concert"
 ],
-"sc": 18,
+"sc": 17,
 "u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115812",
 "r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
@@ -310,7 +310,7 @@
 "jazz",
 "concert"
 ],
-"sc": 23,
+"sc": 22,
 "u": "https://www.paris.fr/evenements/copie-de-jam-session-jazz-au-38riv-animee-par-solene-cairoli-80910",
 "r": "https://38riv.com/concerts?search=solene%20Cairoli&category=All"
 },
@@ -324,7 +324,7 @@
 "classique",
 "concert"
 ],
-"sc": 18,
+"sc": 16,
 "u": "https://www.paris.fr/evenements/concert-the-sounds-of-revolution-america-250-in-opera-126312",
 "r": "https://www.helloasso.com/associations/fondation-des-etats-unis/evenements/concert-the-sounds-of-revolution-ameria-250-in-opera"
 },
@@ -351,7 +351,7 @@
 "th": [
 "concert"
 ],
-"sc": 22,
+"sc": 21,
 "u": "https://www.paris.fr/evenements/concert-gratuit-ukraine-trois-siecles-de-musique-126184",
 "r": "https://www.billetweb.fr/terre-de-musiques-op-1-ukraine"
 },
@@ -379,7 +379,7 @@
 "classique",
 "concert"
 ],
-"sc": 23,
+"sc": 21,
 "u": "https://www.paris.fr/evenements/recital-de-piano-beethoven-schubert-125705"
 },
 {
@@ -424,6 +424,19 @@
 "dec": 1
 },
 {
+"id": "00c807cfd8d5",
+"t": "Rencontre avec Thibault Lafargue",
+"d": "sam 07/11 17:00",
+"l": "Bibliothèque Rainer Maria Rilke (5e)",
+"p": "gratuit",
+"th": [
+"litterature",
+"talk"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/rencontre-avec-thibault-lafargue-125503"
+},
+{
 "id": "efc60f95380c",
 "t": "Concert : Florilège de Choeurs sacrés - 7 novembre 2026",
 "d": "sam 07/11 19:45",
@@ -432,7 +445,7 @@
 "th": [
 "concert"
 ],
-"sc": 19,
+"sc": 18,
 "u": "https://www.paris.fr/evenements/concert-florilege-de-choeurs-sacres-7-nov-2026-125957",
 "r": "https://www.helloasso.com/associations/choeur-et-orchestre-symphonique-de-paris/evenements/concert-florilege-de-choeurs-sacres-7-nov-2026"
 },
@@ -446,21 +459,8 @@
 "classique",
 "concert"
 ],
-"sc": 25,
+"sc": 23,
 "u": "https://75.agendaculturel.fr/concert/alexandra-nomidou.html"
-},
-{
-"id": "89b533a880b2",
-"t": "OI VA VOI",
-"d": "lun 09/11 00:00",
-"l": "New Morning (10e)",
-"p": "?",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 18,
-"u": "http://www.newmorning.com/20261109-7804-festival-jazz-n-klezmer-oi-va-voi.html"
 }
 ]
 },
@@ -481,23 +481,9 @@
 "concert",
 "theatre"
 ],
-"sc": 16,
+"sc": 15,
 "u": "https://www.paris.fr/evenements/peacock-dreams-abdullah-miniawy-trio-125901",
 "r": "https://billetterie-culture.u-pariscite.fr/event/798164-peacock-dreams-abdullah-miniawy-trio"
-},
-{
-"id": "d8a67008f95f",
-"t": "Les mardis blues du Piano Vache",
-"d": "mar 10/11 18:30",
-"l": "Le Piano Vache (5e)",
-"p": "gratuit",
-"th": [
-"classique",
-"concert"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/les-mardis-blues-du-piano-vache-125555",
-"r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-mardi#reserver"
 },
 {
 "id": "e793e1c81b4c",
@@ -509,7 +495,7 @@
 "jazz",
 "concert"
 ],
-"sc": 15,
+"sc": 14,
 "u": "https://www.paris.fr/evenements/jam-session-funk-au-38riv-animee-par-pierre-gibbe-80899",
 "r": "https://38riv.com/concerts?search=pierre%20gibbe&category=39"
 },
@@ -522,22 +508,37 @@
 "th": [
 "concert"
 ],
-"sc": 15,
+"sc": 14,
 "u": "https://www.paris.fr/evenements/jean-charles-acquaviva-trio-116285",
 "r": "https://lemelville.fr/?p=6439"
 },
 {
-"id": "7ead114a29ff",
-"t": "Café ciné : le cinéma d’Hayao miyazaki",
-"d": "jeu 12/11 18:05",
-"l": "Bibliothèque Toni Morrison (11e)",
+"id": "efba594ad3a4",
+"t": "Conférence Sonia Delaunay",
+"d": "jeu 12/11 18:00",
+"l": "Bibliothèque Amélie (7e)",
 "p": "gratuit",
 "th": [
-"cinema",
+"expo",
 "talk"
 ],
-"sc": 18,
-"u": "https://www.paris.fr/evenements/cafe-cine-l-histoire-de-la-science-fiction-88646"
+"sc": 14,
+"u": "https://www.paris.fr/evenements/conference-artora-sonia-delaunay-108261",
+"r": "https://artora.fr/"
+},
+{
+"id": "ab4c4bd96f9e",
+"t": "La Velu.e - cabaret de tous poils",
+"d": "jeu 12/11 18:00",
+"l": "Cirque Electrique (20e)",
+"p": "12 €",
+"th": [
+"theatre"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/la-velu-e-cabaret-de-tous-poils-123572",
+"r": "https://shotgun.live/fr/events/velu-e-cabaret-afterwork-le-cirque-electrique-10",
+"dec": 1
 },
 {
 "id": "efe606d86557",
@@ -549,7 +550,7 @@
 "classique",
 "concert"
 ],
-"sc": 21,
+"sc": 19,
 "u": "https://75.agendaculturel.fr/concert/mario-panteliadis.html"
 },
 {
@@ -591,7 +592,7 @@
 "classique",
 "concert"
 ],
-"sc": 19,
+"sc": 17,
 "u": "https://www.paris.fr/evenements/henri-louis-recital-a-piano-academie-126083",
 "r": "https://app.piano-academie.com/events/henri-louis-liberte-egalite-fraternite-13-novembre-2026?_gl=1*euc1rh*_gcl_aw*R0NMLjE3OTE5OTg0NzkuQ2p3S0NBancwTHpXQmhCT0Vpd0FLUWQwY0lWUU1INUQ0cUZTVl9xSVItYndzQ1NQT05QS19XdW1ZRTFkWXJMTUV5UEdfQTF3aVFXYVp4b0M1bklRQXZEX0J3RQ..*_gcl_au*MTIxMzE2NjE4MC4xNzg3NzUyMTQx"
 },
@@ -605,7 +606,7 @@
 "concert",
 "theatre"
 ],
-"sc": 16,
+"sc": 15,
 "u": "https://www.paris.fr/evenements/pauline-mann-en-concert-118498",
 "r": "https://bibliocite.fr/evenements/"
 },
@@ -633,7 +634,7 @@
 "jazz",
 "concert"
 ],
-"sc": 20,
+"sc": 17,
 "u": "http://www.newmorning.com/20261114-7736-leee-john-of-imagination.html"
 },
 {
@@ -650,6 +651,19 @@
 "u": "https://www.paris.fr/evenements/soyez-nos-voix-exposition-transfrontaliere-et-itinerante-126158"
 },
 {
+"id": "7cb1f26c9afa",
+"t": "La gourmandise dans la peinture occidentale : une conférence savoureuse",
+"d": "sam 14/11 14:00",
+"l": "Bibliothèque Louise Walser-Gaillard (9e)",
+"p": "gratuit",
+"th": [
+"expo",
+"talk"
+],
+"sc": 14,
+"u": "https://www.paris.fr/evenements/la-gourmandise-dans-la-peinture-occidentale-une-conference-savoureuse-124116"
+},
+{
 "id": "7314796e9684",
 "t": "#Rdv avec LE QUINT’UP",
 "d": "sam 14/11 18:00",
@@ -658,22 +672,9 @@
 "th": [
 "concert"
 ],
-"sc": 18,
+"sc": 17,
 "u": "https://www.paris.fr/evenements/rdv-avec-le-quint-up-114466",
 "r": "https://www.lebaisersale.com/fr/agenda?date_concert=24%2F09%2F2026&artiste=LE+QUINT%E2%80%99UP"
-},
-{
-"id": "97144578a9f4",
-"t": "CIRQUE SHAM",
-"d": "dim 15/11 14:00",
-"l": "Conservatoire Darius Milhaud (14e)",
-"p": "gratuit",
-"th": [
-"cirque"
-],
-"sc": 6,
-"u": "https://www.paris.fr/evenements/cirque-sham-125545",
-"dec": 1
 },
 {
 "id": "3ef04b4ee401",
@@ -685,7 +686,7 @@
 "classique",
 "concert"
 ],
-"sc": 24,
+"sc": 22,
 "u": "https://www.paris.fr/evenements/lucie-deroian-chant-corine-durous-piano-126246"
 }
 ]
@@ -698,20 +699,6 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "1eb0a18cc85d",
-"t": "Ciné-concert : «Gyurkovicsarna» (1920)",
-"d": "mar 17/11 18:30",
-"l": "Fondation Jérôme Seydoux-Pathé (13e)",
-"p": "gratuit",
-"th": [
-"cinema",
-"concert"
-],
-"sc": 25,
-"u": "https://www.paris.fr/evenements/cine-concert-gyurkovicsarna-1920-126369",
-"r": "https://www.fondation-jeromeseydoux-pathe.com/event/3363"
-},
-{
 "id": "cc3f281e9f7a",
 "t": "JAZZETTE à La Trockette 2.2",
 "d": "mer 18/11 18:00",
@@ -721,7 +708,7 @@
 "jazz",
 "concert"
 ],
-"sc": 20,
+"sc": 19,
 "u": "https://www.paris.fr/evenements/jazzette-a-la-trockette-2-2-125707"
 },
 {
@@ -733,9 +720,23 @@
 "th": [
 "concert"
 ],
-"sc": 24,
+"sc": 23,
 "u": "https://www.paris.fr/evenements/thierry-peala-et-verioca-lherm-les-20-ans-du-duo-118095",
 "r": "https://www.billetweb.fr/thierry-p-ala-v-rioca-lherm-les-20-ans-du-duo-thierry-peala-verioca-lherm-roberto-de-olivei"
+},
+{
+"id": "db92678f9d0a",
+"t": "Paris contre l'oligarchie internationale",
+"d": "sam 21/11 10:30",
+"l": "Théâtre de la Concorde (8e)",
+"p": "8 €",
+"th": [
+"theatre",
+"talk"
+],
+"sc": 17,
+"u": "https://www.paris.fr/evenements/paris-contre-l-oligarchie-internationale-126136",
+"r": "https://billetterie.theatredelaconcorde.paris/selection/package?productId=10230060106632"
 },
 {
 "id": "0f130ac592f8",
@@ -747,7 +748,7 @@
 "jazz",
 "concert"
 ],
-"sc": 20,
+"sc": 19,
 "u": "https://www.paris.fr/evenements/jake-sherman-en-concert-au-38riv-jazz-club-125759",
 "r": "https://38riv.com/concerts/jake-sherman"
 },
@@ -784,7 +785,7 @@
 "jazz",
 "concert"
 ],
-"sc": 18,
+"sc": 15,
 "u": "http://www.newmorning.com/20261125-7762-ginton.html"
 },
 {
@@ -824,21 +825,21 @@
 "classique",
 "concert"
 ],
-"sc": 28,
+"sc": 26,
 "u": "https://www.paris.fr/evenements/chant-et-piano-126324"
 },
 {
-"id": "498e9aaa8bd2",
-"t": "Récital musical Etty & Rilke, une quête d'Absolu",
-"d": "sam 28/11 17:00",
-"l": "Bibliothèque Rainer Maria Rilke (5e)",
+"id": "32d30f57d0b3",
+"t": "Concert Nous Sommes le Vent par l'harmonie de La Sirène et Hormê",
+"d": "dim 29/11 15:00",
+"l": "Conservatoire Municipal Darius Milhaud (14e)",
 "p": "gratuit",
 "th": [
-"classique",
 "concert"
 ],
-"sc": 24,
-"u": "https://www.paris.fr/evenements/recital-musical-etty-rilke-une-quete-d-absolu-126527"
+"sc": 15,
+"u": "https://www.paris.fr/evenements/concert-nous-sommes-le-vent-par-l-harmonie-de-la-sirene-et-horme-115885",
+"r": "https://www.helloasso.com/associations/la-sirene-de-paris/evenements/nous-sommes-le-vent-concert-harmonie"
 }
 ]
 },
@@ -864,6 +865,32 @@
 "r": "https://billetterie.theatredelaconcorde.paris/selection/event/date?productId=10229949112708"
 },
 {
+"id": "7587c1392673",
+"t": "À l’œuvre : Mariam The Believer",
+"d": "jeu 03/12 18:00",
+"l": "Institut Suédois (3e)",
+"p": "gratuit",
+"th": [
+"concert"
+],
+"sc": 17,
+"u": "https://www.paris.fr/evenements/a-l-oeuvre-mariam-the-believer-126336",
+"r": "https://paris.si.se/agenda/a-loeuvre-mariam-the-believer/"
+},
+{
+"id": "58c9492a26ce",
+"t": "Cézanne : Le regard en feu",
+"d": "ven 04/12 17:30",
+"l": "Bibliothèque Mohammed Arkoun (5e)",
+"p": "gratuit",
+"th": [
+"expo",
+"talk"
+],
+"sc": 18,
+"u": "https://www.paris.fr/evenements/cezanne-le-regard-en-feu-125106"
+},
+{
 "id": "8ab6ae216f7b",
 "t": "Ouvrons les écoutilles ! - Four-Eight Sound - Vincent Meurisse alias Kent Riss",
 "d": "ven 04/12 18:30",
@@ -878,32 +905,6 @@
 "dec": 1
 },
 {
-"id": "2095fdf3612f",
-"t": "Visions d’avant-garde - les pionnières de l’expérimentation cinématographique. Ciné-concert d'Olivier Longre",
-"d": "sam 05/12 14:00",
-"l": "Bibliothèque Buffon (5e)",
-"p": "gratuit",
-"th": [
-"cinema",
-"concert"
-],
-"sc": 22,
-"u": "https://www.paris.fr/evenements/visions-d-avant-garde-les-pionnieres-de-l-experimentation-cinematographique-cine-concert-d-olivier-longre-118503"
-},
-{
-"id": "6bcbcefae163",
-"t": "CIGARILLOS EN EL SHTRUDDLE",
-"d": "lun 07/12 00:00",
-"l": "New Morning (10e)",
-"p": "?",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 20,
-"u": "http://www.newmorning.com/20261207-7805-cigarillos-en-el-shtruddle.html"
-},
-{
 "id": "1ebc2865f165",
 "t": "Marco Castello",
 "d": "lun 07/12 19:30",
@@ -913,7 +914,7 @@
 "jazz",
 "concert"
 ],
-"sc": 23,
+"sc": 22,
 "u": "https://75.agendaculturel.fr/concert/marco-castello.html"
 }
 ]
@@ -935,21 +936,8 @@
 "jazz",
 "concert"
 ],
-"sc": 21,
+"sc": 20,
 "u": "https://75.agendaculturel.fr/concert/tasha-e-tracie-deize-tigrona.html"
-},
-{
-"id": "9fca269aad65",
-"t": "Jean Rondeau en récital",
-"d": "jeu 10/12 20:00",
-"l": "Cité de la musique, Salle des concerts (Paris)",
-"p": "11 €",
-"th": [
-"classique"
-],
-"sc": 32,
-"u": "https://philharmoniedeparis.fr/fr/activite/recital/29452-jean-rondeau",
-"ant": "ouverte"
 },
 {
 "id": "114aaae1c845",
@@ -961,7 +949,7 @@
 "jazz",
 "concert"
 ],
-"sc": 21,
+"sc": 20,
 "u": "https://www.paris.fr/evenements/laura-buenrostro-latin-jazz-126470"
 },
 {
@@ -979,6 +967,20 @@
 "dec": 1
 },
 {
+"id": "30d6eecadf61",
+"t": "L’art de la nuance",
+"d": "dim 13/12 10:00",
+"l": "Théâtre du Châtelet (1e)",
+"p": "35 €",
+"th": [
+"concert",
+"theatre"
+],
+"sc": 15,
+"u": "https://www.paris.fr/evenements/copie-de-je-cherche-les-notes-qui-s-aiment-wolfgang-amadeus-mozart-113767",
+"r": "https://www.chatelet.com/programmation/26-27/lart-de-la-nuance/"
+},
+{
 "id": "47eb000e4556",
 "t": "Les Pêcheurs de perles",
 "d": "lun 14/12 00:00",
@@ -987,7 +989,7 @@
 "th": [
 "classique"
 ],
-"sc": 23,
+"sc": 22,
 "u": "https://75.agendaculturel.fr/concert/les-pecheurs-de-perles.html"
 }
 ]
@@ -1000,6 +1002,19 @@
 "mode": "anticiper",
 "candidats": [
 {
+"id": "3f1b6333b4d4",
+"t": "Haendel, Acis et Galatée, Les Arts Florissants",
+"d": "mar 15/12 20:00",
+"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
+"p": "11 €",
+"th": [
+"classique"
+],
+"sc": 21,
+"u": "https://philharmoniedeparis.fr/fr/activite/opera-en-concert/29333-georg-friedrich-haendel-acis-et-galatee",
+"ant": "ouverte"
+},
+{
 "id": "fb5d1f6f28a9",
 "t": "FEUX D'ARTIFICES | HAENDEL | MOZART",
 "d": "jeu 17/12 19:00",
@@ -1008,7 +1023,7 @@
 "th": [
 "concert"
 ],
-"sc": 5,
+"sc": 4,
 "u": "https://www.paris.fr/evenements/feux-d-artifices-haendel-mozart-123626",
 "r": "https://www.orchestredechambredeparis.com/concert/feux-dartifices/"
 },
@@ -1022,23 +1037,8 @@
 "jazz",
 "concert"
 ],
-"sc": 22,
+"sc": 19,
 "u": "http://www.newmorning.com/20261218-7810-music-is-our-sanctuary-tribute-to-mizell-brothers-by-aldorande-friends.html"
-},
-{
-"id": "e8d83e3761fe",
-"t": "Les Demoiselles de Rochefort en ciné-concert",
-"d": "sam 19/12 > 20/12",
-"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
-"p": "11 €",
-"th": [
-"cinema",
-"classique"
-],
-"sc": 27,
-"u": "https://philharmoniedeparis.fr/fr/activite/cine-concert/29390-les-demoiselles-de-rochefort",
-"pe": 1,
-"ant": "ouverte"
 }
 ]
 },
@@ -1050,21 +1050,6 @@
 "mode": "anticiper",
 "candidats": [
 {
-"id": "a94eb36dcff2",
-"t": "Nouvel An à Prague, Originální Pražský Synkopický Orchestr",
-"d": "mer 30/12 > 02/01",
-"l": "Auditorium-Orchestre national de Lyon (Lyon)",
-"p": "14 €",
-"th": [
-"classique"
-],
-"sc": 24,
-"u": "https://www.auditorium-lyon.com/fr/saison-2026-27/symphonique/nouvel-an-prague",
-"pe": 1,
-"ant": "ouverte",
-"train": "2h00"
-},
-{
 "id": "10635b017658",
 "t": "Natalie Dessay, la Nuit Américaine",
 "d": "sam 09/01 19:30",
@@ -1074,7 +1059,7 @@
 "concert",
 "theatre"
 ],
-"sc": 9,
+"sc": 8,
 "u": "https://www.paris.fr/evenements/natalie-dessay-la-nuit-americaine-115695",
 "r": "https://sallegaveau.com/event-pro/nuit-americaine-natalie-dessay-neima-naouri/"
 }
@@ -1096,7 +1081,7 @@
 "th": [
 "classique"
 ],
-"sc": 22,
+"sc": 21,
 "u": "https://philharmoniedeparis.fr/fr/activite/recital-piano/29174-khatia-buniatishvili",
 "ant": "ouverte"
 },
@@ -1110,22 +1095,8 @@
 "jazz",
 "classique"
 ],
-"sc": 18,
+"sc": 15,
 "u": "https://www.newmorning.com/20270121-7792-shalosh.html",
-"ant": "ouverte"
-},
-{
-"id": "30e10a93edc7",
-"t": "Visions sonores : Berlin, symphonie d'une grande ville et L'Homme à la caméra",
-"d": "dim 24/01 16:00",
-"l": "Cité de la musique, Salle des concerts (Paris)",
-"p": "11 €",
-"th": [
-"cinema",
-"classique"
-],
-"sc": 20,
-"u": "https://philharmoniedeparis.fr/fr/activite/cine-concert/29354-visions-sonores",
 "ant": "ouverte"
 },
 {
@@ -1137,10 +1108,25 @@
 "th": [
 "classique"
 ],
-"sc": 13,
+"sc": 12,
 "u": "https://www.operadeparis.fr/saison-26-27/opera/katia-kabanova",
 "pe": 1,
 "ant": "ouverte"
+},
+{
+"id": "809f0a1949f2",
+"t": "Constanza Macras, Dorky Park, The Hunger",
+"d": "ven 29/01 > 30/01",
+"l": "Opéra de Lille (Lille)",
+"p": "6 €",
+"th": [
+"danse"
+],
+"sc": 12,
+"u": "https://www.opera-lille.fr/spectacle/the-hunger/",
+"pe": 1,
+"ant": "ouverte",
+"train": "1h00"
 }
 ]
 },
@@ -1161,23 +1147,22 @@
 "cinema",
 "concert"
 ],
-"sc": 36,
+"sc": 35,
 "u": "https://philharmoniedeparis.fr/fr/activite/cine-concert/29356-metropolis",
 "ant": "ouverte"
 },
 {
-"id": "4127bc000379",
-"t": "Francesca Tandoi",
-"d": "mar 09/02 20:30",
-"l": "New Morning (Paris)",
+"id": "474b671e99bf",
+"t": "FRANCESCA TANDOI",
+"d": "mar 09/02 00:00",
+"l": "New Morning (10e)",
 "p": "?",
 "th": [
 "jazz",
-"classique"
+"concert"
 ],
-"sc": 18,
-"u": "https://www.newmorning.com/20270209-7791-francesca-tandoi.html",
-"ant": "ouverte"
+"sc": 13,
+"u": "http://www.newmorning.com/20270209-7791-francesca-tandoi.html"
 },
 {
 "id": "42355376ef33",
@@ -1188,7 +1173,7 @@
 "th": [
 "classique"
 ],
-"sc": 15,
+"sc": 14,
 "u": "https://www.operanationaldurhin.eu/fr/spectacles/saison-26-27/concert/stephane-degout-1",
 "ant": "ouverte",
 "train": "1h50"
@@ -1202,7 +1187,7 @@
 "th": [
 "classique"
 ],
-"sc": 17,
+"sc": 16,
 "u": "https://www.chatelet.com/programmation/26-27/vivaldi-rebel/",
 "ant": "ouverte"
 }
@@ -1216,19 +1201,6 @@
 "mode": "anticiper",
 "candidats": [
 {
-"id": "0776f64322e5",
-"t": "Benjamin Bernheim, récital de chant",
-"d": "mer 03/03 20:00",
-"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
-"p": "11 €",
-"th": [
-"classique"
-],
-"sc": 28,
-"u": "https://philharmoniedeparis.fr/fr/activite/recital-vocal/29304-benjamin-bernheim-carrie-ann-matheson",
-"ant": "ouverte"
-},
-{
 "id": "e255823df445",
 "t": "Bach au cinéma, Orchestre national d'Île-de-France",
 "d": "ven 05/03 20:00",
@@ -1238,7 +1210,7 @@
 "cinema",
 "classique"
 ],
-"sc": 26,
+"sc": 25,
 "u": "https://philharmoniedeparis.fr/fr/activite/concert-avec-images/29437-bach-au-cinema",
 "ant": "ouverte"
 },
@@ -1251,9 +1223,22 @@
 "th": [
 "classique"
 ],
-"sc": 18,
+"sc": 17,
 "u": "https://www.operadeparis.fr/saison-26-27/concert-et-recital/recital-piotr-beczala",
 "dim_soir": 1,
+"ant": "ouverte"
+},
+{
+"id": "2bd44f65ca1a",
+"t": "Evgeny Kissin, récital de piano",
+"d": "lun 08/03 20:00",
+"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
+"p": "11 €",
+"th": [
+"classique"
+],
+"sc": 21,
+"u": "https://philharmoniedeparis.fr/fr/activite/recital-piano/29288-evgeny-kissin",
 "ant": "ouverte"
 },
 {
@@ -1266,7 +1251,7 @@
 "jazz",
 "concert"
 ],
-"sc": 20,
+"sc": 17,
 "u": "http://www.newmorning.com/20270313-7912-jeanne-added.html"
 }
 ]
@@ -1279,19 +1264,6 @@
 "mode": "anticiper",
 "candidats": [
 {
-"id": "8a87f1cba864",
-"t": "Nelson Goerner, récital de piano",
-"d": "lun 05/04 20:00",
-"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
-"p": "11 €",
-"th": [
-"classique"
-],
-"sc": 22,
-"u": "https://philharmoniedeparis.fr/fr/activite/recital-piano/29346-nelson-goerner",
-"ant": "ouverte"
-},
-{
 "id": "27babf55bf9d",
 "t": "Aaron Parks Little Big",
 "d": "mer 07/04 19:30",
@@ -1301,8 +1273,21 @@
 "jazz",
 "classique"
 ],
-"sc": 22,
+"sc": 19,
 "u": "https://www.newmorning.com/20270407-7786-aaron-parks.html",
+"ant": "ouverte"
+},
+{
+"id": "1ecc50b4bfa7",
+"t": "Daniil Trifonov, récital de piano",
+"d": "ven 09/04 20:00",
+"l": "Philharmonie de Paris, Grande salle Pierre Boulez (Paris)",
+"p": "11 €",
+"th": [
+"classique"
+],
+"sc": 21,
+"u": "https://philharmoniedeparis.fr/fr/activite/recital-piano/29250-daniil-trifonov",
 "ant": "ouverte"
 },
 {
@@ -1314,7 +1299,7 @@
 "th": [
 "classique"
 ],
-"sc": 18,
+"sc": 17,
 "u": "https://philharmoniedeparis.fr/fr/activite/musique-de-chambre/29463-fete-du-piano",
 "ant": "ouverte"
 },
