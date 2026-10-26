@@ -11,7 +11,7 @@ Suggestions de sorties à Paris pour l'agenda d'Adrien, avec le moins d'IA possi
 - `consignes/hebdo.md` : ce que fait la tâche Claude du dimanche.
 - `site/` : la carte, publiée sur GitHub Pages.
 
-Cycle : samedi soir, l'Action collecte et publie la shortlist ; dimanche matin, Claude choisit, vérifie et crée les événements, puis pousse `data/suggeres.json` et `data/poids.json`, ce qui relance la carte.
+Cycle : samedi soir, l'Action collecte et publie la shortlist ; dimanche matin, Claude choisit, vérifie et crée les événements ; ensuite l'Action relit l'agenda, apprend des suppressions et met la carte à jour.
 
 ## Exploitation
 
