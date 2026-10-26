@@ -1,0 +1,2347 @@
+[
+ {
+  "id": "musee-orsay",
+  "nom": "Musée d'Orsay",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture",
+   "talk"
+  ],
+  "arrondissement": 7,
+  "adresse": "1 rue de la Légion d'Honneur, 75007 Paris",
+  "lat": 48.86,
+  "lon": 2.326,
+  "url_agenda": "https://www.musee-orsay.fr/fr/programme/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Nocturne le jeudi, auditorium, expositions sur le postimpressionnisme et le symbolisme."
+ },
+ {
+  "id": "louvre-auditorium",
+  "nom": "Louvre et Auditorium du Louvre",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture",
+   "talk",
+   "litterature"
+  ],
+  "arrondissement": 1,
+  "adresse": "Rue de Rivoli, 75001 Paris",
+  "lat": 48.861,
+  "lon": 2.336,
+  "url_agenda": "https://www.louvre.fr/en/what-s-on",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Nocturne le vendredi, conférences et lectures à l'auditorium."
+ },
+ {
+  "id": "mahj",
+  "nom": "Musée d'art et d'histoire du Judaïsme",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "talk",
+   "litterature"
+  ],
+  "arrondissement": 3,
+  "adresse": "71 rue du Temple, 75003 Paris",
+  "lat": 48.862,
+  "lon": 2.355,
+  "url_agenda": "https://www.mahj.org/fr/programme/l-agenda-du-mahj",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Expositions, rencontres et lectures, fort lien avec la culture d'Europe centrale."
+ },
+ {
+  "id": "bourse-commerce",
+  "nom": "Bourse de Commerce, Pinault Collection",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture",
+   "talk"
+  ],
+  "arrondissement": 1,
+  "adresse": "2 rue de Viarmes, 75001 Paris",
+  "lat": 48.863,
+  "lon": 2.343,
+  "url_agenda": "https://www.boursedecommerce.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Nocturne le vendredi, art contemporain, conférences et performances."
+ },
+ {
+  "id": "musee-cluny",
+  "nom": "Musée de Cluny, musée national du Moyen Âge",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "histoire",
+   "talk"
+  ],
+  "arrondissement": 5,
+  "adresse": "28 rue du Sommerard, 75005 Paris",
+  "lat": 48.851,
+  "lon": 2.344,
+  "url_agenda": "https://www.musee-moyenage.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Nocturnes, concerts et conférences autour du Moyen Âge."
+ },
+ {
+  "id": "musee-orangerie",
+  "nom": "Musée de l'Orangerie",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 1,
+  "adresse": "Jardin des Tuileries, 75001 Paris",
+  "lat": 48.864,
+  "lon": 2.322,
+  "url_agenda": "https://www.musee-orangerie.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Nymphéas de Monet, expositions de peinture moderne, auditorium."
+ },
+ {
+  "id": "petit-palais",
+  "nom": "Petit Palais",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture",
+   "talk"
+  ],
+  "arrondissement": 8,
+  "adresse": "Avenue Winston Churchill, 75008 Paris",
+  "lat": 48.866,
+  "lon": 2.314,
+  "url_agenda": "https://www.petitpalais.paris.fr/decouvrir-la-programmation/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Peinture figurative, nocturnes, conférences et lectures."
+ },
+ {
+  "id": "grand-palais",
+  "nom": "Grand Palais",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 8,
+  "adresse": "3 avenue du Général Eisenhower, 75008 Paris",
+  "lat": 48.866,
+  "lon": 2.312,
+  "url_agenda": "https://www.grandpalais.fr/fr/programmation",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Grandes expositions temporaires et événements dans la nef."
+ },
+ {
+  "id": "musee-rodin",
+  "nom": "Musée Rodin",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 7,
+  "adresse": "77 rue de Varenne, 75007 Paris",
+  "lat": 48.855,
+  "lon": 2.316,
+  "url_agenda": "https://www.musee-rodin.fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Lieu de Rilke, nocturnes d'été, lectures et concerts au jardin."
+ },
+ {
+  "id": "quai-branly",
+  "nom": "Musée du quai Branly",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "talk",
+   "cultures_du_monde"
+  ],
+  "arrondissement": 7,
+  "adresse": "37 quai Branly, 75007 Paris",
+  "lat": 48.861,
+  "lon": 2.298,
+  "url_agenda": "https://www.quaibranly.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Cultures du monde, théâtre-auditorium, nocturnes et conférences."
+ },
+ {
+  "id": "arts-metiers",
+  "nom": "Musée des Arts et Métiers",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "sciences"
+  ],
+  "arrondissement": 3,
+  "adresse": "60 rue Réaumur, 75003 Paris",
+  "lat": 48.866,
+  "lon": 2.355,
+  "url_agenda": "https://www.arts-et-metiers.net/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Instruments scientifiques et techniques, nocturnes et conférences."
+ },
+ {
+  "id": "cite-sciences",
+  "nom": "Cité des sciences et de l'industrie",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "sciences",
+   "ia",
+   "talk"
+  ],
+  "arrondissement": 19,
+  "adresse": "30 avenue Corentin Cariou, 75019 Paris",
+  "lat": 48.896,
+  "lon": 2.388,
+  "url_agenda": "https://www.cite-sciences.fr/fr/au-programme/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Sciences, conférences sur le numérique et l'IA."
+ },
+ {
+  "id": "carnavalet",
+  "nom": "Musée Carnavalet",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "histoire",
+   "talk"
+  ],
+  "arrondissement": 3,
+  "adresse": "23 rue de Sévigné, 75003 Paris",
+  "lat": 48.857,
+  "lon": 2.362,
+  "url_agenda": "https://www.carnavalet.paris.fr/evenements",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Histoire de Paris, entrée libre aux collections, conférences."
+ },
+ {
+  "id": "musee-picasso",
+  "nom": "Musée Picasso",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "5 rue de Thorigny, 75003 Paris",
+  "lat": 48.86,
+  "lon": 2.362,
+  "url_agenda": "https://www.museepicassoparis.fr/fr/agenda",
+  "flux": {
+   "type": "rss",
+   "url": "https://www.museepicassoparis.fr/fr/agenda/feed/"
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Peinture figurative et cubisme, nocturnes ponctuelles."
+ },
+ {
+  "id": "musee-montmartre",
+  "nom": "Musée de Montmartre",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 18,
+  "adresse": "12 rue Cortot, 75018 Paris",
+  "lat": 48.887,
+  "lon": 2.34,
+  "url_agenda": "https://www.museedemontmartre.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Atelier de Valadon et Utrillo, jardins, expositions de peinture."
+ },
+ {
+  "id": "musee-moreau",
+  "nom": "Musée Gustave Moreau",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 9,
+  "adresse": "14 rue de la Rochefoucauld, 75009 Paris",
+  "lat": 48.879,
+  "lon": 2.338,
+  "url_agenda": "https://musee-moreau.fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Peinture symboliste, atelier du peintre, visites et lectures."
+ },
+ {
+  "id": "jacquemart-andre",
+  "nom": "Musée Jacquemart-André",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 8,
+  "adresse": "158 boulevard Haussmann, 75008 Paris",
+  "lat": 48.875,
+  "lon": 2.311,
+  "url_agenda": "https://www.musee-jacquemart-andre.com/fr/evenements",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Expositions de peinture, nocturnes du lundi."
+ },
+ {
+  "id": "musee-maillol",
+  "nom": "Musée Maillol",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 7,
+  "adresse": "59-61 rue de Grenelle, 75007 Paris",
+  "lat": 48.855,
+  "lon": 2.325,
+  "url_agenda": "https://museemaillol.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Expositions d'art moderne et figuratif."
+ },
+ {
+  "id": "musee-delacroix",
+  "nom": "Musée national Eugène-Delacroix",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 6,
+  "adresse": "6 rue de Furstenberg, 75006 Paris",
+  "lat": 48.854,
+  "lon": 2.335,
+  "url_agenda": "https://www.musee-delacroix.fr/fr/programmation",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Atelier du peintre, petit jardin, expositions thématiques."
+ },
+ {
+  "id": "monnaie-de-paris",
+  "nom": "Monnaie de Paris",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "design"
+  ],
+  "arrondissement": 6,
+  "adresse": "11 quai de Conti, 75006 Paris",
+  "lat": 48.857,
+  "lon": 2.339,
+  "url_agenda": "https://www.monnaiedeparis.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Art contemporain, métiers d'art, ateliers de fabrication."
+ },
+ {
+  "id": "institut-monde-arabe",
+  "nom": "Institut du monde arabe",
+  "type": "institut",
+  "themes": [
+   "expo",
+   "talk",
+   "cultures_du_monde"
+  ],
+  "arrondissement": 5,
+  "adresse": "1 rue des Fossés-Saint-Bernard, 75005 Paris",
+  "lat": 48.849,
+  "lon": 2.357,
+  "url_agenda": "https://www.imarabe.org/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Cultures arabes, nocturnes, conférences et rencontres."
+ },
+ {
+  "id": "pavillon-arsenal",
+  "nom": "Pavillon de l'Arsenal",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "architecture",
+   "talk"
+  ],
+  "arrondissement": 4,
+  "adresse": "21 boulevard Morland, 75004 Paris",
+  "lat": 48.85,
+  "lon": 2.364,
+  "url_agenda": "https://www.pavillon-arsenal.com/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Architecture et urbanisme de Paris, entrée libre."
+ },
+ {
+  "id": "histoire-immigration",
+  "nom": "Musée national de l'histoire de l'immigration",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "histoire",
+   "talk"
+  ],
+  "arrondissement": 12,
+  "adresse": "293 avenue Daumesnil, 75012 Paris",
+  "lat": 48.835,
+  "lon": 2.405,
+  "url_agenda": "https://www.histoire-immigration.fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Histoire des migrations, conférences, projections, rencontres."
+ },
+ {
+  "id": "cinematheque",
+  "nom": "La Cinémathèque française",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "cinema",
+   "talk"
+  ],
+  "arrondissement": 12,
+  "adresse": "51 rue de Bercy, 75012 Paris",
+  "lat": 48.837,
+  "lon": 2.382,
+  "url_agenda": "https://www.cinematheque.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Expositions, conférences et rétrospectives, expressionnisme allemand au cinéma."
+ },
+ {
+  "id": "musee-armee",
+  "nom": "Musée de l'Armée, Invalides",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "histoire",
+   "talk"
+  ],
+  "arrondissement": 7,
+  "adresse": "129 rue de Grenelle, 75007 Paris",
+  "lat": 48.855,
+  "lon": 2.313,
+  "url_agenda": "https://www.musee-armee.fr/programmation.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Histoire militaire, nocturnes, conférences à l'auditorium."
+ },
+ {
+  "id": "musee-curie",
+  "nom": "Musée Curie",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "sciences",
+   "talk"
+  ],
+  "arrondissement": 5,
+  "adresse": "1 rue Pierre et Marie Curie, 75005 Paris",
+  "lat": 48.845,
+  "lon": 2.344,
+  "url_agenda": "https://musee.curie.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Laboratoire de Marie Curie, conférences scientifiques."
+ },
+ {
+  "id": "fondation-cartier",
+  "nom": "Fondation Cartier pour l'art contemporain",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 1,
+  "adresse": "2 place du Palais-Royal, 75001 Paris",
+  "lat": 48.863,
+  "lon": 2.336,
+  "url_agenda": "https://www.fondationcartier.com/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Nouveau lieu au Palais-Royal, nocturnes, expositions."
+ },
+ {
+  "id": "musee-chasse-nature",
+  "nom": "Musée de la Chasse et de la Nature",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "histoire"
+  ],
+  "arrondissement": 3,
+  "adresse": "62 rue des Archives, 75003 Paris",
+  "lat": 48.861,
+  "lon": 2.358,
+  "url_agenda": "https://www.chassenature.org/expositions",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Art contemporain dans un hôtel particulier, nocturnes."
+ },
+ {
+  "id": "musee-luxembourg",
+  "nom": "Musée du Luxembourg",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 6,
+  "adresse": "19 rue de Vaugirard, 75006 Paris",
+  "lat": 48.848,
+  "lon": 2.335,
+  "url_agenda": "https://museeduluxembourg.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Grandes expositions de peinture, nocturnes."
+ },
+ {
+  "id": "memorial-shoah",
+  "nom": "Mémorial de la Shoah",
+  "type": "musee",
+  "themes": [
+   "histoire",
+   "talk",
+   "litterature"
+  ],
+  "arrondissement": 4,
+  "adresse": "17 rue Geoffroy-l'Asnier, 75004 Paris",
+  "lat": 48.855,
+  "lon": 2.358,
+  "url_agenda": "https://www.memorialdelashoah.org/agenda.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Conférences, lectures, rencontres d'historiens, entrée libre."
+ },
+ {
+  "id": "galerie-templon",
+  "nom": "Galerie Templon",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "28 rue du Beaubourg, 75003 Paris",
+  "lat": 48.862,
+  "lon": 2.354,
+  "url_agenda": "https://www.templon.com/fr/expositions",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Peinture contemporaine, vernissages réguliers."
+ },
+ {
+  "id": "galerie-perrotin",
+  "nom": "Galerie Perrotin",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "76 rue de Turenne, 75003 Paris",
+  "lat": 48.859,
+  "lon": 2.364,
+  "url_agenda": "https://www.perrotin.com/en",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Art contemporain, expositions au Marais."
+ },
+ {
+  "id": "galerie-ropac",
+  "nom": "Galerie Thaddaeus Ropac",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "7 rue Debelleyme, 75003 Paris",
+  "lat": 48.862,
+  "lon": 2.363,
+  "url_agenda": "https://ropac.net/exhibitions",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Peinture et sculpture, artistes allemands, vernissages."
+ },
+ {
+  "id": "galerie-mennour",
+  "nom": "Galerie Kamel Mennour",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 6,
+  "adresse": "47 rue Saint-André des Arts, 75006 Paris",
+  "lat": 48.853,
+  "lon": 2.341,
+  "url_agenda": "https://kamelmennour.com/exhibitions",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Art contemporain à Saint-Germain."
+ },
+ {
+  "id": "galerie-lelong",
+  "nom": "Galerie Lelong & Co.",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 8,
+  "adresse": "13 rue de Téhéran, 75008 Paris",
+  "lat": 48.877,
+  "lon": 2.315,
+  "url_agenda": "https://www.galerie-lelong.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Peinture et dessin, artistes figuratifs."
+ },
+ {
+  "id": "galerie-max-hetzler",
+  "nom": "Galerie Max Hetzler",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "57 rue du Temple, 75003 Paris",
+  "lat": 48.86,
+  "lon": 2.355,
+  "url_agenda": "https://www.maxhetzler.com/exhibitions",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Galerie berlinoise, peinture contemporaine."
+ },
+ {
+  "id": "filles-du-calvaire",
+  "nom": "Galerie Les Filles du Calvaire",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "17 boulevard Beaumarchais, 75003 Paris",
+  "lat": 48.856,
+  "lon": 2.367,
+  "url_agenda": "https://www.fillesducalvaire.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Peinture et art contemporain, vernissages."
+ },
+ {
+  "id": "galerie-crousel",
+  "nom": "Galerie Chantal Crousel",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "10 rue Charlot, 75003 Paris",
+  "lat": 48.863,
+  "lon": 2.362,
+  "url_agenda": "https://crousel.com/exhibitions",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Art contemporain international, Marais."
+ },
+ {
+  "id": "galerie-goodman",
+  "nom": "Galerie Marian Goodman",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "79 rue du Temple, 75003 Paris",
+  "lat": 48.862,
+  "lon": 2.356,
+  "url_agenda": "https://www.mariangoodman.com/exhibitions",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Art contemporain, peinture et installation."
+ },
+ {
+  "id": "galerie-claude-bernard",
+  "nom": "Galerie Claude Bernard",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 6,
+  "adresse": "7 rue des Beaux-Arts, 75006 Paris",
+  "lat": 48.857,
+  "lon": 2.336,
+  "url_agenda": "https://www.claude-bernard.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Peinture et sculpture figuratives depuis 1957."
+ },
+ {
+  "id": "galerie-karsten-greve",
+  "nom": "Galerie Karsten Greve",
+  "type": "galerie",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 3,
+  "adresse": "5 rue Debelleyme, 75003 Paris",
+  "lat": 48.862,
+  "lon": 2.362,
+  "url_agenda": "https://www.galerie-karsten-greve.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Art moderne allemand et peinture contemporaine."
+ },
+ {
+  "id": "comedie-francaise",
+  "nom": "Comédie-Française, Salle Richelieu",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature"
+  ],
+  "arrondissement": 1,
+  "adresse": "1 place Colette, 75001 Paris",
+  "lat": 48.863,
+  "lon": 2.336,
+  "url_agenda": "https://www.comedie-francaise.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Répertoire classique, lectures par des comédiens."
+ },
+ {
+  "id": "odeon-theatre",
+  "nom": "Odéon, Théâtre de l'Europe",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature"
+  ],
+  "arrondissement": 6,
+  "adresse": "Place de l'Odéon, 75006 Paris",
+  "lat": 48.849,
+  "lon": 2.338,
+  "url_agenda": "https://www.theatre-odeon.eu/fr/programmation",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Théâtre européen, adaptations de Kafka et de Zweig possibles."
+ },
+ {
+  "id": "theatre-colline",
+  "nom": "La Colline, théâtre national",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature"
+  ],
+  "arrondissement": 20,
+  "adresse": "15 rue Malte-Brun, 75020 Paris",
+  "lat": 48.873,
+  "lon": 2.397,
+  "url_agenda": "https://www.colline.fr/spectacles/saison-2026-2027",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Textes contemporains et classiques, rencontres après spectacle."
+ },
+ {
+  "id": "theatre-chatelet",
+  "nom": "Théâtre du Châtelet",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "musique"
+  ],
+  "arrondissement": 1,
+  "adresse": "1 place du Châtelet, 75001 Paris",
+  "lat": 48.858,
+  "lon": 2.347,
+  "url_agenda": "https://www.chatelet.com/programmation",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Opéra, comédie musicale, concerts."
+ },
+ {
+  "id": "theatre-ville-abbesses",
+  "nom": "Théâtre de la Ville, Les Abbesses",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "danse"
+  ],
+  "arrondissement": 18,
+  "adresse": "31 rue des Abbesses, 75018 Paris",
+  "lat": 48.884,
+  "lon": 2.338,
+  "url_agenda": "https://www.theatredelaville-paris.com/fr/spectacles/saison-26-27/danse",
+  "flux": {
+   "type": "jsonld",
+   "url": "https://www.theatredelaville-paris.com/fr/spectacles/saison-26-27/danse"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Danse contemporaine et théâtre international."
+ },
+ {
+  "id": "theatre-rond-point",
+  "nom": "Théâtre du Rond-Point",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature"
+  ],
+  "arrondissement": 8,
+  "adresse": "2bis avenue Franklin D. Roosevelt, 75008 Paris",
+  "lat": 48.87,
+  "lon": 2.312,
+  "url_agenda": "https://www.theatredurondpoint.fr/programmation/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Textes d'auteurs vivants, lectures par des comédiens."
+ },
+ {
+  "id": "theatre-bastille",
+  "nom": "Théâtre de la Bastille",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "danse"
+  ],
+  "arrondissement": 11,
+  "adresse": "76 rue de la Roquette, 75011 Paris",
+  "lat": 48.855,
+  "lon": 2.373,
+  "url_agenda": "https://www.theatre-bastille.com/saison-26-27",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Création contemporaine, théâtre et danse."
+ },
+ {
+  "id": "theatre-atelier",
+  "nom": "Théâtre de l'Atelier",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature"
+  ],
+  "arrondissement": 18,
+  "adresse": "1 place Charles-Dullin, 75018 Paris",
+  "lat": 48.883,
+  "lon": 2.34,
+  "url_agenda": "https://theatre-atelier.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Théâtre de répertoire, classiques à Montmartre."
+ },
+ {
+  "id": "theatre-soleil",
+  "nom": "Théâtre du Soleil, Cartoucherie",
+  "type": "theatre",
+  "themes": [
+   "theatre"
+  ],
+  "arrondissement": 12,
+  "adresse": "Route du Champ de Manœuvre, 75012 Paris",
+  "lat": 48.841,
+  "lon": 2.456,
+  "url_agenda": "https://www.theatre-du-soleil.fr/fr/spectacles",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Troupe d'Ariane Mnouchkine, dans le bois de Vincennes."
+ },
+ {
+  "id": "theatre-lucernaire",
+  "nom": "Le Lucernaire",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature",
+   "cinema"
+  ],
+  "arrondissement": 6,
+  "adresse": "53 rue Notre-Dame-des-Champs, 75006 Paris",
+  "lat": 48.844,
+  "lon": 2.329,
+  "url_agenda": "https://www.lucernaire.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Théâtre, lectures, petites salles, librairie."
+ },
+ {
+  "id": "poche-montparnasse",
+  "nom": "Théâtre de Poche-Montparnasse",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature"
+  ],
+  "arrondissement": 6,
+  "adresse": "75 boulevard du Montparnasse, 75006 Paris",
+  "lat": 48.843,
+  "lon": 2.325,
+  "url_agenda": "https://www.theatredepoche-montparnasse.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Petite salle, textes classiques et contemporains."
+ },
+ {
+  "id": "theatre-13",
+  "nom": "Théâtre 13",
+  "type": "theatre",
+  "themes": [
+   "theatre"
+  ],
+  "arrondissement": 13,
+  "adresse": "30 rue du Chevaleret, 75013 Paris",
+  "lat": 48.829,
+  "lon": 2.372,
+  "url_agenda": "https://www.theatre13.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Création contemporaine dans le 13e, deux salles."
+ },
+ {
+  "id": "theatre-paris-villette",
+  "nom": "Théâtre Paris-Villette",
+  "type": "theatre",
+  "themes": [
+   "theatre"
+  ],
+  "arrondissement": 19,
+  "adresse": "211 avenue Jean-Jaurès, 75019 Paris",
+  "lat": 48.888,
+  "lon": 2.388,
+  "url_agenda": "https://www.theatre-paris-villette.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Théâtre de création près de La Villette."
+ },
+ {
+  "id": "theatre-reine-blanche",
+  "nom": "Théâtre de la Reine Blanche",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature"
+  ],
+  "arrondissement": 18,
+  "adresse": "2bis passage Ruelle, 75018 Paris",
+  "lat": 48.885,
+  "lon": 2.36,
+  "url_agenda": "https://www.reineblanche.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Petite salle, lectures, soirées sciences et théâtre."
+ },
+ {
+  "id": "theatre-cite-internationale",
+  "nom": "Théâtre de la Cité internationale",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "danse"
+  ],
+  "arrondissement": 14,
+  "adresse": "17 boulevard Jourdan, 75014 Paris",
+  "lat": 48.82,
+  "lon": 2.338,
+  "url_agenda": "https://www.theatredelacite.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Création contemporaine, Cité universitaire."
+ },
+ {
+  "id": "theatre-deschargeurs",
+  "nom": "Théâtre Les Déchargeurs",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "litterature"
+  ],
+  "arrondissement": 1,
+  "adresse": "3 rue des Déchargeurs, 75001 Paris",
+  "lat": 48.86,
+  "lon": 2.347,
+  "url_agenda": "https://www.lesdechargeurs.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Petite salle du centre, lectures et textes littéraires."
+ },
+ {
+  "id": "theatre-belleville",
+  "nom": "Théâtre de Belleville",
+  "type": "theatre",
+  "themes": [
+   "theatre"
+  ],
+  "arrondissement": 11,
+  "adresse": "94 rue du Faubourg du Temple, 75011 Paris",
+  "lat": 48.87,
+  "lon": 2.378,
+  "url_agenda": "https://www.theatredebelleville.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Salle indépendante, spectacles à petit prix."
+ },
+ {
+  "id": "bouffes-du-nord",
+  "nom": "Théâtre des Bouffes du Nord",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "musique"
+  ],
+  "arrondissement": 10,
+  "adresse": "37bis boulevard de la Chapelle, 75010 Paris",
+  "lat": 48.884,
+  "lon": 2.36,
+  "url_agenda": "https://www.bouffesdunord.com/fr/la-saison",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Salle patinée de Peter Brook, théâtre et musique."
+ },
+ {
+  "id": "theatre-14",
+  "nom": "Théâtre 14",
+  "type": "theatre",
+  "themes": [
+   "theatre"
+  ],
+  "arrondissement": 14,
+  "adresse": "20 avenue Marc-Sangnier, 75014 Paris",
+  "lat": 48.827,
+  "lon": 2.32,
+  "url_agenda": "https://www.theatre14.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Création et textes d'auteurs dans le 14e."
+ },
+ {
+  "id": "theatre-mains-nues",
+  "nom": "Théâtre aux Mains Nues",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "marionnette"
+  ],
+  "arrondissement": 20,
+  "adresse": "7 square des Cardeurs, 75020 Paris",
+  "lat": 48.866,
+  "lon": 2.405,
+  "url_agenda": "https://www.theatre-aux-mains-nues.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Marionnettes pour adultes dans un square du 20e."
+ },
+ {
+  "id": "marionnettes-luxembourg",
+  "nom": "Théâtre des Marionnettes du Luxembourg",
+  "type": "theatre",
+  "themes": [
+   "marionnette"
+  ],
+  "arrondissement": 6,
+  "adresse": "Jardin du Luxembourg, 75006 Paris",
+  "lat": 48.846,
+  "lon": 2.337,
+  "url_agenda": "https://marionnettesduluxembourg.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Guignol et marionnettes dans le jardin, séances familiales."
+ },
+ {
+  "id": "theatre-dunois",
+  "nom": "Théâtre Dunois",
+  "type": "theatre",
+  "themes": [
+   "theatre",
+   "danse"
+  ],
+  "arrondissement": 13,
+  "adresse": "7 rue Louise-Weiss, 75013 Paris",
+  "lat": 48.832,
+  "lon": 2.37,
+  "url_agenda": "https://www.theatredunois.org/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Création pour tous publics et danse, 13e."
+ },
+ {
+  "id": "palais-garnier",
+  "nom": "Opéra national de Paris, Palais Garnier",
+  "type": "danse",
+  "themes": [
+   "danse",
+   "musique"
+  ],
+  "arrondissement": 9,
+  "adresse": "Place de l'Opéra, 75009 Paris",
+  "lat": 48.872,
+  "lon": 2.332,
+  "url_agenda": "https://www.operadeparis.fr/programmation",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "30-60",
+  "diversite": true,
+  "note": "Ballet de l'Opéra et opéra dans le décor Garnier."
+ },
+ {
+  "id": "plateaux-sauvages",
+  "nom": "Les Plateaux Sauvages",
+  "type": "danse",
+  "themes": [
+   "danse",
+   "theatre"
+  ],
+  "arrondissement": 20,
+  "adresse": "5 rue des Plâtrières, 75020 Paris",
+  "lat": 48.87,
+  "lon": 2.39,
+  "url_agenda": "https://www.lesplateauxsauvages.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Danse, théâtre et nouvelles formes, ancien couvent."
+ },
+ {
+  "id": "cirque-hiver",
+  "nom": "Cirque d'Hiver Bouglione",
+  "type": "autre",
+  "themes": [
+   "cirque"
+  ],
+  "arrondissement": 11,
+  "adresse": "110 rue Amelot, 75011 Paris",
+  "lat": 48.863,
+  "lon": 2.368,
+  "url_agenda": "https://www.cirquedhiver.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "30-60",
+  "diversite": true,
+  "note": "Cirque classique et contemporain dans un bâtiment de 1852."
+ },
+ {
+  "id": "cirque-electrique",
+  "nom": "Le Cirque Électrique",
+  "type": "autre",
+  "themes": [
+   "cirque"
+  ],
+  "arrondissement": 20,
+  "adresse": "Place du Maquis du Vercors, 75020 Paris",
+  "lat": 48.861,
+  "lon": 2.401,
+  "url_agenda": "https://www.cirque-electrique.com/",
+  "flux": {
+   "type": "jsonld",
+   "url": "https://www.cirque-electrique.com/"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Cirque contemporain, chapiteau et concerts à Ménilmontant."
+ },
+ {
+  "id": "philharmonie-paris",
+  "nom": "Philharmonie de Paris et Musée de la musique",
+  "type": "autre",
+  "themes": [
+   "musique",
+   "expo",
+   "talk"
+  ],
+  "arrondissement": 19,
+  "adresse": "221 avenue Jean-Jaurès, 75019 Paris",
+  "lat": 48.89,
+  "lon": 2.394,
+  "url_agenda": "https://philharmoniedeparis.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Concerts, conférences, expositions sur la musique."
+ },
+ {
+  "id": "parc-villette",
+  "nom": "Parc de la Villette, Grande Halle",
+  "type": "centre_culturel",
+  "themes": [
+   "expo",
+   "danse",
+   "cirque"
+  ],
+  "arrondissement": 19,
+  "adresse": "211 avenue Jean-Jaurès, 75019 Paris",
+  "lat": 48.893,
+  "lon": 2.39,
+  "url_agenda": "https://lavillette.com/programmation/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Expositions, cirque, danse, festivals dans le parc."
+ },
+ {
+  "id": "etoile-du-nord",
+  "nom": "Théâtre de l'Étoile du Nord",
+  "type": "danse",
+  "themes": [
+   "danse",
+   "theatre"
+  ],
+  "arrondissement": 18,
+  "adresse": "16 rue Georgette-Agutte, 75018 Paris",
+  "lat": 48.893,
+  "lon": 2.337,
+  "url_agenda": "https://www.etoiledunord-theatre.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Danse contemporaine et théâtre, petite scène du 18e."
+ },
+ {
+  "id": "institut-suedois",
+  "nom": "Institut suédois",
+  "type": "institut",
+  "themes": [
+   "expo",
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 3,
+  "adresse": "11 rue Payenne, 75003 Paris",
+  "lat": 48.857,
+  "lon": 2.362,
+  "url_agenda": "https://paris.si.se/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Culture suédoise, expositions, lectures, concerts."
+ },
+ {
+  "id": "centre-tcheque",
+  "nom": "Centre tchèque",
+  "type": "institut",
+  "themes": [
+   "tcheque",
+   "expo",
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 6,
+  "adresse": "18 rue Bonaparte, 75006 Paris",
+  "lat": 48.855,
+  "lon": 2.334,
+  "url_agenda": "https://paris.czechcentres.cz/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Kafka, culture tchèque, cinéma, expositions, conférences."
+ },
+ {
+  "id": "institut-cervantes",
+  "nom": "Institut Cervantes",
+  "type": "institut",
+  "themes": [
+   "expo",
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 8,
+  "adresse": "7 rue Quentin-Bauchart, 75008 Paris",
+  "lat": 48.87,
+  "lon": 2.3,
+  "url_agenda": "https://paris.cervantes.es/fr/default.shtm",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Culture hispanique, expositions, lectures, conférences."
+ },
+ {
+  "id": "istituto-italiano",
+  "nom": "Institut culturel italien",
+  "type": "institut",
+  "themes": [
+   "expo",
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 7,
+  "adresse": "73 rue de Grenelle, 75007 Paris",
+  "lat": 48.855,
+  "lon": 2.322,
+  "url_agenda": "https://iicparigi.esteri.it/fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Hôtel de Galliffet, expositions, conférences, lectures."
+ },
+ {
+  "id": "centre-irlandais",
+  "nom": "Centre culturel irlandais",
+  "type": "institut",
+  "themes": [
+   "expo",
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 5,
+  "adresse": "5 rue des Irlandais, 75005 Paris",
+  "lat": 48.841,
+  "lon": 2.349,
+  "url_agenda": "https://www.centreculturelirlandais.com/en-ce-moment/expositions-evenements",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Ancien collège des Irlandais, lectures, expositions, concerts."
+ },
+ {
+  "id": "wallonie-bruxelles",
+  "nom": "Centre Wallonie-Bruxelles",
+  "type": "institut",
+  "themes": [
+   "expo",
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 4,
+  "adresse": "127 rue Saint-Martin, 75004 Paris",
+  "lat": 48.86,
+  "lon": 2.35,
+  "url_agenda": "https://www.cwb.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Culture belge francophone, expositions, lectures, concerts."
+ },
+ {
+  "id": "maison-amerique-latine",
+  "nom": "Maison de l'Amérique latine",
+  "type": "institut",
+  "themes": [
+   "expo",
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 7,
+  "adresse": "217 boulevard Saint-Germain, 75007 Paris",
+  "lat": 48.857,
+  "lon": 2.322,
+  "url_agenda": "https://www.mal217.org/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Cultures latino-américaines, expositions, conférences."
+ },
+ {
+  "id": "centre-culturel-suisse",
+  "nom": "Centre culturel suisse",
+  "type": "institut",
+  "themes": [
+   "expo",
+   "talk",
+   "danse"
+  ],
+  "arrondissement": 3,
+  "adresse": "32-38 rue des Francs-Bourgeois, 75003 Paris",
+  "lat": 48.859,
+  "lon": 2.36,
+  "url_agenda": "https://www.ccsparis.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Art contemporain suisse, performances, conférences."
+ },
+ {
+  "id": "maison-heinrich-heine",
+  "nom": "Maison Heinrich Heine",
+  "type": "institut",
+  "themes": [
+   "litterature",
+   "talk",
+   "expressionnisme"
+  ],
+  "arrondissement": 14,
+  "adresse": "27C boulevard Jourdan, 75014 Paris",
+  "lat": 48.82,
+  "lon": 2.337,
+  "url_agenda": "https://www.maison-heinrich-heine.org/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Culture allemande, lectures et conférences à la Cité universitaire."
+ },
+ {
+  "id": "college-de-france",
+  "nom": "Collège de France",
+  "type": "conference",
+  "themes": [
+   "talk",
+   "ia",
+   "litterature",
+   "sciences"
+  ],
+  "arrondissement": 5,
+  "adresse": "11 place Marcelin-Berthelot, 75005 Paris",
+  "lat": 48.849,
+  "lon": 2.345,
+  "url_agenda": "https://www.college-de-france.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Cours publics, colloques, IA et littérature, entrée libre."
+ },
+ {
+  "id": "ens-ulm",
+  "nom": "École normale supérieure, rue d'Ulm",
+  "type": "conference",
+  "themes": [
+   "talk",
+   "ia",
+   "litterature",
+   "sciences"
+  ],
+  "arrondissement": 5,
+  "adresse": "45 rue d'Ulm, 75005 Paris",
+  "lat": 48.842,
+  "lon": 2.344,
+  "url_agenda": "https://www.ens.psl.eu/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Conférences académiques, IA, sciences humaines, cinéma."
+ },
+ {
+  "id": "sorbonne",
+  "nom": "Sorbonne Université, amphithéâtres",
+  "type": "conference",
+  "themes": [
+   "talk",
+   "litterature",
+   "ia"
+  ],
+  "arrondissement": 5,
+  "adresse": "17 rue de la Sorbonne, 75005 Paris",
+  "lat": 48.849,
+  "lon": 2.343,
+  "url_agenda": "https://www.sorbonne-universite.fr/evenements",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Conférences et colloques publics, littérature et IA."
+ },
+ {
+  "id": "bnf-mitterrand",
+  "nom": "BnF François-Mitterrand",
+  "type": "conference",
+  "themes": [
+   "talk",
+   "expo",
+   "litterature"
+  ],
+  "arrondissement": 13,
+  "adresse": "Quai François-Mauriac, 75013 Paris",
+  "lat": 48.834,
+  "lon": 2.376,
+  "url_agenda": "https://www.bnf.fr/fr/agenda",
+  "flux": {
+   "type": "rss",
+   "url": "https://www.bnf.fr/fr/agenda/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Conférences, expositions, lectures, auditoriums."
+ },
+ {
+  "id": "bnf-richelieu",
+  "nom": "BnF Richelieu",
+  "type": "conference",
+  "themes": [
+   "talk",
+   "expo",
+   "litterature"
+  ],
+  "arrondissement": 2,
+  "adresse": "58 rue de Richelieu, 75002 Paris",
+  "lat": 48.868,
+  "lon": 2.337,
+  "url_agenda": "https://www.bnf.fr/fr/agenda",
+  "flux": {
+   "type": "rss",
+   "url": "https://www.bnf.fr/fr/agenda/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Musée et salle Ovale, expositions et conférences."
+ },
+ {
+  "id": "maison-de-la-poesie",
+  "nom": "Maison de la Poésie",
+  "type": "conference",
+  "themes": [
+   "litterature",
+   "talk"
+  ],
+  "arrondissement": 3,
+  "adresse": "157 rue Saint-Martin, 75003 Paris",
+  "lat": 48.862,
+  "lon": 2.351,
+  "url_agenda": "https://maisondelapoesieparis.com/programme/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Lectures par des comédiens, poésie, rencontres littéraires."
+ },
+ {
+  "id": "college-des-bernardins",
+  "nom": "Collège des Bernardins",
+  "type": "conference",
+  "themes": [
+   "talk",
+   "expo",
+   "litterature"
+  ],
+  "arrondissement": 5,
+  "adresse": "20 rue de Poissy, 75005 Paris",
+  "lat": 48.85,
+  "lon": 2.351,
+  "url_agenda": "https://www.collegedesbernardins.fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Conférences de philosophie et de théologie, concerts."
+ },
+ {
+  "id": "institut-henri-poincare",
+  "nom": "Institut Henri Poincaré",
+  "type": "conference",
+  "themes": [
+   "talk",
+   "ia",
+   "sciences"
+  ],
+  "arrondissement": 5,
+  "adresse": "11 rue Pierre et Marie Curie, 75005 Paris",
+  "lat": 48.845,
+  "lon": 2.344,
+  "url_agenda": "https://www.ihp.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Séminaires de mathématiques, probabilités et apprentissage."
+ },
+ {
+  "id": "paris-cite-grands-moulins",
+  "nom": "Université Paris Cité, Grands Moulins",
+  "type": "conference",
+  "themes": [
+   "talk",
+   "ia",
+   "sciences"
+  ],
+  "arrondissement": 13,
+  "adresse": "5 rue Thomas-Mann, 75013 Paris",
+  "lat": 48.827,
+  "lon": 2.383,
+  "url_agenda": "https://u-paris.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Conférences et colloques ouverts, informatique et IA."
+ },
+ {
+  "id": "gaite-lyrique",
+  "nom": "La Gaîté lyrique",
+  "type": "centre_culturel",
+  "themes": [
+   "expo",
+   "danse",
+   "talk",
+   "musique"
+  ],
+  "arrondissement": 3,
+  "adresse": "3bis rue Papin, 75003 Paris",
+  "lat": 48.866,
+  "lon": 2.354,
+  "url_agenda": "https://www.gaite-lyrique.net/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Culture numérique, musique, performances, expositions."
+ },
+ {
+  "id": "le-104",
+  "nom": "Le CENTQUATRE-Paris",
+  "type": "centre_culturel",
+  "themes": [
+   "expo",
+   "danse",
+   "cirque",
+   "marche"
+  ],
+  "arrondissement": 19,
+  "adresse": "5 rue Curial, 75019 Paris",
+  "lat": 48.89,
+  "lon": 2.37,
+  "url_agenda": "https://www.104.fr/programme",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Grande halle d'artistes, marchés, danse, expositions."
+ },
+ {
+  "id": "carreau-du-temple",
+  "nom": "Carreau du Temple",
+  "type": "centre_culturel",
+  "themes": [
+   "marche",
+   "danse",
+   "expo"
+  ],
+  "arrondissement": 3,
+  "adresse": "4 rue Eugène-Spuller, 75003 Paris",
+  "lat": 48.865,
+  "lon": 2.361,
+  "url_agenda": "https://www.carreaudutemple.eu/programmation",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Salons de créateurs, danse, expositions."
+ },
+ {
+  "id": "maison-des-metallos",
+  "nom": "Maison des Métallos",
+  "type": "centre_culturel",
+  "themes": [
+   "theatre",
+   "expo",
+   "talk"
+  ],
+  "arrondissement": 11,
+  "adresse": "94 rue Jean-Pierre-Timbaud, 75011 Paris",
+  "lat": 48.866,
+  "lon": 2.381,
+  "url_agenda": "https://www.maisondesmetallos.paris/le-programme",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Lieu populaire, théâtre, expositions, conférences, repas partagés."
+ },
+ {
+  "id": "la-recyclerie",
+  "nom": "La REcyclerie",
+  "type": "centre_culturel",
+  "themes": [
+   "marche",
+   "cafe"
+  ],
+  "arrondissement": 18,
+  "adresse": "83 boulevard Ornano, 75018 Paris",
+  "lat": 48.897,
+  "lon": 2.345,
+  "url_agenda": "https://www.larecyclerie.com/programmation/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Ancienne gare, café, marchés, ateliers, lieu associatif."
+ },
+ {
+  "id": "le-plateau-frac",
+  "nom": "Le Plateau, Frac Île-de-France",
+  "type": "centre_culturel",
+  "themes": [
+   "expo"
+  ],
+  "arrondissement": 19,
+  "adresse": "22 rue des Alouettes, 75019 Paris",
+  "lat": 48.879,
+  "lon": 2.384,
+  "url_agenda": "https://fraciledefrance.com/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Art contemporain, entrée libre, Buttes-Chaumont."
+ },
+ {
+  "id": "espace-niemeyer",
+  "nom": "Espace Niemeyer",
+  "type": "centre_culturel",
+  "themes": [
+   "expo",
+   "architecture"
+  ],
+  "arrondissement": 19,
+  "adresse": "2 place du Colonel-Fabien, 75019 Paris",
+  "lat": 48.878,
+  "lon": 2.37,
+  "url_agenda": "https://www.espaceniemeyer.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Architecture de Niemeyer, expositions et visites."
+ },
+ {
+  "id": "tang-freres-ivry",
+  "nom": "Tang Frères, avenue d'Ivry",
+  "type": "marche",
+  "themes": [
+   "bao",
+   "cultures_du_monde"
+  ],
+  "arrondissement": 13,
+  "adresse": "48 avenue d'Ivry, 75013 Paris",
+  "lat": 48.827,
+  "lon": 2.361,
+  "url_agenda": "https://www.tang-freres.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Supermarché asiatique, quartier des Olympiades, cuisine de rue."
+ },
+ {
+  "id": "cafe-coutume",
+  "nom": "Coutume Café",
+  "type": "degustation",
+  "themes": [
+   "cafe"
+  ],
+  "arrondissement": 7,
+  "adresse": "47 rue de Babylone, 75007 Paris",
+  "lat": 48.85,
+  "lon": 2.322,
+  "url_agenda": "https://coutumecafe.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Torréfacteur parisien, cuppings et ateliers."
+ },
+ {
+  "id": "belleville-brulerie",
+  "nom": "Belleville Brûlerie",
+  "type": "degustation",
+  "themes": [
+   "cafe"
+  ],
+  "arrondissement": 19,
+  "adresse": "10 rue Pradier, 75019 Paris",
+  "lat": 48.873,
+  "lon": 2.385,
+  "url_agenda": "https://www.cafesbelleville.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Torréfacteur, dégustations de café, initiations."
+ },
+ {
+  "id": "cafeotheque",
+  "nom": "La Caféothèque de Paris",
+  "type": "degustation",
+  "themes": [
+   "cafe"
+  ],
+  "arrondissement": 4,
+  "adresse": "52 rue de l'Hôtel-de-Ville, 75004 Paris",
+  "lat": 48.855,
+  "lon": 2.358,
+  "url_agenda": "https://www.lacafeotheque.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Torréfacteur, cours et dégustations de café."
+ },
+ {
+  "id": "cafe-verlet",
+  "nom": "Café Verlet",
+  "type": "degustation",
+  "themes": [
+   "cafe"
+  ],
+  "arrondissement": 1,
+  "adresse": "256 rue Saint-Honoré, 75001 Paris",
+  "lat": 48.864,
+  "lon": 2.334,
+  "url_agenda": "https://www.verlet.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Maison de café depuis 1880, dégustation."
+ },
+ {
+  "id": "jacques-genin",
+  "nom": "Jacques Genin",
+  "type": "degustation",
+  "themes": [
+   "chocolat"
+  ],
+  "arrondissement": 3,
+  "adresse": "133 rue de Turenne, 75003 Paris",
+  "lat": 48.862,
+  "lon": 2.363,
+  "url_agenda": "https://jacquesgenin.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Chocolatier du Marais, salon de dégustation."
+ },
+ {
+  "id": "ducasse-chocolat",
+  "nom": "Manufacture Alain Ducasse",
+  "type": "degustation",
+  "themes": [
+   "chocolat"
+  ],
+  "arrondissement": 11,
+  "adresse": "40 rue de la Roquette, 75011 Paris",
+  "lat": 48.855,
+  "lon": 2.372,
+  "url_agenda": "https://www.lechocolat-alainducasse.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Bean-to-bar, visites et dégustations commentées."
+ },
+ {
+  "id": "debauve-gallais",
+  "nom": "Debauve & Gallais",
+  "type": "degustation",
+  "themes": [
+   "chocolat"
+  ],
+  "arrondissement": 7,
+  "adresse": "30 rue des Saints-Pères, 75007 Paris",
+  "lat": 48.855,
+  "lon": 2.331,
+  "url_agenda": "https://debauve-et-gallais.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Chocolatier depuis 1800, ateliers de dégustation."
+ },
+ {
+  "id": "choco-story",
+  "nom": "Choco-Story, musée du chocolat",
+  "type": "musee",
+  "themes": [
+   "chocolat",
+   "sciences"
+  ],
+  "arrondissement": 10,
+  "adresse": "28 boulevard de Bonne-Nouvelle, 75010 Paris",
+  "lat": 48.871,
+  "lon": 2.349,
+  "url_agenda": "https://www.museeduchocolat.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Histoire du cacao, ateliers de dégustation."
+ },
+ {
+  "id": "fondation-custodia",
+  "nom": "Fondation Custodia",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture",
+   "talk"
+  ],
+  "arrondissement": 7,
+  "adresse": "121 rue de Lille, 75007 Paris",
+  "lat": 48.859,
+  "lon": 2.318,
+  "url_agenda": "https://fondationcustodia.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Dessins et peintures anciens, collection néerlandaise, expositions et conférences."
+ },
+ {
+  "id": "institut-giacometti",
+  "nom": "Institut Giacometti",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "peinture"
+  ],
+  "arrondissement": 14,
+  "adresse": "5 rue Victor-Schoelcher, 75014 Paris",
+  "lat": 48.835,
+  "lon": 2.331,
+  "url_agenda": "https://www.fondation-giacometti.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Atelier reconstitué de Giacometti, figuration, expositions et visites."
+ },
+ {
+  "id": "lafayette-anticipations",
+  "nom": "Lafayette Anticipations",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "design",
+   "architecture"
+  ],
+  "arrondissement": 4,
+  "adresse": "9 rue du Plâtre, 75004 Paris",
+  "lat": 48.858,
+  "lon": 2.357,
+  "url_agenda": "https://www.lafayetteanticipations.com/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Bâtiment de Rem Koolhaas, art contemporain, design, performances."
+ },
+ {
+  "id": "hotel-de-la-marine",
+  "nom": "Hôtel de la Marine",
+  "type": "musee",
+  "themes": [
+   "expo",
+   "histoire"
+  ],
+  "arrondissement": 8,
+  "adresse": "2 place de la Concorde, 75008 Paris",
+  "lat": 48.866,
+  "lon": 2.321,
+  "url_agenda": "https://www.hotel-de-la-marine.paris/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Appartements d'intendants du XVIIIe, expositions et concerts."
+ },
+ {
+  "id": "cite-mode-design",
+  "nom": "Cité de la mode et du design",
+  "type": "centre_culturel",
+  "themes": [
+   "design",
+   "expo",
+   "talk"
+  ],
+  "arrondissement": 13,
+  "adresse": "34 quai d'Austerlitz, 75013 Paris",
+  "lat": 48.839,
+  "lon": 2.372,
+  "url_agenda": "https://www.citemodedesign.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Mode et design sur les quais de Seine, expositions et conférences."
+ },
+ {
+  "id": "sainte-chapelle",
+  "nom": "Sainte-Chapelle",
+  "type": "autre",
+  "themes": [
+   "histoire",
+   "musique"
+  ],
+  "arrondissement": 1,
+  "adresse": "4 boulevard du Palais, 75001 Paris",
+  "lat": 48.855,
+  "lon": 2.345,
+  "url_agenda": "https://www.sainte-chapelle.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Vitraux du XIIIe siècle, concerts aux chandelles."
+ }
+]

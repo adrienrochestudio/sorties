@@ -151,7 +151,7 @@ def main():
         stats["retenu"] += 1
 
     candidats.sort(key=lambda c: -c[2])
-    shortlist, pris_ids, carte = [], set(), []
+    shortlist, pris_ids, carte, titres_pris = [], set(), [], set()
     for b in buckets(demain, R["horizon_semaines"]):
         d0, d1 = date.fromisoformat(b["debut"]), date.fromisoformat(b["fin"])
         if b["mode"] == "proche":
@@ -163,6 +163,8 @@ def main():
         par_theme, choisis, n_conf, n_dec, n_per = Counter(), [], 0, 0, 0
         for e, dt, sc, ths, dec, dim_soir, forte, zone in candidats:
             if e["id"] in pris_ids or not (d0 <= dt.date() <= d1):
+                continue
+            if norm(e["titre"])[:40] in titres_pris:
                 continue
             if b["mode"] == "anticiper" and not forte:
                 continue
@@ -186,6 +188,7 @@ def main():
             par_theme[ths[0]] += 1
             n_per += int(e["periode"])
             pris_ids.add(e["id"])
+            titres_pris.add(norm(e["titre"])[:40])
             choisis.append({**court(e, sc, ths, dec, dim_soir), "_k": dt.isoformat()})
         choisis.sort(key=lambda c: c["_k"])
         for c in choisis:
