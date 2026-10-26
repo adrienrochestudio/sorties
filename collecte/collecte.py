@@ -11,6 +11,7 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
@@ -172,6 +173,51 @@ def jsonld(texte, lieu):
     return evts
 
 
+MOIS = {"janvier": 1, "fevrier": 2, "mars": 3, "avril": 4, "mai": 5, "juin": 6, "juillet": 7, "aout": 8,
+        "septembre": 9, "octobre": 10, "novembre": 11, "decembre": 12}
+RE_DATE = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{4})|(\d{4})-(\d{2})-(\d{2})|(\d{1,2})(?:er)? (" + "|".join(MOIS) + r") (\d{4})")
+RE_HEURE = re.compile(r"(\d{1,2})\s?[h:]\s?(\d{2})?")
+
+
+def dates_texte(texte):
+    """Dates trouvées dans un texte libre français, avec l'heure qui suit si elle est proche."""
+    t = norm(sans_html(texte))
+    sortie = []
+    for m in RE_DATE.finditer(t):
+        try:
+            if m.group(1):
+                j, mo, a = int(m.group(1)), int(m.group(2)), int(m.group(3))
+            elif m.group(4):
+                a, mo, j = int(m.group(4)), int(m.group(5)), int(m.group(6))
+            else:
+                j, mo, a = int(m.group(7)), MOIS[m.group(8)], int(m.group(9))
+            h = RE_HEURE.search(t[m.end():m.end() + 25])
+            hh, mm = (int(h.group(1)), int(h.group(2) or 0)) if h and int(h.group(1)) < 24 else (0, 0)
+            sortie.append(datetime(a, mo, j, hh, mm, tzinfo=PARIS))
+        except (ValueError, KeyError):
+            continue
+    return sortie
+
+
+def rss(texte, lieu):
+    evts = []
+    for item in re.findall(r"<item\b.*?</item>", texte, re.S | re.I):
+        def champ(nom):
+            m = re.search(rf"<{nom}[^>]*>(.*?)</{nom}>", item, re.S | re.I)
+            return re.sub(r"<!\[CDATA\[|\]\]>", "", m.group(1)).strip() if m else ""
+        titre, desc, lien = champ("title"), champ("description"), champ("link")
+        dts = dates_texte(titre) or dates_texte(desc)
+        if not dts:
+            continue
+        intervalle = re.search(r"\bdu\b.{0,40}\bau\b", norm(sans_html(titre + " " + desc)))
+        periode = bool(intervalle and len(dts) >= 2 and (dts[1] - dts[0]).days > 3)
+        titre_propre = re.sub(r"^\s*\d{1,2}/\d{1,2}/\d{4}\s*-\s*", "", sans_html(titre)).strip()
+        evts.append(evt(titre=titre_propre, resume=sans_html(desc)[:300], debut=dts[0].isoformat(),
+                        fin=dts[1].isoformat() if periode else None, periode=periode, url=lien,
+                        prix=prix_euros(desc), **depuis_lieu(lieu, "rss")))
+    return evts
+
+
 def depuis_lieu(lieu, source):
     return dict(lieu=lieu.get("nom", ""), adresse=lieu.get("adresse", ""), arr=lieu.get("arrondissement"),
                 ville=lieu.get("ville", "Paris"), lat=lieu.get("lat"), lon=lieu.get("lon"),
@@ -179,13 +225,15 @@ def depuis_lieu(lieu, source):
 
 
 def flux_lieu(lieu):
-    f = lieu.get("flux") or {}
+    f = dict(lieu.get("flux") or {})
+    if f.get("type") in (None, "aucun") and lieu.get("url_agenda"):
+        f = {"type": "jsonld", "url": lieu["url_agenda"]}  # tentative gratuite : beaucoup d'agendas portent du schema.org Event
     url = f.get("url") or (lieu.get("url_agenda") if f.get("type") == "jsonld" else None)
-    if f.get("type") not in ("ical", "jsonld") or not url:
+    if f.get("type") not in ("ical", "jsonld", "rss") or not url:
         return []
     try:
         texte = get(url)
-        return ical(texte, lieu) if f["type"] == "ical" else jsonld(texte, lieu)
+        return {"ical": ical, "jsonld": jsonld, "rss": rss}[f["type"]](texte, lieu)
     except Exception as err:  # un lieu en panne ne bloque jamais la collecte
         rapport["erreurs"].append(f"{lieu.get('id')}: {type(err).__name__}")
         return []
@@ -232,7 +280,9 @@ def main():
     with ThreadPoolExecutor(max_workers=8) as pool:
         for lot in pool.map(flux_lieu, base):
             tous += lot
-    rapport["sources"]["flux_lieux"] = sum(1 for e in tous if ":" in e["source"])
+    par_type = Counter(e["source"].split(":")[0] for e in tous if ":" in e["source"])
+    rapport["sources"].update({f"flux_{k}": v for k, v in par_type.items()})
+    rapport["lieux_avec_evenements"] = len({e["source"] for e in tous if ":" in e["source"]})
     tous += anticiper()
     vus, uniques = set(), []
     for e in tous:

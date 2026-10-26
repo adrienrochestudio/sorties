@@ -1,0 +1,2423 @@
+[
+ {
+  "id": "cinematheque-francaise",
+  "nom": "Cinémathèque française",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "muet",
+   "cine-concert",
+   "patrimoine"
+  ],
+  "arrondissement": 12,
+  "adresse": "51 rue de Bercy, 75012 Paris",
+  "lat": 48.837,
+  "lon": 2.382,
+  "url_agenda": "https://billetterie.cinematheque.fr/",
+  "flux": {
+   "type": "jsonld",
+   "url": "https://75.agendaculturel.fr/cinematheque-francaise"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Rétrospectives, copies restaurées, ciné-concerts muets, cycles expressionnisme allemand."
+ },
+ {
+  "id": "fondation-seydoux-pathe",
+  "nom": "Fondation Jérôme Seydoux-Pathé",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "muet",
+   "cine-concert",
+   "patrimoine"
+  ],
+  "arrondissement": 13,
+  "adresse": "73 avenue des Gobelins, 75013 Paris",
+  "lat": 48.834,
+  "lon": 2.352,
+  "url_agenda": "https://fondation-jeromeseydoux-pathe.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/fondation-jerome-seydoux-pathe/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Cinéma muet et archives Pathé, ciné-concerts, petite salle."
+ },
+ {
+  "id": "forum-des-images",
+  "nom": "Forum des images",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "cine-concert",
+   "patrimoine"
+  ],
+  "arrondissement": 1,
+  "adresse": "2 rue du Cinéma, Forum des Halles, 75001 Paris",
+  "lat": 48.862,
+  "lon": 2.346,
+  "url_agenda": "https://www.forumdesimages.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/forum-des-images/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Cycles thématiques, ciné-concerts, festivals, films restaurés."
+ },
+ {
+  "id": "mk2-quai-de-loire",
+  "nom": "MK2 Quai de Loire",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 19,
+  "adresse": "7 quai de la Loire, 75019 Paris",
+  "lat": 48.884,
+  "lon": 2.372,
+  "url_agenda": "https://www.mk2.com/salle/mk2-quai-seine-quai-loire",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Multiplexe d'art et essai face au bassin de la Villette."
+ },
+ {
+  "id": "mk2-quai-de-seine",
+  "nom": "MK2 Quai de Seine",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 19,
+  "adresse": "14 quai de la Seine, 75019 Paris",
+  "lat": 48.885,
+  "lon": 2.371,
+  "url_agenda": "https://www.mk2.com/salle/mk2-quai-seine-quai-loire",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Art et essai en face du MK2 Quai de Loire."
+ },
+ {
+  "id": "la-rotonde-stalingrad",
+  "nom": "La Rotonde Stalingrad",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 19,
+  "adresse": "6 place de Stalingrad, 75019 Paris",
+  "lat": 48.884,
+  "lon": 2.368,
+  "url_agenda": "https://www.mk2.com/salle/la-rotonde-stalingrad",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Salle MK2 dans la rotonde de Ledoux, avant-premières et rencontres."
+ },
+ {
+  "id": "mk2-bibliotheque",
+  "nom": "MK2 Bibliothèque",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 13,
+  "adresse": "128-162 avenue de France, 75013 Paris",
+  "lat": 48.833,
+  "lon": 2.376,
+  "url_agenda": "https://www.mk2.com/salle/mk2-bibliotheque",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Grande salle MK2 près de la BnF, séances spéciales."
+ },
+ {
+  "id": "mk2-beaubourg",
+  "nom": "MK2 Beaubourg",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 3,
+  "adresse": "50 rue Rambuteau, 75003 Paris",
+  "lat": 48.861,
+  "lon": 2.351,
+  "url_agenda": "https://www.mk2.com/salle/mk2-beaubourg",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Salle MK2 du Marais, films d'auteur et reprises."
+ },
+ {
+  "id": "mk2-odeon",
+  "nom": "MK2 Odéon",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 6,
+  "adresse": "113 boulevard Saint-Germain, 75006 Paris",
+  "lat": 48.852,
+  "lon": 2.337,
+  "url_agenda": "https://www.mk2.com/salle/mk2-odeon-st-germain-st-michel",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Art et essai Saint-Germain, rétrospectives régulières."
+ },
+ {
+  "id": "mk2-gambetta",
+  "nom": "MK2 Gambetta",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 20,
+  "adresse": "6 rue Belgrand, 75020 Paris",
+  "lat": 48.865,
+  "lon": 2.401,
+  "url_agenda": "https://www.mk2.com/salle/mk2-gambetta",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Salle de quartier MK2 dans le 20e."
+ },
+ {
+  "id": "le-champo",
+  "nom": "Le Champo",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "classique"
+  ],
+  "arrondissement": 5,
+  "adresse": "51 rue des Écoles, 75005 Paris",
+  "lat": 48.85,
+  "lon": 2.343,
+  "url_agenda": "https://www.offi.fr/cinema/champo-1755.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Salle de répertoire, cycles classiques, cinéma muet et asiatique."
+ },
+ {
+  "id": "filmotheque-quartier-latin",
+  "nom": "La Filmothèque du Quartier Latin",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "classique"
+  ],
+  "arrondissement": 5,
+  "adresse": "9 rue Champollion, 75005 Paris",
+  "lat": 48.85,
+  "lon": 2.343,
+  "url_agenda": "https://www.lafilmotheque.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Reprises, films rares et cycles de cinéma classique."
+ },
+ {
+  "id": "grand-action",
+  "nom": "Le Grand Action",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "classique"
+  ],
+  "arrondissement": 5,
+  "adresse": "5 rue des Écoles, 75005 Paris",
+  "lat": 48.848,
+  "lon": 2.349,
+  "url_agenda": "https://www.offi.fr/cinema/grand-action-2403.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Cinéma de répertoire, copies restaurées, cycles par cinéaste."
+ },
+ {
+  "id": "reflet-medicis",
+  "nom": "Le Reflet Médicis",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "auteur"
+  ],
+  "arrondissement": 5,
+  "adresse": "3 rue Champollion, 75005 Paris",
+  "lat": 48.85,
+  "lon": 2.343,
+  "url_agenda": "https://www.offi.fr/cinema/reflet-medicis-3059.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Art et essai, reprises et documentaires rue Champollion."
+ },
+ {
+  "id": "cinema-du-pantheon",
+  "nom": "Cinéma du Panthéon",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "auteur"
+  ],
+  "arrondissement": 5,
+  "adresse": "13 rue Victor Cousin, 75005 Paris",
+  "lat": 48.847,
+  "lon": 2.343,
+  "url_agenda": "https://www.cinemadupantheon.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Petite salle de répertoire en face de la Sorbonne."
+ },
+ {
+  "id": "studio-des-ursulines",
+  "nom": "Studio des Ursulines",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "auteur"
+  ],
+  "arrondissement": 5,
+  "adresse": "10 rue des Ursulines, 75005 Paris",
+  "lat": 48.841,
+  "lon": 2.34,
+  "url_agenda": "https://www.studiodesursulines.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Salle d'art et essai centenaire du Quartier latin, classiques et nouveautés."
+ },
+ {
+  "id": "christine-cinema-club",
+  "nom": "Christine Cinéma Club",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "classique"
+  ],
+  "arrondissement": 6,
+  "adresse": "4 rue Christine, 75006 Paris",
+  "lat": 48.854,
+  "lon": 2.339,
+  "url_agenda": "https://www.cinefil.com/cinema/christine-cinema-club-paris/programmation",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Cycles de cinéma classique et rencontres en petite salle."
+ },
+ {
+  "id": "lucernaire",
+  "nom": "Le Lucernaire",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 6,
+  "adresse": "53 rue Notre-Dame-des-Champs, 75006 Paris",
+  "lat": 48.844,
+  "lon": 2.329,
+  "url_agenda": "https://www.lucernaire.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Centre d'art avec cinéma d'auteur, théâtre et concerts."
+ },
+ {
+  "id": "epee-de-bois",
+  "nom": "L'Épée de Bois",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire"
+  ],
+  "arrondissement": 5,
+  "adresse": "100 rue Mouffetard, 75005 Paris",
+  "lat": 48.841,
+  "lon": 2.35,
+  "url_agenda": "https://www.offi.fr/cinema/lepee-de-bois-2179.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Cinéma de quartier rue Mouffetard, reprises et art et essai."
+ },
+ {
+  "id": "cinema-la-clef",
+  "nom": "Cinéma La Clef",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "associatif"
+  ],
+  "arrondissement": 5,
+  "adresse": "34 rue Daubenton, 75005 Paris",
+  "lat": 48.841,
+  "lon": 2.353,
+  "url_agenda": "https://www.cinemalaclef.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Cinéma associatif autogéré, films rares et débats."
+ },
+ {
+  "id": "louxor",
+  "nom": "Louxor Palais du Cinéma",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "auteur"
+  ],
+  "arrondissement": 10,
+  "adresse": "170 boulevard de Magenta, 75010 Paris",
+  "lat": 48.883,
+  "lon": 2.352,
+  "url_agenda": "https://www.cinemalouxor.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Salle art déco restaurée, grande salle, ciné-clubs et reprises."
+ },
+ {
+  "id": "le-brady",
+  "nom": "Le Brady",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 10,
+  "adresse": "39 boulevard de Strasbourg, 75010 Paris",
+  "lat": 48.871,
+  "lon": 2.357,
+  "url_agenda": "https://www.lebrady.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Cinéma indépendant du 10e, cinéma de genre et d'auteur."
+ },
+ {
+  "id": "studio-28",
+  "nom": "Studio 28",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "auteur"
+  ],
+  "arrondissement": 18,
+  "adresse": "10 rue Tholozé, 75018 Paris",
+  "lat": 48.884,
+  "lon": 2.337,
+  "url_agenda": "https://www.cinema-studio28.fr/",
+  "flux": {
+   "type": "jsonld",
+   "url": "https://www.cinema-studio28.fr/"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Salle historique de Montmartre, classiques, reprises et films d'auteur."
+ },
+ {
+  "id": "les-7-parnassiens",
+  "nom": "Les 7 Parnassiens",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur",
+   "asie"
+  ],
+  "arrondissement": 14,
+  "adresse": "98 boulevard du Montparnasse, 75014 Paris",
+  "lat": 48.842,
+  "lon": 2.329,
+  "url_agenda": "https://www.offi.fr/cinema/sept-parnassiens-3178.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Art et essai à Montparnasse, cinéma asiatique et rétrospectives."
+ },
+ {
+  "id": "cinema-chaplin-denfert",
+  "nom": "Chaplin Denfert",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur"
+  ],
+  "arrondissement": 14,
+  "adresse": "24 place Denfert-Rochereau, 75014 Paris",
+  "lat": 48.834,
+  "lon": 2.332,
+  "url_agenda": "https://www.offi.fr/cinema/le-denfert-1989.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Cinéma de quartier du 14e, art et essai, rencontres."
+ },
+ {
+  "id": "les-3-luxembourg",
+  "nom": "Les 3 Luxembourg",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "auteur",
+   "repertoire"
+  ],
+  "arrondissement": 6,
+  "adresse": "67 rue Monsieur-le-Prince, 75006 Paris",
+  "lat": 48.848,
+  "lon": 2.339,
+  "url_agenda": "https://www.offi.fr/cinema/3-luxembourg-3308.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Salle d'art et essai près du Luxembourg, reprises régulières."
+ },
+ {
+  "id": "centre-tcheque",
+  "nom": "Centre tchèque de Paris",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "tcheque",
+   "musique",
+   "expo"
+  ],
+  "arrondissement": 6,
+  "adresse": "18 rue Bonaparte, 75006 Paris",
+  "lat": 48.855,
+  "lon": 2.334,
+  "url_agenda": "https://paris.czechcentres.gov.cz/fr",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/centre-tcheque/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Projections de cinéma tchèque et Nouvelle Vague, concerts, expositions."
+ },
+ {
+  "id": "studio-galande",
+  "nom": "Studio Galande",
+  "type": "cinema",
+  "themes": [
+   "cinema",
+   "repertoire",
+   "culte"
+  ],
+  "arrondissement": 5,
+  "adresse": "42 rue Galande, 75005 Paris",
+  "lat": 48.852,
+  "lon": 2.347,
+  "url_agenda": "https://www.offi.fr/cinema/studio-galande-3211.html",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Petite salle du Quartier latin, séances cultes et reprises."
+ },
+ {
+  "id": "auditorium-musee-orsay",
+  "nom": "Auditorium du musée d'Orsay",
+  "type": "concert",
+  "themes": [
+   "classique",
+   "cinema",
+   "cine-concert",
+   "conference"
+  ],
+  "arrondissement": 7,
+  "adresse": "62 rue de Lille, 75007 Paris",
+  "lat": 48.86,
+  "lon": 2.326,
+  "url_agenda": "https://www.musee-orsay.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Concerts de musique de chambre, films muets et conférences."
+ },
+ {
+  "id": "auditorium-du-louvre",
+  "nom": "Auditorium du Louvre",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "cinema",
+   "cine-concert",
+   "baroque"
+  ],
+  "arrondissement": 1,
+  "adresse": "Pyramide, 75001 Paris",
+  "lat": 48.861,
+  "lon": 2.336,
+  "url_agenda": "https://www.louvre.fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Concerts, cycles de films, conférences sous la Pyramide."
+ },
+ {
+  "id": "institut-du-monde-arabe",
+  "nom": "Institut du monde arabe",
+  "type": "tiers_lieu",
+  "themes": [
+   "monde",
+   "cinema",
+   "concert"
+  ],
+  "arrondissement": 5,
+  "adresse": "1 rue des Fossés-Saint-Bernard, 75005 Paris",
+  "lat": 48.849,
+  "lon": 2.357,
+  "url_agenda": "https://www.imarabe.org/fr/agenda",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/institut-du-monde-arabe/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Concerts, cinéma, rencontres autour des cultures arabes."
+ },
+ {
+  "id": "maison-amerique-latine",
+  "nom": "Maison de l'Amérique latine",
+  "type": "tiers_lieu",
+  "themes": [
+   "monde",
+   "bresil",
+   "cinema",
+   "concert"
+  ],
+  "arrondissement": 7,
+  "adresse": "217 boulevard Saint-Germain, 75007 Paris",
+  "lat": 48.856,
+  "lon": 2.322,
+  "url_agenda": "https://www.mal217.org/fr/agenda",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/maison-de-l-amerique-latine/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Concerts latino-américains, projections, conférences, entrée souvent libre."
+ },
+ {
+  "id": "centre-wallonie-bruxelles",
+  "nom": "Centre Wallonie-Bruxelles",
+  "type": "tiers_lieu",
+  "themes": [
+   "concert",
+   "cinema",
+   "jazz",
+   "expo"
+  ],
+  "arrondissement": 4,
+  "adresse": "46 rue Quincampoix, 75004 Paris",
+  "lat": 48.861,
+  "lon": 2.35,
+  "url_agenda": "https://cwb.fr/agenda",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/centre-wallonie-bruxelles/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Concerts, projections et expositions belges près de Beaubourg."
+ },
+ {
+  "id": "centre-culturel-suisse",
+  "nom": "Centre culturel suisse",
+  "type": "tiers_lieu",
+  "themes": [
+   "concert",
+   "cinema",
+   "expo",
+   "electro"
+  ],
+  "arrondissement": 3,
+  "adresse": "32 rue des Francs-Bourgeois, 75003 Paris",
+  "lat": 48.857,
+  "lon": 2.358,
+  "url_agenda": "https://www.ccsparis.com/evenements/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Concerts expérimentaux, cinéma et expositions dans le Marais."
+ },
+ {
+  "id": "centre-culturel-irlandais",
+  "nom": "Centre culturel irlandais",
+  "type": "tiers_lieu",
+  "themes": [
+   "concert",
+   "cinema",
+   "monde"
+  ],
+  "arrondissement": 5,
+  "adresse": "5 rue des Irlandais, 75005 Paris",
+  "lat": 48.842,
+  "lon": 2.349,
+  "url_agenda": "https://www.centreculturelirlandais.com/en-ce-moment/expositions-evenements",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/centre-culturel-irlandais/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Concerts de musique irlandaise, projections et conférences."
+ },
+ {
+  "id": "college-des-bernardins",
+  "nom": "Collège des Bernardins",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "baroque",
+   "conference"
+  ],
+  "arrondissement": 5,
+  "adresse": "20 rue de Poissy, 75005 Paris",
+  "lat": 48.849,
+  "lon": 2.352,
+  "url_agenda": "https://www.collegedesbernardins.fr/agenda",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/college-des-bernardins/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Concerts dans un réfectoire cistercien du XIIIe siècle."
+ },
+ {
+  "id": "institut-des-cultures-d-islam",
+  "nom": "Institut des cultures d'Islam",
+  "type": "tiers_lieu",
+  "themes": [
+   "monde",
+   "concert",
+   "expo"
+  ],
+  "arrondissement": 18,
+  "adresse": "56 rue Stephenson, 75018 Paris",
+  "lat": 48.885,
+  "lon": 2.355,
+  "url_agenda": "https://www.institut-cultures-islam.org/agenda/",
+  "flux": {
+   "type": "jsonld",
+   "url": "https://75.agendaculturel.fr/institut-des-cultures-d-islam"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Concerts de musiques du monde musulman, Goutte d'Or."
+ },
+ {
+  "id": "centre-mandapa",
+  "nom": "Centre Mandapa",
+  "type": "concert",
+  "themes": [
+   "monde",
+   "danse",
+   "concert"
+  ],
+  "arrondissement": 13,
+  "adresse": "6 rue Wurtz, 75013 Paris",
+  "lat": 48.826,
+  "lon": 2.346,
+  "url_agenda": "https://www.centre-mandapa.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/centre-mandapa/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Musique et danse classiques de l'Inde, récitals de sitar et vina."
+ },
+ {
+  "id": "maison-du-bresil",
+  "nom": "Maison du Brésil",
+  "type": "tiers_lieu",
+  "themes": [
+   "bresil",
+   "concert",
+   "cinema",
+   "monde"
+  ],
+  "arrondissement": 14,
+  "adresse": "7L boulevard Jourdan, 75014 Paris",
+  "lat": 48.82,
+  "lon": 2.337,
+  "url_agenda": "https://www.maisondubresil.org/",
+  "flux": {
+   "type": "rss",
+   "url": "https://www.maisondubresil.org/feed/"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Fondation brésilienne de la Cité universitaire, concerts et projections."
+ },
+ {
+  "id": "duc-des-lombards",
+  "nom": "Duc des Lombards",
+  "type": "jazz",
+  "themes": [
+   "jazz",
+   "piano"
+  ],
+  "arrondissement": 1,
+  "adresse": "42 rue des Lombards, 75001 Paris",
+  "lat": 48.86,
+  "lon": 2.347,
+  "url_agenda": "https://ducdeslombards.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/duc-des-lombards/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Club de jazz de référence, deux concerts par soir."
+ },
+ {
+  "id": "sunset-sunside",
+  "nom": "Sunset-Sunside",
+  "type": "jazz",
+  "themes": [
+   "jazz",
+   "piano"
+  ],
+  "arrondissement": 1,
+  "adresse": "60 rue des Lombards, 75001 Paris",
+  "lat": 48.86,
+  "lon": 2.347,
+  "url_agenda": "https://www.sunset-sunside.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/sunset-sunside/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Deux salles de jazz superposées, concerts quotidiens."
+ },
+ {
+  "id": "new-morning",
+  "nom": "New Morning",
+  "type": "jazz",
+  "themes": [
+   "jazz",
+   "monde",
+   "bresil"
+  ],
+  "arrondissement": 10,
+  "adresse": "7-9 rue des Petites-Écuries, 75010 Paris",
+  "lat": 48.873,
+  "lon": 2.351,
+  "url_agenda": "https://www.newmorning.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://www.newmorning.com/rss.xml"
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Salle historique de jazz et musiques du monde."
+ },
+ {
+  "id": "baiser-sale",
+  "nom": "Baiser Salé",
+  "type": "jazz",
+  "themes": [
+   "jazz",
+   "monde",
+   "bresil"
+  ],
+  "arrondissement": 1,
+  "adresse": "58 rue des Lombards, 75001 Paris",
+  "lat": 48.86,
+  "lon": 2.347,
+  "url_agenda": "https://www.lebaisersale.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Club de la rue des Lombards, jazz, afro et brésilien."
+ },
+ {
+  "id": "caveau-de-la-huchette",
+  "nom": "Caveau de la Huchette",
+  "type": "jazz",
+  "themes": [
+   "jazz",
+   "swing"
+  ],
+  "arrondissement": 5,
+  "adresse": "5 rue de la Huchette, 75005 Paris",
+  "lat": 48.852,
+  "lon": 2.345,
+  "url_agenda": "https://75.agendaculturel.fr/caveau-de-la-huchette",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/caveau-de-la-huchette/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Cave voûtée de swing et be-bop, danse chaque soir."
+ },
+ {
+  "id": "petit-journal-montparnasse",
+  "nom": "Le Petit Journal Montparnasse",
+  "type": "jazz",
+  "themes": [
+   "jazz",
+   "swing"
+  ],
+  "arrondissement": 14,
+  "adresse": "13 rue du Commandant-Mouchotte, 75014 Paris",
+  "lat": 48.838,
+  "lon": 2.322,
+  "url_agenda": "https://www.petitjournalmontparnasse.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Club de jazz dîner-concert au pied de la tour Montparnasse."
+ },
+ {
+  "id": "cafe-laurent",
+  "nom": "Café Laurent",
+  "type": "jazz",
+  "themes": [
+   "jazz",
+   "piano"
+  ],
+  "arrondissement": 6,
+  "adresse": "33 rue Dauphine, 75006 Paris",
+  "lat": 48.855,
+  "lon": 2.34,
+  "url_agenda": "https://75.agendaculturel.fr/cafe-laurent",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/cafe-laurent/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Jazz en soirée dans le salon de l'hôtel d'Aubusson."
+ },
+ {
+  "id": "autour-de-midi",
+  "nom": "Autour de Midi et Minuit",
+  "type": "jazz",
+  "themes": [
+   "jazz"
+  ],
+  "arrondissement": 18,
+  "adresse": "11 rue Lépic, 75018 Paris",
+  "lat": 48.884,
+  "lon": 2.337,
+  "url_agenda": "https://www.autourdemidi.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Club de jazz de Montmartre, cave et concerts le soir."
+ },
+ {
+  "id": "studio-de-l-ermitage",
+  "nom": "Studio de l'Ermitage",
+  "type": "jazz",
+  "themes": [
+   "jazz",
+   "monde",
+   "pop"
+  ],
+  "arrondissement": 20,
+  "adresse": "8 rue de l'Ermitage, 75020 Paris",
+  "lat": 48.873,
+  "lon": 2.391,
+  "url_agenda": "https://www.offi.fr/concerts/studio-de-lermitage-3207.html",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/studio-de-l-ermitage/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Salle de Ménilmontant, jazz, chanson et musiques du monde."
+ },
+ {
+  "id": "le-pan-piper",
+  "nom": "Le Pan Piper",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "jazz"
+  ],
+  "arrondissement": 11,
+  "adresse": "2 impasse Lamier, 75011 Paris",
+  "lat": 48.853,
+  "lon": 2.389,
+  "url_agenda": "https://www.panpiper.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Salle de concerts de l'impasse Lamier, programmation éclectique."
+ },
+ {
+  "id": "cafe-de-la-danse",
+  "nom": "Café de la Danse",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "jazz",
+   "monde"
+  ],
+  "arrondissement": 11,
+  "adresse": "5 passage Louis-Philippe, 75011 Paris",
+  "lat": 48.853,
+  "lon": 2.371,
+  "url_agenda": "https://www.cafedeladanse.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://www.cafedeladanse.com/feed/"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Salle de concerts du passage Louis-Philippe, pop, jazz et musiques du monde."
+ },
+ {
+  "id": "olympia",
+  "nom": "L'Olympia",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "chanson"
+  ],
+  "arrondissement": 9,
+  "adresse": "28 boulevard des Capucines, 75009 Paris",
+  "lat": 48.87,
+  "lon": 2.328,
+  "url_agenda": "https://www.olympiahall.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/olympia/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Music-hall historique, concerts pop, rock et chanson."
+ },
+ {
+  "id": "la-cigale",
+  "nom": "La Cigale",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "rap"
+  ],
+  "arrondissement": 18,
+  "adresse": "120 boulevard de Rochechouart, 75018 Paris",
+  "lat": 48.882,
+  "lon": 2.34,
+  "url_agenda": "https://www.lacigale.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/la-cigale/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": true,
+  "note": "Salle à l'italienne de Pigalle, pop, rock et rap."
+ },
+ {
+  "id": "le-trianon",
+  "nom": "Le Trianon",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "rap"
+  ],
+  "arrondissement": 18,
+  "adresse": "80 boulevard de Rochechouart, 75018 Paris",
+  "lat": 48.883,
+  "lon": 2.344,
+  "url_agenda": "https://www.letrianon.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/le-trianon/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": true,
+  "note": "Ancien théâtre du 18e, concerts pop et rap."
+ },
+ {
+  "id": "le-divan-du-monde",
+  "nom": "Le Divan du Monde",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "monde"
+  ],
+  "arrondissement": 18,
+  "adresse": "75 rue des Martyrs, 75018 Paris",
+  "lat": 48.883,
+  "lon": 2.338,
+  "url_agenda": "https://www.divandumonde.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Salle de Pigalle, rock, pop et musiques du monde."
+ },
+ {
+  "id": "les-trois-baudets",
+  "nom": "Les Trois Baudets",
+  "type": "concert",
+  "themes": [
+   "chanson",
+   "pop",
+   "rap"
+  ],
+  "arrondissement": 18,
+  "adresse": "64 boulevard de Clichy, 75018 Paris",
+  "lat": 48.883,
+  "lon": 2.334,
+  "url_agenda": "https://www.lestroisbaudets.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/les-trois-baudets/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Salle de chanson et nouvelles scènes, petite jauge."
+ },
+ {
+  "id": "le-hasard-ludique",
+  "nom": "Le Hasard Ludique",
+  "type": "tiers_lieu",
+  "themes": [
+   "techno",
+   "pop",
+   "jazz",
+   "rock"
+  ],
+  "arrondissement": 18,
+  "adresse": "128 avenue de Saint-Ouen, 75018 Paris",
+  "lat": 48.895,
+  "lon": 2.327,
+  "url_agenda": "https://75.agendaculturel.fr/le-hasard-ludique",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/le-hasard-ludique/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Salle sous la petite ceinture, concerts, clubbing et expériences."
+ },
+ {
+  "id": "fgo-barbara",
+  "nom": "FGO-Barbara",
+  "type": "concert",
+  "themes": [
+   "monde",
+   "jazz",
+   "pop"
+  ],
+  "arrondissement": 18,
+  "adresse": "1 rue Fleury, 75018 Paris",
+  "lat": 48.887,
+  "lon": 2.353,
+  "url_agenda": "https://www.fgo-barbara.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/fgo-barbara/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Salle de quartier de la Goutte d'Or, musiques du monde."
+ },
+ {
+  "id": "le-point-ephemere",
+  "nom": "Le Point Éphémère",
+  "type": "tiers_lieu",
+  "themes": [
+   "pop",
+   "techno",
+   "rock",
+   "expo"
+  ],
+  "arrondissement": 10,
+  "adresse": "200 quai de Valmy, 75010 Paris",
+  "lat": 48.883,
+  "lon": 2.371,
+  "url_agenda": "https://www.pointephemere.org/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/le-point-ephemere/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Lieu de création au bord du canal, concerts et clubbing."
+ },
+ {
+  "id": "la-maroquinerie",
+  "nom": "La Maroquinerie",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "rap"
+  ],
+  "arrondissement": 20,
+  "adresse": "23 rue Boyer, 75020 Paris",
+  "lat": 48.87,
+  "lon": 2.389,
+  "url_agenda": "https://lamaroquinerie.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/la-maroquinerie/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Salle de Ménilmontant, pop, rock et rap, petite jauge."
+ },
+ {
+  "id": "la-bellevilloise",
+  "nom": "La Bellevilloise",
+  "type": "tiers_lieu",
+  "themes": [
+   "pop",
+   "techno",
+   "jazz",
+   "monde",
+   "bresil"
+  ],
+  "arrondissement": 20,
+  "adresse": "19-21 rue Boyer, 75020 Paris",
+  "lat": 48.869,
+  "lon": 2.388,
+  "url_agenda": "https://www.labellevilloise.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/la-bellevilloise/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Ancienne coopérative ouvrière, concerts, clubbing, brunchs et expositions."
+ },
+ {
+  "id": "la-fleche-d-or",
+  "nom": "La Flèche d'Or",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "techno"
+  ],
+  "arrondissement": 20,
+  "adresse": "102 bis rue de Bagnolet, 75020 Paris",
+  "lat": 48.859,
+  "lon": 2.407,
+  "url_agenda": "https://www.flechedor.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Ancienne gare de la Petite Ceinture, concerts et soirées."
+ },
+ {
+  "id": "nouveau-casino",
+  "nom": "Le Nouveau Casino",
+  "type": "club",
+  "themes": [
+   "techno",
+   "pop",
+   "rock"
+  ],
+  "arrondissement": 11,
+  "adresse": "109 rue Oberkampf, 75011 Paris",
+  "lat": 48.866,
+  "lon": 2.379,
+  "url_agenda": "https://www.nouveaucasino.net/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/nouveau-casino/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Club et salle de concert d'Oberkampf, électro et indé."
+ },
+ {
+  "id": "alimentation-generale",
+  "nom": "L'Alimentation Générale",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "rap"
+  ],
+  "arrondissement": 11,
+  "adresse": "64 rue Jean-Pierre Timbaud, 75011 Paris",
+  "lat": 48.866,
+  "lon": 2.378,
+  "url_agenda": "https://www.alimentation-generale.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/alimentation-generale/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Ancienne épicerie transformée en salle, concerts et DJ sets."
+ },
+ {
+  "id": "satellit-cafe",
+  "nom": "Satellit Café",
+  "type": "concert",
+  "themes": [
+   "monde",
+   "electro",
+   "jazz"
+  ],
+  "arrondissement": 11,
+  "adresse": "44 rue de la Folie-Méricourt, 75011 Paris",
+  "lat": 48.865,
+  "lon": 2.371,
+  "url_agenda": "https://www.satellit-cafe.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Café-concert de musiques du monde et électro, petite jauge."
+ },
+ {
+  "id": "cabaret-sauvage",
+  "nom": "Cabaret Sauvage",
+  "type": "concert",
+  "themes": [
+   "monde",
+   "jazz",
+   "pop"
+  ],
+  "arrondissement": 19,
+  "adresse": "211 avenue Jean-Jaurès, 75019 Paris",
+  "lat": 48.893,
+  "lon": 2.389,
+  "url_agenda": "https://www.cabaretsauvage.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/cabaret-sauvage/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Chapiteau de bois, musiques du monde, jazz et cirque."
+ },
+ {
+  "id": "le-104",
+  "nom": "Le CENTQUATRE-Paris",
+  "type": "tiers_lieu",
+  "themes": [
+   "monde",
+   "electro",
+   "cine-concert"
+  ],
+  "arrondissement": 19,
+  "adresse": "5 rue Curial, 75019 Paris",
+  "lat": 48.89,
+  "lon": 2.37,
+  "url_agenda": "https://www.104.fr/",
+  "flux": {
+   "type": "jsonld",
+   "url": "https://75.agendaculturel.fr/le-centquatre-paris"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Établissement artistique, concerts, projections et ateliers en accès libre."
+ },
+ {
+  "id": "petit-bain",
+  "nom": "Petit Bain",
+  "type": "tiers_lieu",
+  "themes": [
+   "pop",
+   "rock",
+   "techno",
+   "peniche"
+  ],
+  "arrondissement": 13,
+  "adresse": "7 port de la Gare, 75013 Paris",
+  "lat": 48.833,
+  "lon": 2.376,
+  "url_agenda": "https://petitbain.org/agenda/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/petit-bain/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Barge-salle de concert sur la Seine, scène indé et électro."
+ },
+ {
+  "id": "le-batofar",
+  "nom": "Le Batofar",
+  "type": "club",
+  "themes": [
+   "techno",
+   "electro",
+   "peniche"
+  ],
+  "arrondissement": 13,
+  "adresse": "11 quai François-Mauriac, 75013 Paris",
+  "lat": 48.834,
+  "lon": 2.376,
+  "url_agenda": "https://www.batofar.org/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Bateau-club rouge sur la Seine, électro et house."
+ },
+ {
+  "id": "la-dame-de-canton",
+  "nom": "La Dame de Canton",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "monde",
+   "peniche"
+  ],
+  "arrondissement": 13,
+  "adresse": "Port de la Gare, 75013 Paris",
+  "lat": 48.833,
+  "lon": 2.375,
+  "url_agenda": "https://damedecanton.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/la-dame-de-canton/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Jonque chinoise amarrée, concerts éclectiques et petits formats."
+ },
+ {
+  "id": "peniche-anako",
+  "nom": "Péniche Anako",
+  "type": "concert",
+  "themes": [
+   "jazz",
+   "monde",
+   "peniche",
+   "chanson"
+  ],
+  "arrondissement": 19,
+  "adresse": "Face au 61 quai de la Seine, 75019 Paris",
+  "lat": 48.886,
+  "lon": 2.371,
+  "url_agenda": "https://75.agendaculturel.fr/peniche-planete-anako",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/peniche-planete-anako/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Péniche associative, concerts de jazz, chanson et musiques du monde."
+ },
+ {
+  "id": "peniche-antipode",
+  "nom": "Péniche Antipode",
+  "type": "tiers_lieu",
+  "themes": [
+   "pop",
+   "monde",
+   "peniche",
+   "associatif"
+  ],
+  "arrondissement": 19,
+  "adresse": "55 quai de la Seine, 75019 Paris",
+  "lat": 48.885,
+  "lon": 2.37,
+  "url_agenda": "https://www.penicheantipode.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/peniche-antipode/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Péniche MJC du bassin de la Villette, concerts et ateliers."
+ },
+ {
+  "id": "peniche-opera",
+  "nom": "Péniche Opéra",
+  "type": "opera",
+  "themes": [
+   "opera",
+   "baroque",
+   "peniche"
+  ],
+  "arrondissement": 19,
+  "adresse": "46 quai de la Loire, 75019 Paris",
+  "lat": 48.885,
+  "lon": 2.372,
+  "url_agenda": "https://penicheopera.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Opéras baroques et contemporains sur une péniche, petite jauge."
+ },
+ {
+  "id": "peniche-marcounet",
+  "nom": "Péniche Marcounet",
+  "type": "concert",
+  "themes": [
+   "jazz",
+   "chanson",
+   "peniche"
+  ],
+  "arrondissement": 4,
+  "adresse": "Quai de l'Hôtel de Ville, Port des Célestins, 75004 Paris",
+  "lat": 48.851,
+  "lon": 2.363,
+  "url_agenda": "https://www.offi.fr/concerts/peniche-marcounet-5663.html",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/peniche-marcounet/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Péniche amarrée près de l'île Saint-Louis, jazz et chanson."
+ },
+ {
+  "id": "bateau-concorde-atlantique",
+  "nom": "Concorde Atlantique",
+  "type": "concert",
+  "themes": [
+   "pop",
+   "rock",
+   "peniche"
+  ],
+  "arrondissement": 7,
+  "adresse": "25 quai Anatole France, 75007 Paris",
+  "lat": 48.862,
+  "lon": 2.32,
+  "url_agenda": "https://75.agendaculturel.fr/bateau-concorde-atlantique",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/bateau-concorde-atlantique/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Bateau-salle de concert sur la Seine, programmation éclectique."
+ },
+ {
+  "id": "la-gaite-lyrique",
+  "nom": "La Gaîté lyrique",
+  "type": "tiers_lieu",
+  "themes": [
+   "electro",
+   "cine-concert",
+   "numerique",
+   "pop"
+  ],
+  "arrondissement": 3,
+  "adresse": "3 bis rue Papin, 75003 Paris",
+  "lat": 48.866,
+  "lon": 2.352,
+  "url_agenda": "https://www.gaite-lyrique.net/agenda/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/la-gaite-lyrique/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Lieu des cultures numériques, concerts électro, cinéma, expositions."
+ },
+ {
+  "id": "maison-des-metallos",
+  "nom": "Maison des Métallos",
+  "type": "tiers_lieu",
+  "themes": [
+   "monde",
+   "theatre",
+   "concert"
+  ],
+  "arrondissement": 11,
+  "adresse": "94 rue Jean-Pierre Timbaud, 75011 Paris",
+  "lat": 48.866,
+  "lon": 2.376,
+  "url_agenda": "https://www.maisondesmetallos.paris/",
+  "flux": {
+   "type": "jsonld",
+   "url": "https://75.agendaculturel.fr/maison-des-metallos"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Fabrique artistique de la Ville, concerts et spectacles à petit prix."
+ },
+ {
+  "id": "cirque-electrique",
+  "nom": "Le Cirque Électrique",
+  "type": "tiers_lieu",
+  "themes": [
+   "pop",
+   "rock",
+   "cirque"
+  ],
+  "arrondissement": 20,
+  "adresse": "Place du Maquis du Vercors, 75020 Paris",
+  "lat": 48.865,
+  "lon": 2.399,
+  "url_agenda": "https://cirque-electrique.com/",
+  "flux": {
+   "type": "jsonld",
+   "url": "https://www.cirque-electrique.com/"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Chapiteau permanent du 20e, concerts et cabarets."
+ },
+ {
+  "id": "la-recyclerie",
+  "nom": "La Recyclerie",
+  "type": "tiers_lieu",
+  "themes": [
+   "pop",
+   "jazz",
+   "monde"
+  ],
+  "arrondissement": 18,
+  "adresse": "83 boulevard Ornano, 75018 Paris",
+  "lat": 48.897,
+  "lon": 2.345,
+  "url_agenda": "https://www.larecyclerie.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Tiers-lieu dans une ancienne gare, concerts et brunchs."
+ },
+ {
+  "id": "la-station-gare-des-mines",
+  "nom": "La Station - Gare des Mines",
+  "type": "tiers_lieu",
+  "themes": [
+   "techno",
+   "electro",
+   "pop"
+  ],
+  "arrondissement": 18,
+  "adresse": "29 rue des Cheminots, 75018 Paris",
+  "lat": 48.896,
+  "lon": 2.363,
+  "url_agenda": "https://lastation.paris/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Ancienne gare, concerts, clubbing et expositions, porte d'Aubervilliers."
+ },
+ {
+  "id": "shakirail",
+  "nom": "Shakirail",
+  "type": "tiers_lieu",
+  "themes": [
+   "pop",
+   "rock",
+   "associatif"
+  ],
+  "arrondissement": 18,
+  "adresse": "72 rue Riquet, 75018 Paris",
+  "lat": 48.89,
+  "lon": 2.37,
+  "url_agenda": "https://www.sortiraparis.com/lieux/55825-le-shakirail",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Squat artistique légal, concerts et projections associatifs."
+ },
+ {
+  "id": "lavoir-moderne-parisien",
+  "nom": "Lavoir Moderne Parisien",
+  "type": "tiers_lieu",
+  "themes": [
+   "monde",
+   "theatre",
+   "concert"
+  ],
+  "arrondissement": 18,
+  "adresse": "35 rue Léon, 75018 Paris",
+  "lat": 48.886,
+  "lon": 2.355,
+  "url_agenda": "https://www.lavoirmoderne.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/lavoir-moderne-parisien/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Ancien lavoir de la Goutte d'Or, théâtre et concerts."
+ },
+ {
+  "id": "la-place-hip-hop",
+  "nom": "La Place",
+  "type": "concert",
+  "themes": [
+   "rap",
+   "hip-hop",
+   "danse"
+  ],
+  "arrondissement": 1,
+  "adresse": "Canopée, 10 passage de la Canopée, 75001 Paris",
+  "lat": 48.862,
+  "lon": 2.347,
+  "url_agenda": "https://parisjetaime.com/culture/la-place-centre-culturel-hip-hop-p1761",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Centre culturel hip-hop des Halles, concerts, battles et ateliers."
+ },
+ {
+  "id": "rosa-bonheur-buttes",
+  "nom": "Rosa Bonheur sur Seine",
+  "type": "club",
+  "themes": [
+   "techno",
+   "electro",
+   "pop"
+  ],
+  "arrondissement": 19,
+  "adresse": "Parc des Buttes-Chaumont, 75019 Paris",
+  "lat": 48.88,
+  "lon": 2.382,
+  "url_agenda": "https://rosabonheur.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Guinguette des Buttes-Chaumont, DJ sets house et concerts en plein air."
+ },
+ {
+  "id": "rex-club",
+  "nom": "Le Rex Club",
+  "type": "club",
+  "themes": [
+   "techno",
+   "electro"
+  ],
+  "arrondissement": 2,
+  "adresse": "5 boulevard Poissonnière, 75002 Paris",
+  "lat": 48.871,
+  "lon": 2.347,
+  "url_agenda": "https://www.rexclub.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Club techno de référence, soirées sur système Funktion-One."
+ },
+ {
+  "id": "glazart",
+  "nom": "Le Glazart",
+  "type": "club",
+  "themes": [
+   "techno",
+   "electro"
+  ],
+  "arrondissement": 19,
+  "adresse": "7-15 avenue de la Porte de la Villette, 75019 Paris",
+  "lat": 48.898,
+  "lon": 2.385,
+  "url_agenda": "https://glazart.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://www.glazart.com/feed/"
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Club à la porte de la Villette, techno, drum and bass."
+ },
+ {
+  "id": "philharmonie-de-paris",
+  "nom": "Philharmonie de Paris",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "jazz",
+   "monde",
+   "symphonique",
+   "piano"
+  ],
+  "arrondissement": 19,
+  "adresse": "221 avenue Jean-Jaurès, 75019 Paris",
+  "lat": 48.89,
+  "lon": 2.394,
+  "url_agenda": "https://philharmoniedeparis.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Grande salle symphonique et musiques du monde, jazz."
+ },
+ {
+  "id": "cite-de-la-musique",
+  "nom": "Cité de la musique",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "baroque",
+   "musique-de-chambre",
+   "piano",
+   "monde"
+  ],
+  "arrondissement": 19,
+  "adresse": "221 avenue Jean-Jaurès, 75019 Paris",
+  "lat": 48.89,
+  "lon": 2.394,
+  "url_agenda": "https://philharmoniedeparis.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Salles de chambre et amphithéâtre, récitals, baroque et musiques du monde."
+ },
+ {
+  "id": "salle-gaveau",
+  "nom": "Salle Gaveau",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "piano",
+   "musique-de-chambre"
+  ],
+  "arrondissement": 8,
+  "adresse": "45 rue La Boétie, 75008 Paris",
+  "lat": 48.873,
+  "lon": 2.311,
+  "url_agenda": "https://sallegaveau.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/salle-gaveau/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Salle de récitals de piano et de musique de chambre."
+ },
+ {
+  "id": "salle-pleyel",
+  "nom": "Salle Pleyel",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "symphonique",
+   "piano",
+   "jazz"
+  ],
+  "arrondissement": 8,
+  "adresse": "252 rue du Faubourg-Saint-Honoré, 75008 Paris",
+  "lat": 48.879,
+  "lon": 2.299,
+  "url_agenda": "https://www.sallepleyel.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/salle-pleyel/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Salle symphonique art déco, récitals et jazz."
+ },
+ {
+  "id": "theatre-des-champs-elysees",
+  "nom": "Théâtre des Champs-Élysées",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "opera",
+   "piano",
+   "baroque"
+  ],
+  "arrondissement": 8,
+  "adresse": "15 avenue Montaigne, 75008 Paris",
+  "lat": 48.866,
+  "lon": 2.303,
+  "url_agenda": "https://www.theatrechampselysees.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/theatre-des-champs-elysees/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Opéras, orchestres, récitals de piano et ballets."
+ },
+ {
+  "id": "theatre-du-chatelet",
+  "nom": "Théâtre du Châtelet",
+  "type": "opera",
+  "themes": [
+   "opera",
+   "classique",
+   "cine-concert",
+   "comedie-musicale"
+  ],
+  "arrondissement": 1,
+  "adresse": "1 place du Châtelet, 75001 Paris",
+  "lat": 48.858,
+  "lon": 2.347,
+  "url_agenda": "https://www.chatelet.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/theatre-du-chatelet/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Opéra, concerts symphoniques, ciné-concerts et comédies musicales."
+ },
+ {
+  "id": "opera-garnier",
+  "nom": "Opéra Garnier",
+  "type": "opera",
+  "themes": [
+   "opera",
+   "ballet",
+   "classique"
+  ],
+  "arrondissement": 9,
+  "adresse": "Place de l'Opéra, 75009 Paris",
+  "lat": 48.872,
+  "lon": 2.332,
+  "url_agenda": "https://www.operadeparis.fr/programmation/saison-26-27",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "60-100",
+  "diversite": false,
+  "note": "Palais Garnier, opéra et ballet, galerie historique."
+ },
+ {
+  "id": "opera-bastille",
+  "nom": "Opéra Bastille",
+  "type": "opera",
+  "themes": [
+   "opera",
+   "ballet",
+   "classique"
+  ],
+  "arrondissement": 12,
+  "adresse": "120 rue de Lyon, 75012 Paris",
+  "lat": 48.852,
+  "lon": 2.37,
+  "url_agenda": "https://www.operadeparis.fr/programmation/saison-26-27",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/opera-bastille/rss"
+  },
+  "prix_typique": "60-100",
+  "diversite": false,
+  "note": "Grande salle moderne de l'Opéra de Paris, opéra et concerts."
+ },
+ {
+  "id": "opera-comique",
+  "nom": "Opéra-Comique",
+  "type": "opera",
+  "themes": [
+   "opera",
+   "baroque",
+   "classique"
+  ],
+  "arrondissement": 2,
+  "adresse": "1 place Boieldieu, 75002 Paris",
+  "lat": 48.871,
+  "lon": 2.338,
+  "url_agenda": "https://www.opera-comique.com/fr/calendrier",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Salle Favart, opéra-comique, répertoire baroque et création."
+ },
+ {
+  "id": "bouffes-du-nord",
+  "nom": "Théâtre des Bouffes du Nord",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "baroque",
+   "jazz",
+   "theatre"
+  ],
+  "arrondissement": 10,
+  "adresse": "37 bis boulevard de la Chapelle, 75010 Paris",
+  "lat": 48.884,
+  "lon": 2.36,
+  "url_agenda": "https://www.bouffesdunord.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/theatre-des-bouffes-du-nord/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": true,
+  "note": "Théâtre en ruine poétique, musique de chambre et récitals."
+ },
+ {
+  "id": "athenee-theatre",
+  "nom": "Athénée Théâtre",
+  "type": "opera",
+  "themes": [
+   "opera",
+   "baroque",
+   "classique"
+  ],
+  "arrondissement": 9,
+  "adresse": "7 rue Boudreau, 75009 Paris",
+  "lat": 48.872,
+  "lon": 2.328,
+  "url_agenda": "https://athenee-theatre.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "30-60",
+  "diversite": true,
+  "note": "Petit théâtre à l'italienne, opéra de chambre et récitals."
+ },
+ {
+  "id": "theatre-de-la-ville",
+  "nom": "Théâtre de la Ville",
+  "type": "classique",
+  "themes": [
+   "monde",
+   "danse",
+   "classique"
+  ],
+  "arrondissement": 4,
+  "adresse": "2 place du Châtelet, 75004 Paris",
+  "lat": 48.857,
+  "lon": 2.347,
+  "url_agenda": "https://www.theatredelaville-paris.com/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/theatre-de-la-ville/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Scène de danse, musiques du monde et récitals."
+ },
+ {
+  "id": "sainte-chapelle",
+  "nom": "La Sainte-Chapelle",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "baroque",
+   "musique-de-chambre"
+  ],
+  "arrondissement": 1,
+  "adresse": "10 boulevard du Palais, 75001 Paris",
+  "lat": 48.855,
+  "lon": 2.345,
+  "url_agenda": "https://www.sainte-chapelle.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/la-sainte-chapelle/rss"
+  },
+  "prix_typique": "30-60",
+  "diversite": false,
+  "note": "Concerts de musique classique et baroque sous les vitraux."
+ },
+ {
+  "id": "saint-julien-le-pauvre",
+  "nom": "Église Saint-Julien-le-Pauvre",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "baroque",
+   "musique-de-chambre"
+  ],
+  "arrondissement": 5,
+  "adresse": "1 rue Saint-Julien-le-Pauvre, 75005 Paris",
+  "lat": 48.852,
+  "lon": 2.347,
+  "url_agenda": "https://www.offi.fr/concerts/eglise-saint-julien-le-pauvre-2144.html",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/eglise-saint-julien-le-pauvre/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Petite église médiévale, concerts de musique de chambre et baroque."
+ },
+ {
+  "id": "la-madeleine",
+  "nom": "Église de la Madeleine",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "classique",
+   "choeur"
+  ],
+  "arrondissement": 8,
+  "adresse": "Place de la Madeleine, 75008 Paris",
+  "lat": 48.87,
+  "lon": 2.325,
+  "url_agenda": "https://lamadeleineparis.fr/concerts-musique/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/eglise-de-la-madeleine/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Concerts d'orgue et de requiem dans l'église néoclassique."
+ },
+ {
+  "id": "saint-germain-des-pres",
+  "nom": "Église Saint-Germain-des-Prés",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "classique",
+   "choeur"
+  ],
+  "arrondissement": 6,
+  "adresse": "3 place Saint-Germain-des-Prés, 75006 Paris",
+  "lat": 48.854,
+  "lon": 2.335,
+  "url_agenda": "https://www.eglise-saintgermaindespres.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/eglise-saint-germain-des-pres/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": false,
+  "note": "Église abbatiale du VIe siècle, concerts de musique sacrée et d'orgue."
+ },
+ {
+  "id": "saint-eustache",
+  "nom": "Église Saint-Eustache",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "classique",
+   "choeur"
+  ],
+  "arrondissement": 1,
+  "adresse": "2 impasse Saint-Eustache, 75001 Paris",
+  "lat": 48.863,
+  "lon": 2.346,
+  "url_agenda": "https://www.saint-eustache.org/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/eglise-saint-eustache/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Grand orgue de 8 000 tuyaux, récital chaque dimanche."
+ },
+ {
+  "id": "saint-sulpice",
+  "nom": "Église Saint-Sulpice",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "classique"
+  ],
+  "arrondissement": 6,
+  "adresse": "2 rue Palatine, 75006 Paris",
+  "lat": 48.851,
+  "lon": 2.335,
+  "url_agenda": "https://www.pss75.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/eglise-saint-sulpice/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Grand orgue Cavaillé-Coll, récitals et messes dominicales."
+ },
+ {
+  "id": "la-trinite",
+  "nom": "Église de la Trinité",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "classique"
+  ],
+  "arrondissement": 9,
+  "adresse": "3 rue de Châteaudun, 75009 Paris",
+  "lat": 48.877,
+  "lon": 2.333,
+  "url_agenda": "https://www.latrinite.org/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/eglise-de-la-trinite/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Orgue Cavaillé-Coll où Messiaen fut titulaire, concerts d'orgue réguliers."
+ },
+ {
+  "id": "sainte-clotilde",
+  "nom": "Basilique Sainte-Clotilde",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "classique"
+  ],
+  "arrondissement": 7,
+  "adresse": "23 bis rue Las Cases, 75007 Paris",
+  "lat": 48.857,
+  "lon": 2.319,
+  "url_agenda": "https://www.sainteclotilde.com/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Orgue de César Franck, récitals et concerts sacrés."
+ },
+ {
+  "id": "saint-etienne-du-mont",
+  "nom": "Église Saint-Étienne-du-Mont",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "classique",
+   "choeur"
+  ],
+  "arrondissement": 5,
+  "adresse": "1 place Sainte-Geneviève, 75005 Paris",
+  "lat": 48.847,
+  "lon": 2.348,
+  "url_agenda": "https://www.saintetiennedumont.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/eglise-saint-etienne-du-mont/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Buffet d'orgue du XVIIe siècle, concerts d'orgue et de choeur."
+ },
+ {
+  "id": "saint-louis-en-l-ile",
+  "nom": "Église Saint-Louis-en-l'Île",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "baroque",
+   "classique"
+  ],
+  "arrondissement": 4,
+  "adresse": "19 bis rue Saint-Louis-en-l'Île, 75004 Paris",
+  "lat": 48.852,
+  "lon": 2.357,
+  "url_agenda": "https://www.saintlouisenlile.fr/",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/eglise-saint-louis-en-l-ile/rss"
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Petite église baroque de l'île Saint-Louis, concerts d'orgue et de chambre."
+ },
+ {
+  "id": "notre-dame-de-paris",
+  "nom": "Cathédrale Notre-Dame de Paris",
+  "type": "orgue",
+  "themes": [
+   "orgue",
+   "classique"
+  ],
+  "arrondissement": 4,
+  "adresse": "6 parvis Notre-Dame, 75004 Paris",
+  "lat": 48.853,
+  "lon": 2.35,
+  "url_agenda": "https://www.offi.fr/concerts/cathedrale-notre-dame-2852.html",
+  "flux": {
+   "type": "rss",
+   "url": "https://75.agendaculturel.fr/cathedrale-notre-dame-de-paris/rss"
+  },
+  "prix_typique": "0-15",
+  "diversite": false,
+  "note": "Concerts d'orgue de la cathédrale rouverte, grand orgue de 8 000 tuyaux."
+ },
+ {
+  "id": "temple-de-l-oratoire",
+  "nom": "Temple de l'Oratoire du Louvre",
+  "type": "classique",
+  "themes": [
+   "classique",
+   "orgue",
+   "baroque"
+  ],
+  "arrondissement": 1,
+  "adresse": "145 rue Saint-Honoré, 75001 Paris",
+  "lat": 48.862,
+  "lon": 2.34,
+  "url_agenda": "https://oratoiredulouvre.fr/",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "0-15",
+  "diversite": true,
+  "note": "Temple protestant face au Louvre, concerts de musique baroque et d'orgue."
+ },
+ {
+  "id": "musee-quai-branly",
+  "nom": "Musée du quai Branly",
+  "type": "tiers_lieu",
+  "themes": [
+   "monde",
+   "cinema",
+   "concert"
+  ],
+  "arrondissement": 7,
+  "adresse": "37 quai Branly, 75007 Paris",
+  "lat": 48.861,
+  "lon": 2.298,
+  "url_agenda": "https://quaibranly.fr/fr/agenda",
+  "flux": {
+   "type": "aucun",
+   "url": null
+  },
+  "prix_typique": "15-30",
+  "diversite": true,
+  "note": "Théâtre Claude Lévi-Strauss, concerts du monde, projections."
+ }
+]
