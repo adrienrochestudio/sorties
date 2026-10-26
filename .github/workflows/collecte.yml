@@ -44,6 +44,11 @@ jobs:
           git diff --cached --quiet || { git commit -m "Shortlist $(date -u +%F)" && git pull --rebase && git push; }
       - name: Rapport
         run: cat data/brut/rapport.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: brut
+          path: data/brut/
+          retention-days: 7
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

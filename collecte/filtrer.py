@@ -29,6 +29,9 @@ def rejete(e, t):
     for m in R["rejets"]:
         if contient(t, m):
             return m
+    for motif in R.get("rejets_regex", []):
+        if re.search(motif, t):
+            return motif
     for m, sauf in R["rejets_sauf"].items():
         if contient(t, m) and not any(contient(t, s) for s in sauf):
             return m
@@ -140,7 +143,7 @@ def main():
         if not ok:
             stats["horaire"] += 1
             continue
-        ths = themes(t)
+        ths = themes(norm(e["titre"] + " " + e["tags"]))
         sc = score(e, t, ths)
         forte = e["anticiper"] or any(f in norm(e["lieu"]) for f in R["lieux_forte_demande"])
         decouverte = score_gout(t) < 4
@@ -157,7 +160,7 @@ def main():
             quota_confort, quota_dec = 4, 1
         else:
             quota_confort, quota_dec = 4, 0
-        par_theme, choisis, n_conf, n_dec = Counter(), [], 0, 0
+        par_theme, choisis, n_conf, n_dec, n_per = Counter(), [], 0, 0, 0
         for e, dt, sc, ths, dec, dim_soir, forte, zone in candidats:
             if e["id"] in pris_ids or not (d0 <= dt.date() <= d1):
                 continue
@@ -172,6 +175,8 @@ def main():
                 continue
             if par_theme[ths[0]] >= R["meme_theme_par_semaine"] * (3 if b["mode"] == "proche" else 1):
                 continue
+            if e["periode"] and n_per >= R.get("periodes_par_bucket", 3):
+                continue
             if dec and n_dec < quota_dec and sc > -2:
                 n_dec += 1
             elif not dec and n_conf < quota_confort:
@@ -179,6 +184,7 @@ def main():
             else:
                 continue
             par_theme[ths[0]] += 1
+            n_per += int(e["periode"])
             pris_ids.add(e["id"])
             choisis.append({**court(e, sc, ths, dec, dim_soir), "_k": dt.isoformat()})
         choisis.sort(key=lambda c: c["_k"])
