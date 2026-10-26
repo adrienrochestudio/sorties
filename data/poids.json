@@ -1,5 +1,11 @@
 {
- "lieux": {},
- "themes": {},
+ "lieux": {
+  "new morning": -2,
+  "centre tcheque de paris": -2
+ },
+ "themes": {
+  "concert": -1,
+  "classique": -1
+ },
  "mots": {}
 }
