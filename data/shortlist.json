@@ -1,12 +1,12 @@
 {
 "genere": "2026-10-26",
 "stats": {
-"rejet": 1385,
-"retenu": 2069,
-"hors_horizon": 252,
-"hors_zone": 703,
-"trop_cher": 84,
 "horaire": 182,
+"retenu": 2077,
+"hors_zone": 702,
+"rejet": 1372,
+"hors_horizon": 252,
+"trop_cher": 84,
 "hors_paris_semaine": 6
 },
 "buckets": [
