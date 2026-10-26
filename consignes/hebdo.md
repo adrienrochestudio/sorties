@@ -22,6 +22,7 @@ La collecte, le filtrage et le score sont déjà faits par la GitHub Action du s
 - Jours Ana : au moins 2 propositions par jour en plus du quota, préfixe "Avec Ana - ".
 - Jours Vichy : la shortlist ne couvre pas Vichy. Une recherche courte sur l'agenda de l'office de tourisme de Vichy et l'Opéra de Vichy, 1 ou 2 propositions par jour.
 - Amis : 10 à 20 % des événements créés sont choisis pour un ami du fichier profils (goûts de l'ami, pas ceux d'Adrien), préfixe "Avec <Prénom> - ". Pas deux semaines de suite le même ami.
+- Cinéma : l'open data couvre mal les séances. Si les semaines 1 à 3 ont moins de 3 candidats cinéma, fais un WebFetch des programmes de la Cinémathèque française, de la Fondation Jérôme Seydoux-Pathé, du Champo et du MK2 Quai de Loire, avec un prompt qui ne demande que les séances spéciales des 3 semaines (ciné-concerts, copies restaurées, rétrospectives, avant-premières d'auteurs, réalisateurs de `config/gouts.json`). Pas d'autre recherche web.
 - PERIODE (expo sur plusieurs semaines) : place-la sur un créneau libre compatible, nocturne de préférence, en vérifiant les horaires sur la page.
 - Semaines 4 et plus : 1 événement par période, ANTICIPER en priorité. Hors Paris seulement les vendredis, samedis ou week-ends.
 
