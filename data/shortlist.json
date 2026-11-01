@@ -1,12 +1,12 @@
 {
 "genere": "2026-11-01",
 "stats": {
-"hors_zone": 709,
+"rejet": 1307,
 "retenu": 2138,
 "hors_horizon": 250,
-"rejet": 1307,
-"horaire": 181,
 "trop_cher": 53,
+"hors_zone": 709,
+"horaire": 181,
 "hors_paris_semaine": 6
 },
 "buckets": [
@@ -88,23 +88,9 @@
 "dec": 1
 },
 {
-"id": "5f49b2581086",
-"t": "Bookclub",
-"d": "mar 03/11 18:00",
-"l": "Centre Paris Anim' Bessie Smith( ex Reuilly) (12e)",
-"p": "gratuit",
-"th": [
-"litterature"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/bookclub-125091",
-"r": "https://claje.asso.fr/convivialite-bookclub/",
-"dec": 1
-},
-{
-"id": "7230ce59cfc6",
-"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
-"d": "jeu 05/11 22:00",
+"id": "0130b74c9b88",
+"t": "Jam Session Jazz au 38Riv, animée par Solène Cairoli",
+"d": "mer 04/11 22:00",
 "l": "38Riv (4e)",
 "p": "9 €",
 "th": [
@@ -112,8 +98,21 @@
 "concert"
 ],
 "sc": 21,
-"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
-"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
+"u": "https://www.paris.fr/evenements/copie-de-jam-session-jazz-au-38riv-animee-par-solene-cairoli-80910",
+"r": "https://38riv.com/concerts?search=solene%20Cairoli&category=All"
+},
+{
+"id": "c1c2a56eec8d",
+"t": "Xavier Belin Trio – PLEONASME 5",
+"d": "jeu 05/11 18:30",
+"l": "Le Baiser Salé (1e)",
+"p": "9 €",
+"th": [
+"concert"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/xavier-belin-trio-pleonasme-5-117575",
+"r": "https://www.billetweb.fr/jazzdedemain-xavier-belin-trio-pleonasme-5-xavier-belin-tba2"
 },
 {
 "id": "81699f2eb523",
@@ -141,20 +140,6 @@
 "sc": 20,
 "u": "https://www.paris.fr/evenements/concert-gratuit-ukraine-trois-siecles-de-musique-126184",
 "r": "https://www.billetweb.fr/terre-de-musiques-op-1-ukraine"
-},
-{
-"id": "787e8da42966",
-"t": "Projection - lecture - signature autour du film « À jamais »",
-"d": "ven 06/11 18:30",
-"l": "La Table des Matières (14e)",
-"p": "gratuit",
-"th": [
-"cinema",
-"litterature"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/projection-lecture-signature-autour-du-film-a-jamais-126236",
-"r": "https://www.latabledesmatieres.org/evenements/"
 },
 {
 "id": "cb137c2d2313",
@@ -195,6 +180,20 @@
 "sc": 24,
 "u": "https://www.paris.fr/evenements/aperoduke-mary-lou-williams-au-coeur-de-l-histoire-du-jazz-par-leila-olivesi-103757",
 "r": "https://www.helloasso.com/associations/la-maison-du-duke/evenements/mary-lou-williams-2eme-partie"
+},
+{
+"id": "f372d1bd2aa2",
+"t": "10 ans de LIMBO",
+"d": "sam 07/11 12:30",
+"l": "Le Consulat Voltaire (11e)",
+"p": "gratuit",
+"th": [
+"autre"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/journee-evenement-10-ans-de-limbo-125377",
+"r": "https://www.helloasso.com/associations/limbo/evenements/10-ans-de-limbo-7-novembre-2026-a-paris-2",
+"dec": 1
 },
 {
 "id": "00c807cfd8d5",
@@ -244,20 +243,6 @@
 "cible": 5,
 "mode": "proche",
 "candidats": [
-{
-"id": "f6620d6e87f5",
-"t": "Jam Session Jazz au 38Riv, animée par Solène Cairoli",
-"d": "mer 11/11 22:00",
-"l": "38Riv (4e)",
-"p": "9 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/copie-de-jam-session-jazz-au-38riv-animee-par-solene-cairoli-80910",
-"r": "https://38riv.com/concerts?search=solene%20Cairoli&category=All"
-},
 {
 "id": "e4ba27a5d3cd",
 "t": "Hors Cadre : Rencontre avec Anne Godard",
@@ -311,6 +296,20 @@
 ],
 "sc": 17,
 "u": "https://75.agendaculturel.fr/concert/mario-panteliadis.html"
+},
+{
+"id": "a7918d4a6270",
+"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
+"d": "jeu 12/11 22:00",
+"l": "38Riv (4e)",
+"p": "9 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 21,
+"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
+"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
 },
 {
 "id": "a443f0c32ca9",
@@ -470,6 +469,20 @@
 "mode": "proche",
 "candidats": [
 {
+"id": "fc613ddc7134",
+"t": "Bookclub",
+"d": "mar 17/11 18:00",
+"l": "Centre Paris Anim' Bessie Smith( ex Reuilly) (12e)",
+"p": "gratuit",
+"th": [
+"litterature"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/bookclub-125091",
+"r": "https://claje.asso.fr/convivialite-bookclub/",
+"dec": 1
+},
+{
 "id": "1eb0a18cc85d",
 "t": "Ciné-concert : «Gyurkovicsarna» (1920)",
 "d": "mar 17/11 18:30",
@@ -510,19 +523,6 @@
 "u": "https://www.paris.fr/evenements/jazzette-a-la-trockette-2-2-125707"
 },
 {
-"id": "ab43c810a101",
-"t": "Hors-champ de l’amitié • La meilleure d’Emmanuelle Lambert",
-"d": "mer 18/11 18:00",
-"l": "Bibliothèque publique d'information (12e)",
-"p": "gratuit",
-"th": [
-"litterature"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/hors-champ-de-l-amitie-la-meilleure-d-emmanuelle-lambert-126781",
-"dec": 1
-},
-{
 "id": "cd133795bc2a",
 "t": "Thierry Péala et Vérioca Lherm - Les 20 ANS du duo",
 "d": "mer 18/11 20:00",
@@ -534,6 +534,20 @@
 "sc": 22,
 "u": "https://www.paris.fr/evenements/thierry-peala-et-verioca-lherm-les-20-ans-du-duo-118095",
 "r": "https://www.billetweb.fr/thierry-p-ala-v-rioca-lherm-les-20-ans-du-duo-thierry-peala-verioca-lherm-roberto-de-olivei"
+},
+{
+"id": "6d6675b3982d",
+"t": "Festival des Fiertés : Le WAB Comedy Club",
+"d": "jeu 19/11 19:00",
+"l": "WAB (11e)",
+"p": "gratuit",
+"th": [
+"techno"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/festival-des-fiertes-le-wab-comedy-club-126467",
+"r": "https://www.eventbrite.fr/e/2003762481522?aff=oddtdtcreator",
+"dec": 1
 },
 {
 "id": "082f34d96899",
@@ -601,30 +615,17 @@
 "r": "https://billetterie.theatredelaconcorde.paris/selection/package?productId=10230060106632"
 },
 {
-"id": "6d53ff00146b",
-"t": "[VISITES] Studios – Artistes & boursiers du 5e étage",
-"d": "sam 21/11 12:00",
-"l": "Fondation des États-Unis (14e)",
+"id": "99355a8f5dee",
+"t": "Atelier : que faire avec les fruits et légumes de saison",
+"d": "sam 21/11 13:00",
+"l": "La Ferme de Paris (12e)",
 "p": "gratuit",
 "th": [
 "autre"
 ],
 "sc": 4,
-"u": "https://www.paris.fr/evenements/visites-studios-artistes-boursiers-du-5e-etage-126327",
-"r": "https://www.helloasso.com/associations/fondation-des-etats-unis/evenements/visites-open-studios",
-"dec": 1
-},
-{
-"id": "ed6f3e5b0e0e",
-"t": "Le cercle des jeunes lecteurs et lectrices",
-"d": "sam 21/11 13:00",
-"l": "Bibliothèque Toni Morrison (11e)",
-"p": "gratuit",
-"th": [
-"litterature"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/le-cercle-des-jeunes-lecteurs-et-lectrices-de-la-bibliotheque-parmentier-123700",
+"u": "https://www.paris.fr/evenements/atelier-que-faire-avec-les-fruits-et-legumes-de-saison-109211",
+"r": "https://www.paris.fr/equipements/la-ferme-de-paris-6597",
 "dec": 1
 },
 {
@@ -704,17 +705,17 @@
 "r": "https://38riv.com/concerts/jake-sherman"
 },
 {
-"id": "b9d7b14e3ff7",
-"t": "Soirée partagée : Yasminee Lepe & Delphine Mothes",
-"d": "lun 23/11 19:00",
-"l": "Le Regard du Cygne (20e)",
-"p": "11 €",
+"id": "83e65417ec90",
+"t": "La putain de performance",
+"d": "mer 25/11 19:30",
+"l": "Cirque Electrique (20e)",
+"p": "14 €",
 "th": [
-"danse"
+"cirque"
 ],
 "sc": 5,
-"u": "https://www.paris.fr/evenements/soiree-partagee-yasminee-lepe-delphine-mothes-117339",
-"r": "https://leregardducygne.mapado.com/event/795686-soiree-partagee-under-my-blood-volet-i-variation-pour-un-corps-de-yasminee-lepe-et-natures-petite-forme-de-delphine-mothes",
+"u": "https://www.paris.fr/evenements/la-putain-de-performance-117469",
+"r": "https://www.helloasso.com/associations/compagnie-mona-lisa",
 "dec": 1
 },
 {
@@ -764,6 +765,20 @@
 "cible": 1,
 "mode": "moyen",
 "candidats": [
+{
+"id": "468127484cc1",
+"t": "Mario Canonge et Michel Zenino – DUO JAZZ",
+"d": "mer 02/12 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "15 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115810",
+"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
+},
 {
 "id": "dca3706c8a80",
 "t": "Cycle IA, démocraties et milieu informationnel",
@@ -817,19 +832,6 @@
 ],
 "sc": 20,
 "u": "https://www.paris.fr/evenements/visions-d-avant-garde-les-pionnieres-de-l-experimentation-cinematographique-cine-concert-d-olivier-longre-118503"
-},
-{
-"id": "4ad944ecb2c0",
-"t": "Rilke, une correspondance européenne",
-"d": "sam 05/12 17:00",
-"l": "Bibliothèque Rainer Maria Rilke (5e)",
-"p": "gratuit",
-"th": [
-"theatre",
-"litterature"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/rilke-une-correspondance-europeenne-126371"
 }
 ]
 },
@@ -852,19 +854,6 @@
 ],
 "sc": 21,
 "u": "https://75.agendaculturel.fr/concert/marco-castello.html"
-},
-{
-"id": "fa5f66c1d431",
-"t": "Concert gratuit : Monstres et Chimères",
-"d": "lun 07/12 19:30",
-"l": "Studio L'Accord Parfait (18e)",
-"p": "gratuit",
-"th": [
-"concert"
-],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/concert-gratuit-monstres-et-chimeres-126167",
-"r": "https://www.billetweb.fr/monstres-et-chimeres2"
 },
 {
 "id": "6d8177181438",
@@ -905,6 +894,20 @@
 "sc": 4,
 "u": "https://www.paris.fr/evenements/club-de-lecture-de-violette-leduc-acte-2-34541",
 "dec": 1
+},
+{
+"id": "30d6eecadf61",
+"t": "L’art de la nuance",
+"d": "dim 13/12 10:00",
+"l": "Théâtre du Châtelet (1e)",
+"p": "35 €",
+"th": [
+"concert",
+"theatre"
+],
+"sc": 14,
+"u": "https://www.paris.fr/evenements/copie-de-je-cherche-les-notes-qui-s-aiment-wolfgang-amadeus-mozart-113767",
+"r": "https://www.chatelet.com/programmation/26-27/lart-de-la-nuance/"
 }
 ]
 },
@@ -926,20 +929,6 @@
 ],
 "sc": 21,
 "u": "https://75.agendaculturel.fr/concert/les-pecheurs-de-perles.html"
-},
-{
-"id": "004f28d21e32",
-"t": "Ouvrons les écoutilles ! - Echoes of Repair - Francesca Ceccherini",
-"d": "mer 16/12 18:30",
-"l": "La Pop (19e)",
-"p": "15 €",
-"th": [
-"autre"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/ouvrons-les-ecoutilles-echoes-of-repair-francesca-ceccherini-118206",
-"r": "https://2ewt66ry.mapado.com/event/787503-ouvrons-les-ecoutilles-echoes-of-repair",
-"dec": 1
 },
 {
 "id": "b5af288cde3f",
@@ -966,6 +955,20 @@
 "sc": 16,
 "u": "https://www.paris.fr/evenements/beatrice-civaton-floraison-114178",
 "r": "https://www.billetweb.fr/jazzdedemain-b-atrice-civaton-floraison-beatrice-civaton-lea-molina-nicolas-attie-jea3"
+},
+{
+"id": "3f4002c1240f",
+"t": "Guinguette Circus",
+"d": "sam 19/12 18:00",
+"l": "Ferme Montsouris (14e)",
+"p": "10 €",
+"th": [
+"cirque"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/guinguette-circus-125548",
+"r": "https://www.weezevent.com/",
+"dec": 1
 },
 {
 "id": "e8d83e3761fe",
