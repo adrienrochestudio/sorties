@@ -1,26 +1,26 @@
 {
-"genere": "2026-11-03",
+"genere": "2026-11-04",
 "stats": {
-"retenu": 2153,
-"rejet": 1333,
-"hors_zone": 717,
-"horaire": 182,
-"hors_horizon": 238,
+"hors_zone": 718,
+"rejet": 1335,
+"retenu": 2158,
+"hors_horizon": 239,
+"horaire": 176,
 "trop_cher": 53,
 "hors_paris_semaine": 6
 },
 "buckets": [
 {
 "semaine": 1,
-"debut": "2026-11-04",
-"fin": "2026-11-10",
+"debut": "2026-11-05",
+"fin": "2026-11-11",
 "cible": 5,
 "mode": "proche",
 "candidats": [
 {
 "id": "dc420b2cb824",
 "t": "Georges Kars, un Bohémien à Paris",
-"d": "mer 04/11 > 14/03",
+"d": "jeu 05/11 > 14/03",
 "l": "Musée d'Art et d'Histoire du Judaïsme (4e)",
 "p": "5 €",
 "th": [
@@ -34,7 +34,7 @@
 {
 "id": "e77927da1d75",
 "t": "Exposition Pablo Flaiszman à la galerie Christian Collin",
-"d": "mer 04/11 > 06/11",
+"d": "jeu 05/11 > 06/11",
 "l": "Galerie Christian Collin (2e)",
 "p": "gratuit",
 "th": [
@@ -47,7 +47,7 @@
 {
 "id": "c95a77e6313b",
 "t": "Monet, peindre le temps",
-"d": "mer 04/11 > 25/01",
+"d": "jeu 05/11 > 25/01",
 "l": "Musée de l'Orangerie (1e)",
 "p": "12.5 €",
 "th": [
@@ -59,37 +59,9 @@
 "pe": 1
 },
 {
-"id": "bbb703fa31e9",
-"t": "Mario Canonge et Michel Zenino – Duo jazz",
-"d": "mer 04/11 18:00",
-"l": "Le Baiser Salé (1e)",
-"p": "15 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115812",
-"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
-},
-{
-"id": "d80c7b236312",
-"t": "Lecture : Sous le regard de Stefan Zweig",
-"d": "mer 04/11 18:00",
-"l": "Théâtre Artistic Athévains (11e)",
-"p": "35 €",
-"th": [
-"theatre",
-"litterature"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/lecture-sous-le-regard-de-stefan-zweig-124037",
-"r": "https://artistictheatre.com/sous-le-regard-de-stefan-zweig/"
-},
-{
-"id": "1494373689e2",
+"id": "a682f4977606",
 "t": "Spectacle « Trad Now » - Sun-A Lee x Kim Joohong / Yunbyul Ballet Company",
-"d": "mer 04/11 18:00",
+"d": "jeu 05/11 18:00",
 "l": "Centre Culturel Coréen (8e)",
 "p": "gratuit",
 "th": [
@@ -102,18 +74,18 @@
 "dec": 1
 },
 {
-"id": "7230ce59cfc6",
-"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
-"d": "jeu 05/11 22:00",
-"l": "38Riv (4e)",
-"p": "9 €",
+"id": "f3cc77b8e4f6",
+"t": "Lecture : Sous le regard de Stefan Zweig",
+"d": "jeu 05/11 19:00",
+"l": "Théâtre Artistic Athévains (11e)",
+"p": "35 €",
 "th": [
-"jazz",
-"concert"
+"theatre",
+"litterature"
 ],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
-"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
+"sc": 16,
+"u": "https://www.paris.fr/evenements/lecture-sous-le-regard-de-stefan-zweig-124037",
+"r": "https://artistictheatre.com/sous-le-regard-de-stefan-zweig/"
 },
 {
 "id": "81699f2eb523",
@@ -183,19 +155,6 @@
 "r": "https://www.helloasso.com/associations/la-maison-du-duke/evenements/mary-lou-williams-2eme-partie"
 },
 {
-"id": "5e760411916b",
-"t": "J'ai un coup de cœur… et vous ?",
-"d": "sam 07/11 15:00",
-"l": "Bibliothèque Louise Walser-Gaillard (9e)",
-"p": "gratuit",
-"th": [
-"litterature"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/j-ai-un-coup-de-coeur-et-vous-117276",
-"dec": 1
-},
-{
 "id": "efc60f95380c",
 "t": "Concert : Florilège de Choeurs sacrés - 7 novembre 2026",
 "d": "sam 07/11 19:45",
@@ -234,16 +193,35 @@
 "sc": 20,
 "u": "https://www.paris.fr/evenements/les-lundis-jazz-manouche-du-piano-vache-125554",
 "r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
-}
-]
 },
 {
-"semaine": 2,
-"debut": "2026-11-11",
-"fin": "2026-11-17",
-"cible": 5,
-"mode": "proche",
-"candidats": [
+"id": "3bc4f2f72d5c",
+"t": "«My Family Archive», Iman Ahmed",
+"d": "mar 10/11 18:00",
+"l": "Lafayette Anticipations (4e)",
+"p": "gratuit",
+"th": [
+"concert",
+"talk"
+],
+"sc": 18,
+"u": "https://www.paris.fr/evenements/my-family-archive-iman-ahmed-127003",
+"r": "https://billetterie.lafayetteanticipations.com/my-family-archive-iman-ahmed-rencontre-lafayette-anticipations-paris-10-novembre-2026-css5-lafayetteanticipationsweb-pg101-ri11996215.html"
+},
+{
+"id": "7f01768f9cb4",
+"t": "Soirée dansante «Rock 4 Temps moderne» dans le 13ème",
+"d": "mar 10/11 19:00",
+"l": "Digital Village (13e)",
+"p": "6 €",
+"th": [
+"danse"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/soiree-dansante-rock-4-temps-moderne-dans-le-13eme-126965",
+"r": "https://rockit.dance/events/2026-11-10-dance-paradise/",
+"dec": 1
+},
 {
 "id": "f6620d6e87f5",
 "t": "Jam Session Jazz au 38Riv, animée par Solène Cairoli",
@@ -257,7 +235,16 @@
 "sc": 21,
 "u": "https://www.paris.fr/evenements/copie-de-jam-session-jazz-au-38riv-animee-par-solene-cairoli-80910",
 "r": "https://38riv.com/concerts?search=solene%20Cairoli&category=All"
+}
+]
 },
+{
+"semaine": 2,
+"debut": "2026-11-12",
+"fin": "2026-11-18",
+"cible": 5,
+"mode": "proche",
+"candidats": [
 {
 "id": "e4ba27a5d3cd",
 "t": "Hors Cadre : Rencontre avec Anne Godard",
@@ -271,20 +258,6 @@
 "sc": 25,
 "u": "https://www.paris.fr/evenements/hors-cadre-rencontre-avec-anne-godard-126691",
 "r": "https://billetterie.seetickets.fr/hors-cadre-arte-x-actes-sud-projection-la-gaite-lyrique-paris-12-novembre-2026-css5-gaitelyriqueweb-pg101-ri11995691.html"
-},
-{
-"id": "f14d791ec5d8",
-"t": "Lecture: « Louise Ackermann: orgueil et effacement » à la Maison d'Auguste Comte",
-"d": "jeu 12/11 18:00",
-"l": "Maison d'Auguste Comte (6e)",
-"p": "15 €",
-"th": [
-"classique",
-"theatre"
-],
-"sc": 15,
-"u": "https://www.paris.fr/evenements/lecture-louise-ackermann-orgueil-et-effacement-126670",
-"r": "https://augustecomte.org/musee/programmation-culturelle/"
 },
 {
 "id": "7ead114a29ff",
@@ -313,6 +286,20 @@
 "u": "https://75.agendaculturel.fr/concert/mario-panteliadis.html"
 },
 {
+"id": "a7918d4a6270",
+"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
+"d": "jeu 12/11 22:00",
+"l": "38Riv (4e)",
+"p": "9 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 21,
+"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
+"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
+},
+{
 "id": "a443f0c32ca9",
 "t": "QUEER BRUT 2 : vernissage, table ronde et projection de film",
 "d": "ven 13/11 18:00",
@@ -324,21 +311,6 @@
 ],
 "sc": 18,
 "u": "https://www.paris.fr/evenements/queer-brut-2-vernissage-table-ronde-et-projection-de-film-126727"
-},
-{
-"id": "890bcf19aeb8",
-"t": "TECH - Spectacle gratuit par Danilo Pacheco au CPA Wangari",
-"d": "ven 13/11 18:00",
-"l": "Centre Paris Anim' Wangari Muta Maathai (20e)",
-"p": "gratuit",
-"th": [
-"theatre",
-"cirque"
-],
-"sc": 6,
-"u": "https://www.paris.fr/evenements/tech-spectacle-gratuit-par-danilo-pacheco-au-cpa-wangari-125206",
-"r": "https://cpa-wangari.ifac.asso.fr/2026/09/24/tech-spectacle-gratuit-par-danilo-pacheco/",
-"dec": 1
 },
 {
 "id": "49b8a0090d7f",
@@ -355,17 +327,18 @@
 "dec": 1
 },
 {
-"id": "aba40110f767",
-"t": "Stabat mater, le solo, Lou Cantor",
-"d": "ven 13/11 19:00",
-"l": "Le Regard du Cygne (20e)",
-"p": "11 €",
+"id": "890bcf19aeb8",
+"t": "TECH - Spectacle gratuit par Danilo Pacheco au CPA Wangari",
+"d": "ven 13/11 18:00",
+"l": "Centre Paris Anim' Wangari Muta Maathai (20e)",
+"p": "gratuit",
 "th": [
-"danse"
+"theatre",
+"cirque"
 ],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/stabat-mater-le-solo-lou-cantor-117334",
-"r": "https://leregardducygne.mapado.com/event/795266-stabat-mater-le-solo-lou-cantor-compagnie-ulysse-ernest",
+"sc": 6,
+"u": "https://www.paris.fr/evenements/tech-spectacle-gratuit-par-danilo-pacheco-au-cpa-wangari-125206",
+"r": "https://cpa-wangari.ifac.asso.fr/2026/09/24/tech-spectacle-gratuit-par-danilo-pacheco/",
 "dec": 1
 },
 {
@@ -395,17 +368,19 @@
 "u": "https://www.paris.fr/evenements/rencontre-en-surrealisme-hommage-a-jacques-moreau-dit-le-marechal-peintre-graveur-poete-126615"
 },
 {
-"id": "7314796e9684",
-"t": "#Rdv avec LE QUINT’UP",
-"d": "sam 14/11 18:00",
-"l": "Le Baiser Salé (1e)",
-"p": "13 €",
+"id": "4555f3eccc5e",
+"t": "Le spectacle « Fanfare » au Cirque Électrique",
+"d": "sam 14/11 14:00",
+"l": "Cirque Electrique (20e)",
+"p": "10 €",
 "th": [
-"concert"
+"theatre",
+"cirque"
 ],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/rdv-avec-le-quint-up-114466",
-"r": "https://www.lebaisersale.com/fr/agenda?date_concert=24%2F09%2F2026&artiste=LE+QUINT%E2%80%99UP"
+"sc": 5,
+"u": "https://www.paris.fr/evenements/le-spectacle-fanfare-au-cirque-electrique-112986",
+"r": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
+"dec": 1
 },
 {
 "id": "6a8697036a09",
@@ -459,16 +434,7 @@
 "sc": 23,
 "u": "https://www.paris.fr/evenements/cine-concert-gyurkovicsarna-1920-126369",
 "r": "https://www.fondation-jeromeseydoux-pathe.com/event/3363"
-}
-]
 },
-{
-"semaine": 3,
-"debut": "2026-11-18",
-"fin": "2026-11-24",
-"cible": 5,
-"mode": "proche",
-"candidats": [
 {
 "id": "cc3f281e9f7a",
 "t": "JAZZETTE à La Trockette 2.2",
@@ -494,6 +460,42 @@
 "sc": 22,
 "u": "https://www.paris.fr/evenements/thierry-peala-et-verioca-lherm-les-20-ans-du-duo-118095",
 "r": "https://www.billetweb.fr/thierry-p-ala-v-rioca-lherm-les-20-ans-du-duo-thierry-peala-verioca-lherm-roberto-de-olivei"
+}
+]
+},
+{
+"semaine": 3,
+"debut": "2026-11-19",
+"fin": "2026-11-25",
+"cible": 5,
+"mode": "proche",
+"candidats": [
+{
+"id": "5685cdee2b16",
+"t": "Les Maîtres du sol",
+"d": "jeu 19/11 19:00",
+"l": "Centre culturel canadien à Paris (8e)",
+"p": "gratuit",
+"th": [
+"litterature"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/les-maitres-du-sol-126501",
+"r": "https://canada-culture.org/event/les-maitres-du-sol/#booking",
+"dec": 1
+},
+{
+"id": "b638cf19df44",
+"t": "Eboni Fondren 4tet",
+"d": "jeu 19/11 19:30",
+"l": "Le Melville (8e)",
+"p": "10 €",
+"th": [
+"concert"
+],
+"sc": 13,
+"u": "https://www.paris.fr/evenements/eboni-fondren-4tet-115105",
+"r": "https://lemelville.fr/?p=6100"
 },
 {
 "id": "082f34d96899",
@@ -561,19 +563,6 @@
 "r": "https://billetterie.theatredelaconcorde.paris/selection/package?productId=10230060106632"
 },
 {
-"id": "ed6f3e5b0e0e",
-"t": "Le cercle des jeunes lecteurs et lectrices",
-"d": "sam 21/11 13:00",
-"l": "Bibliothèque Toni Morrison (11e)",
-"p": "gratuit",
-"th": [
-"litterature"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/le-cercle-des-jeunes-lecteurs-et-lectrices-de-la-bibliotheque-parmentier-123700",
-"dec": 1
-},
-{
 "id": "5680033762cf",
 "t": "Ciné-concert : Monte là-dessus par Julien Coulon et Frédéric Pérol",
 "d": "sam 21/11 14:00",
@@ -586,21 +575,6 @@
 "sc": 16,
 "u": "https://www.paris.fr/evenements/cine-concert-monte-la-dessus-par-julien-coulon-et-frederic-perol-126431",
 "r": "https://www.billetweb.fr/cine-concert-monte-la-dessus"
-},
-{
-"id": "64899deff527",
-"t": "Le spectacle « Fanfare » au Cirque Électrique",
-"d": "sam 21/11 14:00",
-"l": "Cirque Electrique (20e)",
-"p": "10 €",
-"th": [
-"theatre",
-"cirque"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/le-spectacle-fanfare-au-cirque-electrique-112986",
-"r": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
-"dec": 1
 },
 {
 "id": "ad556f16faeb",
@@ -668,25 +642,52 @@
 "dec": 1
 },
 {
-"id": "fc17d8f53e93",
-"t": "Soirée dansante «Rock 4 Temps moderne» dans le 13ème arrondissement",
-"d": "mar 24/11 19:00",
-"l": "Digital Village (13e)",
-"p": "6 €",
+"id": "b65ebd5b2d59",
+"t": "Mario Canonge et Michel Zenino – Duo jazz",
+"d": "mer 25/11 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "15 €",
 "th": [
-"danse"
+"jazz",
+"concert"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/mario-canonge-et-michel-zenino-duo-jazz-115812",
+"r": "https://www.lebaisersale.com/fr/agenda?tag=21"
+},
+{
+"id": "e6efe68dc8fa",
+"t": "Ciné débat : En quête de sens",
+"d": "mer 25/11 18:00",
+"l": "La Roche (14e)",
+"p": "5 €",
+"th": [
+"talk"
 ],
 "sc": 5,
-"u": "https://www.paris.fr/evenements/soiree-dansante-rock-4-temps-moderne-dans-le-13eme-126967",
-"r": "https://rockit.dance/events/2026-11-24-dance-paradise/",
+"u": "https://www.paris.fr/evenements/cine-debat-en-quete-de-sens-127048",
+"dec": 1
+},
+{
+"id": "83e65417ec90",
+"t": "La putain de performance",
+"d": "mer 25/11 19:30",
+"l": "Cirque Electrique (20e)",
+"p": "14 €",
+"th": [
+"cirque"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/la-putain-de-performance-117469",
+"r": "https://www.helloasso.com/associations/compagnie-mona-lisa",
 "dec": 1
 }
 ]
 },
 {
 "semaine": 4,
-"debut": "2026-11-25",
-"fin": "2026-12-01",
+"debut": "2026-11-26",
+"fin": "2026-12-02",
 "cible": 1,
 "mode": "moyen",
 "candidats": [
@@ -704,17 +705,17 @@
 "u": "https://www.paris.fr/evenements/les-40-ans-de-l-album-tutu-conference-par-vincent-cotro-cycle-miles-davis-123665"
 },
 {
-"id": "055a3afa008f",
-"t": "Soirée de clôture de la Compagnie Les Orpailleurs",
-"d": "ven 27/11 18:00",
-"l": "Le Regard du Cygne (20e)",
-"p": "11 €",
+"id": "a28c755508cc",
+"t": "Bals d'époque de l'Hôtel de la Marine",
+"d": "ven 27/11 16:30",
+"l": "Hôtel de la Marine (8e)",
+"p": "9 €",
 "th": [
 "danse"
 ],
 "sc": 5,
-"u": "https://www.paris.fr/evenements/soiree-de-cloture-de-la-compagnie-les-orpailleurs-117343",
-"r": "https://leregardducygne.mapado.com/event/795749-la-vie-et-presque-rien-dautre-clap-de-fin-de-la-compagnie-jean-christophe-bleton-compagnie-les-orpailleurs",
+"u": "https://www.paris.fr/evenements/bals-d-epoque-de-l-hotel-de-la-marine-124091",
+"r": "https://www.hotel-de-la-marine.paris/agenda/bals-d-epoque-de-l-hotel-de-la-marine",
 "dec": 1
 },
 {
@@ -759,26 +760,11 @@
 },
 {
 "semaine": 5,
-"debut": "2026-12-02",
-"fin": "2026-12-08",
+"debut": "2026-12-03",
+"fin": "2026-12-09",
 "cible": 1,
 "mode": "moyen",
 "candidats": [
-{
-"id": "1660dda4457b",
-"t": "Cabaret TEASE TEASE TEASE : Pas de cadeaux pour le patriarcat",
-"d": "jeu 03/12 20:00",
-"l": "Cirque Electrique (20e)",
-"p": "10 €",
-"th": [
-"theatre",
-"cirque"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/cabaret-tease-tease-tease-pas-de-cadeaux-pour-le-patriarcat-126844",
-"r": "https://www.helloasso.com/associations/the-pin-up-games/evenements/cabaret-tease-tease-tease-3-dec-26",
-"dec": 1
-},
 {
 "id": "58c9492a26ce",
 "t": "Cézanne : Le regard en feu",
@@ -791,6 +777,20 @@
 ],
 "sc": 18,
 "u": "https://www.paris.fr/evenements/cezanne-le-regard-en-feu-125106"
+},
+{
+"id": "8ab6ae216f7b",
+"t": "Ouvrons les écoutilles ! - Four-Eight Sound - Vincent Meurisse alias Kent Riss",
+"d": "ven 04/12 18:30",
+"l": "La Pop (19e)",
+"p": "15 €",
+"th": [
+"autre"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/ouvrons-les-ecoutilles-four-eight-sound-vincent-meurisse-alias-kent-riss-118203",
+"r": "https://2ewt66ry.mapado.com/event/787496-ouvrons-les-ecoutilles-four-eight-sound?eventDate=2994407",
+"dec": 1
 },
 {
 "id": "2095fdf3612f",
@@ -835,23 +835,24 @@
 },
 {
 "semaine": 6,
-"debut": "2026-12-09",
-"fin": "2026-12-15",
+"debut": "2026-12-10",
+"fin": "2026-12-16",
 "cible": 1,
 "mode": "moyen",
 "candidats": [
 {
-"id": "4b44c68f0862",
-"t": "Tasha e Tracie + Deize Tigrona",
-"d": "mer 09/12 00:00",
-"l": "La Bellevilloise (20e)",
-"p": "?",
+"id": "815b44391d37",
+"t": "#JazzDeDemain #LaPetiteHeure by… Le Ninon Valder Ensemble",
+"d": "jeu 10/12 18:00",
+"l": "Le Baiser Salé (1e)",
+"p": "13 €",
 "th": [
 "jazz",
 "concert"
 ],
-"sc": 19,
-"u": "https://75.agendaculturel.fr/concert/tasha-e-tracie-deize-tigrona.html"
+"sc": 16,
+"u": "https://www.paris.fr/evenements/jazzdedemain-lapetiteheure-by-le-ninon-valder-ensemble-116677",
+"r": "https://www.billetweb.fr/bo/lists.php?type=promo"
 },
 {
 "id": "9fca269aad65",
@@ -880,19 +881,6 @@
 "u": "https://www.paris.fr/evenements/laura-buenrostro-latin-jazz-126470"
 },
 {
-"id": "85faebc3400b",
-"t": "Troc de graines et de boutures",
-"d": "sam 12/12 14:00",
-"l": "Bibliothèque Marguerite Audoux (3e)",
-"p": "gratuit",
-"th": [
-"autre"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/troc-de-graines-et-de-boutures-78206",
-"dec": 1
-},
-{
 "id": "47eb000e4556",
 "t": "Les Pêcheurs de perles",
 "d": "lun 14/12 00:00",
@@ -903,30 +891,30 @@
 ],
 "sc": 21,
 "u": "https://75.agendaculturel.fr/concert/les-pecheurs-de-perles.html"
+},
+{
+"id": "004f28d21e32",
+"t": "Ouvrons les écoutilles ! - Echoes of Repair - Francesca Ceccherini",
+"d": "mer 16/12 18:30",
+"l": "La Pop (19e)",
+"p": "15 €",
+"th": [
+"autre"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/ouvrons-les-ecoutilles-echoes-of-repair-francesca-ceccherini-118206",
+"r": "https://2ewt66ry.mapado.com/event/787503-ouvrons-les-ecoutilles-echoes-of-repair",
+"dec": 1
 }
 ]
 },
 {
 "semaine": 7,
-"debut": "2026-12-16",
-"fin": "2026-12-22",
+"debut": "2026-12-17",
+"fin": "2026-12-23",
 "cible": 1,
 "mode": "moyen",
 "candidats": [
-{
-"id": "f4b87942c639",
-"t": "La Velu.e - cabaret de tous poils",
-"d": "jeu 17/12 18:00",
-"l": "Cirque Electrique (20e)",
-"p": "12 €",
-"th": [
-"theatre"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/la-velu-e-cabaret-de-tous-poils-123572",
-"r": "https://shotgun.live/fr/events/velu-e-cabaret-afterwork-le-cirque-electrique-10",
-"dec": 1
-},
 {
 "id": "b5af288cde3f",
 "t": "Mino Cinelu Solo + Workshop",
@@ -967,6 +955,20 @@
 "u": "http://www.newmorning.com/20261218-7810-music-is-our-sanctuary-tribute-to-mizell-brothers-by-aldorande-friends.html"
 },
 {
+"id": "3f4002c1240f",
+"t": "Guinguette Circus",
+"d": "sam 19/12 18:00",
+"l": "Ferme Montsouris (14e)",
+"p": "10 €",
+"th": [
+"cirque"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/guinguette-circus-125548",
+"r": "https://www.weezevent.com/",
+"dec": 1
+},
+{
 "id": "e8d83e3761fe",
 "t": "Les Demoiselles de Rochefort en ciné-concert",
 "d": "sam 19/12 > 20/12",
@@ -985,8 +987,8 @@
 },
 {
 "semaine": 8,
-"debut": "2026-12-23",
-"fin": "2027-01-05",
+"debut": "2026-12-24",
+"fin": "2027-01-06",
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
@@ -1022,8 +1024,8 @@
 },
 {
 "semaine": 10,
-"debut": "2027-01-06",
-"fin": "2027-01-19",
+"debut": "2027-01-07",
+"fin": "2027-01-20",
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
@@ -1040,21 +1042,6 @@
 "sc": 7,
 "u": "https://www.paris.fr/evenements/natalie-dessay-la-nuit-americaine-115695",
 "r": "https://sallegaveau.com/event-pro/nuit-americaine-natalie-dessay-neima-naouri/"
-},
-{
-"id": "edca0edee571",
-"t": "Phare Circus, Same Same",
-"d": "mer 13/01 > 15/01",
-"l": "Maison de la danse (Lyon)",
-"p": "16 €",
-"th": [
-"cirque"
-],
-"sc": 1,
-"u": "https://www.maisondeladanse.com/programmation/saison2026-2027/same-same",
-"pe": 1,
-"ant": "ouverte",
-"train": "2h00"
 },
 {
 "id": "1d7351fb903d",
@@ -1082,13 +1069,26 @@
 "sc": 20,
 "u": "https://philharmoniedeparis.fr/fr/activite/recital-piano/29174-khatia-buniatishvili",
 "ant": "ouverte"
+},
+{
+"id": "9284b1f8793b",
+"t": "BIG FUNK BRASS",
+"d": "mar 19/01 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 14,
+"u": "http://www.newmorning.com/20270119-8029-big-funk-brass.html"
 }
 ]
 },
 {
 "semaine": 12,
-"debut": "2027-01-20",
-"fin": "2027-02-09",
+"debut": "2027-01-21",
+"fin": "2027-02-10",
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
@@ -1153,8 +1153,8 @@
 },
 {
 "semaine": 15,
-"debut": "2027-02-10",
-"fin": "2027-03-09",
+"debut": "2027-02-11",
+"fin": "2027-03-10",
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
@@ -1217,8 +1217,8 @@
 },
 {
 "semaine": 19,
-"debut": "2027-03-10",
-"fin": "2027-04-06",
+"debut": "2027-03-11",
+"fin": "2027-04-07",
 "cible": 1,
 "mode": "anticiper",
 "candidats": [
@@ -1234,19 +1234,6 @@
 "sc": 20,
 "u": "https://philharmoniedeparis.fr/fr/activite/recital-piano/29175-vikingur-olafsson",
 "ant": "ouverte"
-},
-{
-"id": "2d05a64961dc",
-"t": "DAVID KRAKAUER'S KLEZMER NY",
-"d": "jeu 18/03 00:00",
-"l": "New Morning (10e)",
-"p": "?",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 14,
-"u": "http://www.newmorning.com/20270318-8025-david-krakauer-s-klezmer-ny.html"
 },
 {
 "id": "7edac3290b8c",
@@ -1275,16 +1262,7 @@
 "u": "https://www.operadeparis.fr/saison-26-27/ballet/joyaux",
 "pe": 1,
 "ant": "ouverte"
-}
-]
 },
-{
-"semaine": 23,
-"debut": "2027-04-07",
-"fin": "2027-05-04",
-"cible": 1,
-"mode": "anticiper",
-"candidats": [
 {
 "id": "27babf55bf9d",
 "t": "Aaron Parks Little Big",
@@ -1298,7 +1276,16 @@
 "sc": 16,
 "u": "https://www.newmorning.com/20270407-7786-aaron-parks.html",
 "ant": "ouverte"
+}
+]
 },
+{
+"semaine": 23,
+"debut": "2027-04-08",
+"fin": "2027-05-05",
+"cible": 1,
+"mode": "anticiper",
+"candidats": [
 {
 "id": "1ecc50b4bfa7",
 "t": "Daniil Trifonov, récital de piano",
@@ -1324,6 +1311,21 @@
 "sc": 16,
 "u": "https://philharmoniedeparis.fr/fr/activite/musique-de-chambre/29463-fete-du-piano",
 "ant": "ouverte"
+},
+{
+"id": "ff40e806e2c4",
+"t": "(LA)HORDE, Age of Content Orchestral",
+"d": "jeu 22/04 > 25/04",
+"l": "Théâtre Graslin (Angers Nantes Opéra) (Nantes)",
+"p": "12 €",
+"th": [
+"danse"
+],
+"sc": 12,
+"u": "https://www.angers-nantes-opera.com/programmation/musique-et-danse/age-of-content-orchestral",
+"pe": 1,
+"ant": "ouverte",
+"train": "2h00"
 },
 {
 "id": "f10d83336ebb",
