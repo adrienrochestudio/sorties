@@ -1,11 +1,11 @@
 {
 "genere": "2026-11-08",
 "stats": {
+"retenu": 2070,
+"rejet": 1281,
 "hors_zone": 692,
-"rejet": 1285,
-"retenu": 2076,
-"hors_horizon": 238,
 "horaire": 171,
+"hors_horizon": 238,
 "trop_cher": 106,
 "hors_paris_semaine": 6
 },
@@ -340,6 +340,19 @@
 "r": "https://38riv.com/concerts?search=solene%20Cairoli&category=All"
 },
 {
+"id": "ad24456fc212",
+"t": "Salon Idées Japon",
+"d": "ven 20/11 11:00",
+"l": "Bastille Design Center (11e)",
+"p": "gratuit",
+"th": [
+"autre"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/salon-idees-japon-126995",
+"dec": 1
+},
+{
 "id": "082f34d96899",
 "t": "EXPOSITION D'ART JAPONAIS",
 "d": "ven 20/11 13:00",
@@ -392,32 +405,6 @@
 "r": "https://billetterie.theatredelaconcorde.paris/selection/package?productId=10230060106632"
 },
 {
-"id": "dedda41d4726",
-"t": "Rencontre autour de Brutus, chien plein d’espoir",
-"d": "sam 21/11 13:00",
-"l": "Librairie Flarne (9e)",
-"p": "gratuit",
-"th": [
-"talk"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/rencontre-autour-de-brutus-chien-plein-d-espoir-126351",
-"dec": 1
-},
-{
-"id": "689b4e3a64c8",
-"t": "Devenez bénévole pour le jardin partagé « Le petit Paradis »",
-"d": "sam 21/11 13:00",
-"l": "Jardin partagé \"Le petit Paradis\" (10e)",
-"p": "gratuit",
-"th": [
-"autre"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/je-deviens-benevole-pour-le-jardin-partage-le-petit-paradis-un-jardin-collectif-du-10eme-124614",
-"dec": 1
-},
-{
 "id": "5680033762cf",
 "t": "Ciné-concert : Monte là-dessus par Julien Coulon et Frédéric Pérol",
 "d": "sam 21/11 14:00",
@@ -444,6 +431,21 @@
 "sc": 5,
 "u": "https://www.paris.fr/evenements/le-spectacle-fanfare-au-cirque-electrique-112986",
 "r": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
+"dec": 1
+},
+{
+"id": "5f11969d6d67",
+"t": "Perspectives 2027 : soirée débat et comédy club",
+"d": "sam 21/11 18:00",
+"l": "Salle des fêtes de la Mairie du 14e arrondissement (14e)",
+"p": "gratuit",
+"th": [
+"techno",
+"talk"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/celebrons-la-bisexualite-une-soiree-pour-celebrer-l-identite-bi-98968",
+"r": "http://www.bit.ly/FDF26-14e",
 "dec": 1
 },
 {
@@ -805,17 +807,16 @@
 "ant": "ouverte"
 },
 {
-"id": "91693a076116",
-"t": "Culture club",
-"d": "sam 12/12 15:00",
-"l": "Bibliothèque François Villon (10e)",
+"id": "456226e4c46a",
+"t": "Le cercle des jeunes lecteurs et lectrices",
+"d": "sam 12/12 13:00",
+"l": "Bibliothèque Toni Morrison (11e)",
 "p": "gratuit",
 "th": [
-"techno",
 "litterature"
 ],
 "sc": 4,
-"u": "https://www.paris.fr/evenements/culture-club-23513",
+"u": "https://www.paris.fr/evenements/le-cercle-des-jeunes-lecteurs-et-lectrices-de-la-bibliotheque-parmentier-123700",
 "dec": 1
 },
 {
@@ -918,18 +919,16 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "510c1b9b6d2e",
-"t": "Je reviens te chanter",
+"id": "013c6a321aa2",
+"t": "Shoom • Flurp • Namakis",
 "d": "lun 21/12 18:00",
-"l": "Théâtre Comédie Bastille (11e)",
-"p": "40 €",
+"l": "SUPERSONIC (12e)",
+"p": "gratuit",
 "th": [
-"concert",
-"theatre"
+"concert"
 ],
 "sc": 6,
-"u": "https://www.paris.fr/evenements/je-reviens-te-chanter-125320",
-"r": "https://comedie-bastille-billetterie.tickandlive.com/evenement/je-reviens-te-chanter"
+"u": "https://www.paris.fr/evenements/shoom-flurp-namakis-126479"
 },
 {
 "id": "77b1a7583222",
@@ -1122,18 +1121,17 @@
 "ant": "ouverte"
 },
 {
-"id": "4127bc000379",
-"t": "Francesca Tandoi",
-"d": "mar 09/02 20:30",
-"l": "New Morning (Paris)",
+"id": "469246b81401",
+"t": "LOWLAND BROTHERS",
+"d": "ven 12/02 00:00",
+"l": "New Morning (10e)",
 "p": "?",
 "th": [
 "jazz",
-"classique"
+"concert"
 ],
-"sc": 12,
-"u": "https://www.newmorning.com/20270209-7791-francesca-tandoi.html",
-"ant": "ouverte"
+"sc": 14,
+"u": "http://www.newmorning.com/20270212-8030-lowland-brothers.html"
 },
 {
 "id": "42355376ef33",
@@ -1301,6 +1299,19 @@
 "ant": "ouverte"
 },
 {
+"id": "1d349398dde0",
+"t": "DANIELLE PONDER",
+"d": "sam 17/04 00:00",
+"l": "New Morning (10e)",
+"p": "?",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 10,
+"u": "http://www.newmorning.com/20270417-8031-danielle-ponder.html"
+},
+{
 "id": "ff40e806e2c4",
 "t": "(LA)HORDE, Age of Content Orchestral",
 "d": "jeu 22/04 > 25/04",
@@ -1314,19 +1325,6 @@
 "pe": 1,
 "ant": "ouverte",
 "train": "2h00"
-},
-{
-"id": "32c34ccf67ed",
-"t": "ELBA RAMALHO",
-"d": "sam 24/04 00:00",
-"l": "New Morning (10e)",
-"p": "?",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 10,
-"u": "http://www.newmorning.com/20270424-7774-elba-ramalho.html"
 },
 {
 "id": "f10d83336ebb",
