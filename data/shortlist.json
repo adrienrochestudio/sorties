@@ -1,12 +1,12 @@
 {
 "genere": "2026-11-15",
 "stats": {
-"retenu": 2100,
 "rejet": 1371,
-"hors_horizon": 233,
 "hors_zone": 713,
-"trop_cher": 119,
 "horaire": 186,
+"retenu": 2100,
+"hors_horizon": 233,
+"trop_cher": 119,
 "hors_paris_semaine": 6
 },
 "buckets": [
@@ -154,9 +154,9 @@
 "r": "https://www.billetweb.fr/thierry-p-ala-v-rioca-lherm-les-20-ans-du-duo-thierry-peala-verioca-lherm-roberto-de-olivei"
 },
 {
-"id": "8b30253d9d6e",
-"t": "Jam Session Jazz au 38Riv, animée par Solène Cairoli",
-"d": "mer 18/11 22:00",
+"id": "18d1bcbcd22a",
+"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
+"d": "jeu 19/11 22:00",
 "l": "38Riv (4e)",
 "p": "9 €",
 "th": [
@@ -164,8 +164,8 @@
 "concert"
 ],
 "sc": 21,
-"u": "https://www.paris.fr/evenements/copie-de-jam-session-jazz-au-38riv-animee-par-solene-cairoli-80910",
-"r": "https://38riv.com/concerts?search=solene%20Cairoli&category=All"
+"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
+"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
 },
 {
 "id": "51c85db9b798",
@@ -208,16 +208,17 @@
 "dec": 1
 },
 {
-"id": "689b4e3a64c8",
-"t": "Devenez bénévole pour le jardin partagé « Le petit Paradis »",
-"d": "sam 21/11 13:00",
-"l": "Jardin partagé \"Le petit Paradis\" (10e)",
+"id": "6d53ff00146b",
+"t": "[VISITES] Studios – Artistes & boursiers du 5e étage",
+"d": "sam 21/11 12:00",
+"l": "Fondation des États-Unis (14e)",
 "p": "gratuit",
 "th": [
 "autre"
 ],
 "sc": 4,
-"u": "https://www.paris.fr/evenements/je-deviens-benevole-pour-le-jardin-partage-le-petit-paradis-un-jardin-collectif-du-10eme-124614",
+"u": "https://www.paris.fr/evenements/visites-studios-artistes-boursiers-du-5e-etage-126327",
+"r": "https://www.helloasso.com/associations/fondation-des-etats-unis/evenements/visites-open-studios",
 "dec": 1
 },
 {
@@ -257,20 +258,6 @@
 "sc": 18,
 "u": "https://www.paris.fr/evenements/jake-sherman-en-concert-au-38riv-jazz-club-125759",
 "r": "https://38riv.com/concerts/jake-sherman"
-},
-{
-"id": "b9d7b14e3ff7",
-"t": "Soirée partagée : Yasminee Lepe & Delphine Mothes",
-"d": "lun 23/11 19:00",
-"l": "Le Regard du Cygne (20e)",
-"p": "11 €",
-"th": [
-"danse"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/soiree-partagee-yasminee-lepe-delphine-mothes-117339",
-"r": "https://leregardducygne.mapado.com/event/795686-soiree-partagee-under-my-blood-volet-i-variation-pour-un-corps-de-yasminee-lepe-et-natures-petite-forme-de-delphine-mothes",
-"dec": 1
 },
 {
 "id": "b65ebd5b2d59",
@@ -314,6 +301,20 @@
 "dec": 1
 },
 {
+"id": "a6e07787355f",
+"t": "Jam Session Jazz au 38Riv, animée par Solène Cairoli",
+"d": "mer 25/11 22:00",
+"l": "38Riv (4e)",
+"p": "9 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 21,
+"u": "https://www.paris.fr/evenements/copie-de-jam-session-jazz-au-38riv-animee-par-solene-cairoli-80910",
+"r": "https://38riv.com/concerts?search=solene%20Cairoli&category=All"
+},
+{
 "id": "7ccc4692716c",
 "t": "Table ronde Jazzwomen | Festival Monte le son 2026 \"Ô féminins\"",
 "d": "jeu 26/11 18:00",
@@ -327,18 +328,17 @@
 "u": "https://www.paris.fr/evenements/les-40-ans-de-l-album-tutu-conference-par-vincent-cotro-cycle-miles-davis-123665"
 },
 {
-"id": "969a2aa541e9",
-"t": "Jam Session Jazz au 38Riv, Les jeudis du CNSMDP",
-"d": "jeu 26/11 22:00",
-"l": "38Riv (4e)",
-"p": "9 €",
+"id": "9fe3387f9fd3",
+"t": "Palace of Mirrors",
+"d": "jeu 26/11 18:30",
+"l": "Conservatoire Municipal Darius Milhaud (14e)",
+"p": "gratuit",
 "th": [
-"jazz",
 "concert"
 ],
-"sc": 21,
-"u": "https://www.paris.fr/evenements/jam-session-jazz-au-38riv-les-jeudis-du-cnsmdp-117365",
-"r": "https://38riv.com/concerts?search=CNSMDP&category=All&easepick_start_date_max=&easepick_start_date_min=now%20-3%20hours&easepick_end_date_min=now%20-3%20hours"
+"sc": 14,
+"u": "https://www.paris.fr/evenements/palace-of-mirrors-127027",
+"r": "https://my.weezevent.com/palace-of-mirrors"
 },
 {
 "id": "a28c755508cc",
@@ -355,6 +355,33 @@
 "dec": 1
 },
 {
+"id": "055a3afa008f",
+"t": "Soirée de clôture de la Compagnie Les Orpailleurs",
+"d": "ven 27/11 18:00",
+"l": "Le Regard du Cygne (20e)",
+"p": "11 €",
+"th": [
+"danse"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/soiree-de-cloture-de-la-compagnie-les-orpailleurs-117343",
+"r": "https://leregardducygne.mapado.com/event/795749-la-vie-et-presque-rien-dautre-clap-de-fin-de-la-compagnie-jean-christophe-bleton-compagnie-les-orpailleurs",
+"dec": 1
+},
+{
+"id": "46e87ca59c47",
+"t": "Cezanne et les peintres, une histoire d’influences(s)",
+"d": "ven 27/11 18:15",
+"l": "Bibliothèque Forney (4e)",
+"p": "gratuit",
+"th": [
+"talk"
+],
+"sc": 14,
+"u": "https://www.paris.fr/evenements/cezanne-et-les-peintres-une-histoire-d-influences-s-126361",
+"r": "https://www.billetweb.fr/cezanne-et-les-peintres-une-histoire-d-influencess"
+},
+{
 "id": "0486c170482a",
 "t": "Récital Chant et Piano",
 "d": "sam 28/11 09:30",
@@ -366,19 +393,6 @@
 ],
 "sc": 24,
 "u": "https://www.paris.fr/evenements/chant-et-piano-126324"
-},
-{
-"id": "05206d499334",
-"t": "La naissance du paysage moderne",
-"d": "sam 28/11 14:00",
-"l": "Médiathèque Violette Leduc (11e)",
-"p": "gratuit",
-"th": [
-"expo",
-"talk"
-],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/la-naissance-du-paysage-moderne-124158"
 },
 {
 "id": "368877bd6bb3",
@@ -444,19 +458,6 @@
 "sc": 19,
 "u": "https://www.paris.fr/evenements/dvorak-quatuor-a-cordes-n-13-126996",
 "r": "https://www.eventbrite.fr/e/2004282688475?aff=oddtdtcreator"
-},
-{
-"id": "32d30f57d0b3",
-"t": "Concert Nous Sommes le Vent par l'harmonie de La Sirène et Hormê",
-"d": "dim 29/11 15:00",
-"l": "Conservatoire Municipal Darius Milhaud (14e)",
-"p": "gratuit",
-"th": [
-"concert"
-],
-"sc": 14,
-"u": "https://www.paris.fr/evenements/concert-nous-sommes-le-vent-par-l-harmonie-de-la-sirene-et-horme-115885",
-"r": "https://www.helloasso.com/associations/la-sirene-de-paris/evenements/nous-sommes-le-vent-concert-harmonie"
 }
 ]
 },
@@ -576,6 +577,18 @@
 "r": "https://www.billetweb.fr/monstres-et-chimeres"
 },
 {
+"id": "d97e23254016",
+"t": "‘Checkpoint Charlie’ / Obradovic-Tixier Duo",
+"d": "ven 04/12 18:30",
+"l": "JASS CLUB PARIS (13e)",
+"p": "10 €",
+"th": [
+"concert"
+],
+"sc": 13,
+"u": "https://www.paris.fr/evenements/checkpoint-charlie-obradovic-tixier-duo-125682"
+},
+{
 "id": "8ab6ae216f7b",
 "t": "Ouvrons les écoutilles ! - Four-Eight Sound - Vincent Meurisse alias Kent Riss",
 "d": "ven 04/12 18:30",
@@ -656,19 +669,6 @@
 "r": "https://centreculturelsuisseparis.mapado.com/event/865453-visite-performee-en-langue-des-signes-francaise-lsf"
 },
 {
-"id": "1da057d81add",
-"t": "Conférences Art-Sciences : \"Sur les chemins du vivant – Histoires naturelles du XXIe siècle\"",
-"d": "sam 05/12 16:00",
-"l": "Le Plant B, La Ressourcerie des jardiniers (12e)",
-"p": "5 €",
-"th": [
-"talk"
-],
-"sc": 13,
-"u": "https://www.paris.fr/evenements/conferences-art-sciences-sur-les-chemins-du-vivant-histoires-naturelles-du-xxie-siecle-124753",
-"r": "https://linktr.ee/helloleplantb"
-},
-{
 "id": "4ad944ecb2c0",
 "t": "Rilke, une correspondance européenne",
 "d": "sam 05/12 17:00",
@@ -730,17 +730,17 @@
 "ant": "ouverte"
 },
 {
-"id": "91693a076116",
-"t": "Culture club",
-"d": "sam 12/12 15:00",
-"l": "Bibliothèque François Villon (10e)",
+"id": "5bae0cd5c390",
+"t": "Jeux vidéo",
+"d": "sam 12/12 14:30",
+"l": "Médiathèque Françoise Sagan (10e)",
 "p": "gratuit",
 "th": [
-"techno",
-"litterature"
+"autre"
 ],
 "sc": 4,
-"u": "https://www.paris.fr/evenements/culture-club-23513",
+"u": "https://www.paris.fr/evenements/jeux-video-90237",
+"r": "https://www.billetweb.fr/multi_event.php?user=268538",
 "dec": 1
 },
 {
@@ -792,6 +792,20 @@
 "u": "https://www.paris.fr/evenements/solstice-trio-en-partenariat-avec-le-cmdl-au-38riv-jazz-clu-126067"
 },
 {
+"id": "f4b87942c639",
+"t": "La Velu.e - cabaret de tous poils",
+"d": "jeu 17/12 18:00",
+"l": "Cirque Electrique (20e)",
+"p": "12 €",
+"th": [
+"theatre"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/la-velu-e-cabaret-de-tous-poils-123572",
+"r": "https://shotgun.live/fr/events/velu-e-cabaret-afterwork-le-cirque-electrique-10",
+"dec": 1
+},
+{
 "id": "57813104da21",
 "t": "BÉATRICE CIVATON - “FLORAISON”",
 "d": "jeu 17/12 20:00",
@@ -803,20 +817,6 @@
 "sc": 16,
 "u": "https://www.paris.fr/evenements/beatrice-civaton-floraison-114178",
 "r": "https://www.billetweb.fr/jazzdedemain-b-atrice-civaton-floraison-beatrice-civaton-lea-molina-nicolas-attie-jea3"
-},
-{
-"id": "3f4002c1240f",
-"t": "Guinguette Circus",
-"d": "sam 19/12 18:00",
-"l": "Ferme Montsouris (14e)",
-"p": "10 €",
-"th": [
-"cirque"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/guinguette-circus-125548",
-"r": "https://www.weezevent.com/",
-"dec": 1
 },
 {
 "id": "e8d83e3761fe",
@@ -843,18 +843,16 @@
 "mode": "moyen",
 "candidats": [
 {
-"id": "510c1b9b6d2e",
-"t": "Je reviens te chanter",
+"id": "013c6a321aa2",
+"t": "Shoom • Flurp • Namakis",
 "d": "lun 21/12 18:00",
-"l": "Théâtre Comédie Bastille (11e)",
-"p": "40 €",
+"l": "SUPERSONIC (12e)",
+"p": "gratuit",
 "th": [
-"concert",
-"theatre"
+"concert"
 ],
 "sc": 6,
-"u": "https://www.paris.fr/evenements/je-reviens-te-chanter-125320",
-"r": "https://comedie-bastille-billetterie.tickandlive.com/evenement/je-reviens-te-chanter"
+"u": "https://www.paris.fr/evenements/shoom-flurp-namakis-126479"
 },
 {
 "id": "ee70eaf5df9b",
@@ -920,6 +918,20 @@
 "mode": "moyen",
 "candidats": [
 {
+"id": "f1a9515209ae",
+"t": "Bonifacio-Gomez Quartet, Bebop au 38Riv Jazz Club",
+"d": "mer 30/12 18:30",
+"l": "38Riv Jazz Club (4e)",
+"p": "24 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 10,
+"u": "https://www.paris.fr/evenements/bonifacio-gomez-quartet-bebop-au-38riv-jazz-club-126077",
+"r": "https://38riv.com/concerts/bonifacio-gomez-quartet"
+},
+{
 "id": "a94eb36dcff2",
 "t": "Nouvel An à Prague, Originální Pražský Synkopický Orchestr",
 "d": "mer 30/12 > 02/01",
@@ -971,21 +983,6 @@
 ],
 "sc": 9,
 "u": "https://75.agendaculturel.fr/concert/vivaldi-caccini-schubert-haendel-strauss.html"
-},
-{
-"id": "808752a79852",
-"t": "Thomas Delor & Laurent Marode, Cool jazz for quiet dreams",
-"d": "dim 03/01 18:30",
-"l": "38Riv Jazz Club (4e)",
-"p": "21 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 10,
-"u": "https://www.paris.fr/evenements/thomas-delor-laurent-marode-cool-jazz-for-quiet-dreams-au-126935",
-"r": "https://38riv.com/concerts/thomas-delor-laurent-marode-2",
-"dim_soir": 1
 }
 ]
 },
