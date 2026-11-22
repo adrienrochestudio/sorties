@@ -1,12 +1,12 @@
 {
 "genere": "2026-11-22",
 "stats": {
-"rejet": 1340,
 "retenu": 2032,
-"hors_zone": 653,
-"trop_cher": 132,
-"hors_horizon": 212,
 "horaire": 169,
+"hors_zone": 653,
+"rejet": 1340,
+"hors_horizon": 212,
+"trop_cher": 132,
 "hors_paris_semaine": 6
 },
 "buckets": [
@@ -46,17 +46,16 @@
 "pe": 1
 },
 {
-"id": "ee8c0eee80ac",
-"t": "Soleil et Lune. Andreas Eriksson en dialogue avec Ivan Aguéli",
-"d": "lun 23/11 > 10/01",
-"l": "Institut suédois (3e)",
+"id": "a89cb8a54a82",
+"t": "Yu Nishimura Towards a Sea",
+"d": "lun 23/11 > 03/01",
+"l": "Lafayette Anticipations (4e)",
 "p": "gratuit",
 "th": [
-"expo"
+"autre"
 ],
 "sc": 17,
-"u": "https://www.paris.fr/evenements/soleil-et-lune-andreas-eriksson-en-dialogue-avec-ivan-agueli-116800",
-"r": "https://paris.si.se/agenda/exposition-soleil-et-lune-andreas-eriksson-en-dialogue-avec-ivan-agueli/",
+"u": "https://www.paris.fr/evenements/yu-nishimura-towards-a-sea-116990",
 "pe": 1
 },
 {
@@ -74,6 +73,20 @@
 "r": "https://38riv.com/concerts/jake-sherman"
 },
 {
+"id": "b9d7b14e3ff7",
+"t": "Soirée partagée : Yasminee Lepe & Delphine Mothes",
+"d": "lun 23/11 19:00",
+"l": "Le Regard du Cygne (20e)",
+"p": "11 €",
+"th": [
+"danse"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/soiree-partagee-yasminee-lepe-delphine-mothes-117339",
+"r": "https://leregardducygne.mapado.com/event/795686-soiree-partagee-under-my-blood-volet-i-variation-pour-un-corps-de-yasminee-lepe-et-natures-petite-forme-de-delphine-mothes",
+"dec": 1
+},
+{
 "id": "7168ed834e0c",
 "t": "Les lundis jazz manouche du Piano Vache",
 "d": "lun 23/11 20:00",
@@ -88,16 +101,31 @@
 "r": "https://lepianovache.com/?utm_source=que-faire-a-paris&utm_medium=evenement&utm_campaign=permanent&utm_content=reserver-haut-lundi#reserver"
 },
 {
-"id": "e6efe68dc8fa",
-"t": "Ciné débat : En quête de sens",
-"d": "mer 25/11 18:00",
-"l": "La Roche (14e)",
-"p": "5 €",
+"id": "fc17d8f53e93",
+"t": "Soirée dansante «Rock 4 Temps moderne» dans le 13ème arrondissement",
+"d": "mar 24/11 19:00",
+"l": "Digital Village (13e)",
+"p": "6 €",
 "th": [
-"talk"
+"danse"
 ],
 "sc": 5,
-"u": "https://www.paris.fr/evenements/cine-debat-en-quete-de-sens-127048",
+"u": "https://www.paris.fr/evenements/soiree-dansante-rock-4-temps-moderne-dans-le-13eme-126967",
+"r": "https://rockit.dance/events/2026-11-24-dance-paradise/",
+"dec": 1
+},
+{
+"id": "83e65417ec90",
+"t": "La putain de performance",
+"d": "mer 25/11 19:30",
+"l": "Cirque Electrique (20e)",
+"p": "14 €",
+"th": [
+"cirque"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/la-putain-de-performance-117469",
+"r": "https://www.helloasso.com/associations/compagnie-mona-lisa",
 "dec": 1
 },
 {
@@ -129,20 +157,6 @@
 "dec": 1
 },
 {
-"id": "055a3afa008f",
-"t": "Soirée de clôture de la Compagnie Les Orpailleurs",
-"d": "ven 27/11 18:00",
-"l": "Le Regard du Cygne (20e)",
-"p": "11 €",
-"th": [
-"danse"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/soiree-de-cloture-de-la-compagnie-les-orpailleurs-117343",
-"r": "https://leregardducygne.mapado.com/event/795749-la-vie-et-presque-rien-dautre-clap-de-fin-de-la-compagnie-jean-christophe-bleton-compagnie-les-orpailleurs",
-"dec": 1
-},
-{
 "id": "0486c170482a",
 "t": "Récital Chant et Piano",
 "d": "sam 28/11 09:30",
@@ -167,21 +181,6 @@
 ],
 "sc": 18,
 "u": "https://www.paris.fr/evenements/soyez-nos-voix-exposition-transfrontaliere-et-itinerante-126158"
-},
-{
-"id": "a56dba164036",
-"t": "Le spectacle « Fanfare » au Cirque Électrique",
-"d": "sam 28/11 14:00",
-"l": "Cirque Electrique (20e)",
-"p": "10 €",
-"th": [
-"theatre",
-"cirque"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/le-spectacle-fanfare-au-cirque-electrique-112986",
-"r": "https://cirqueelectrique.placeminute.com/event/jeune-public-enfants/fanfare-experience-electrique,46918.html?_locale=fr",
-"dec": 1
 },
 {
 "id": "368877bd6bb3",
@@ -273,20 +272,6 @@
 "r": "https://www.lebaisersale.com/fr/agenda?tag=21"
 },
 {
-"id": "3cb6eaceefae",
-"t": "Une danseuse au bord de … Cabaret Loulou | Danse",
-"d": "mer 02/12 19:00",
-"l": "L'Institut du Monde Arabe (5e)",
-"p": "12 €",
-"th": [
-"theatre",
-"danse"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/une-danseuse-au-bord-de-cabaret-loulou-danse-127090",
-"dec": 1
-},
-{
 "id": "50e3e71d16e5",
 "t": "Jam Session Jazz au 38Riv, animée par Solène Cairoli",
 "d": "mer 02/12 22:00",
@@ -367,6 +352,20 @@
 ],
 "sc": 18,
 "u": "https://www.paris.fr/evenements/cezanne-le-regard-en-feu-125106"
+},
+{
+"id": "8ab6ae216f7b",
+"t": "Ouvrons les écoutilles ! - Four-Eight Sound - Vincent Meurisse alias Kent Riss",
+"d": "ven 04/12 18:30",
+"l": "La Pop (19e)",
+"p": "15 €",
+"th": [
+"autre"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/ouvrons-les-ecoutilles-four-eight-sound-vincent-meurisse-alias-kent-riss-118203",
+"r": "https://2ewt66ry.mapado.com/event/787496-ouvrons-les-ecoutilles-four-eight-sound?eventDate=2994407",
+"dec": 1
 },
 {
 "id": "6d2e86c1be0a",
@@ -552,6 +551,19 @@
 "dec": 1
 },
 {
+"id": "eb56158cefe1",
+"t": "Le free jazz en France | Conférence par Vincent Cotro | Cycle Jazz français",
+"d": "jeu 10/12 18:00",
+"l": "Médiathèque musicale de Paris – Christiane Eda-Pierre (1e)",
+"p": "gratuit",
+"th": [
+"jazz",
+"talk"
+],
+"sc": 16,
+"u": "https://www.paris.fr/evenements/le-free-jazz-en-france-conference-par-vincent-cotro-cycle-jazz-francais-124029"
+},
+{
 "id": "815b44391d37",
 "t": "#JazzDeDemain #LaPetiteHeure by… Le Ninon Valder Ensemble",
 "d": "jeu 10/12 18:00",
@@ -564,19 +576,6 @@
 "sc": 16,
 "u": "https://www.paris.fr/evenements/jazzdedemain-lapetiteheure-by-le-ninon-valder-ensemble-116677",
 "r": "https://www.billetweb.fr/bo/lists.php?type=promo"
-},
-{
-"id": "eb56158cefe1",
-"t": "Le free jazz en France | Conférence par Vincent Cotro | Cycle Jazz français",
-"d": "jeu 10/12 18:00",
-"l": "Médiathèque musicale de Paris – Christiane Eda-Pierre (1e)",
-"p": "gratuit",
-"th": [
-"jazz",
-"talk"
-],
-"sc": 16,
-"u": "https://www.paris.fr/evenements/le-free-jazz-en-france-conference-par-vincent-cotro-cycle-jazz-francais-124029"
 },
 {
 "id": "b1e0842e51af",
@@ -618,6 +617,19 @@
 "u": "https://www.paris.fr/evenements/david-sauzay-quartet-live-at-the-jass-club-125685"
 },
 {
+"id": "6cc98d4d0e29",
+"t": "Formation : éloquence",
+"d": "ven 11/12 18:00",
+"l": "Maison de la Vie Associative et Citoyenne du 11e arrondissement (11e)",
+"p": "gratuit",
+"th": [
+"autre"
+],
+"sc": 4,
+"u": "https://www.paris.fr/evenements/formation-eloquence-126871",
+"dec": 1
+},
+{
 "id": "114aaae1c845",
 "t": "Laura Buenrostro Latin jazz",
 "d": "ven 11/12 20:00",
@@ -631,30 +643,30 @@
 "u": "https://www.paris.fr/evenements/laura-buenrostro-latin-jazz-126470"
 },
 {
-"id": "849a9a18aea2",
-"t": "Troc de graines et de boutures",
-"d": "sam 12/12 14:00",
-"l": "Bibliothèque Marguerite Audoux (3e)",
+"id": "001a3a9eaae1",
+"t": "Forum Parcoursup : orientation Post-bac",
+"d": "sam 12/12 09:00",
+"l": "QJ - Quartier Jeunes (1e)",
 "p": "gratuit",
 "th": [
 "autre"
 ],
 "sc": 4,
-"u": "https://www.paris.fr/evenements/troc-de-graines-et-de-boutures-107225",
+"u": "https://www.paris.fr/evenements/forum-parcoursup-orientation-post-bac-126355",
+"r": "https://my.weezevent.com/forum-parcoursup?o=qfap",
 "dec": 1
 },
 {
-"id": "91693a076116",
-"t": "Culture club",
-"d": "sam 12/12 15:00",
-"l": "Bibliothèque François Villon (10e)",
+"id": "34284da1be93",
+"t": "Soirée Jeu de rôle",
+"d": "sam 12/12 17:00",
+"l": "Médiathèque Françoise Sagan (10e)",
 "p": "gratuit",
 "th": [
-"techno",
-"litterature"
+"autre"
 ],
 "sc": 4,
-"u": "https://www.paris.fr/evenements/culture-club-23513",
+"u": "https://www.paris.fr/evenements/soiree-jeu-de-role-113860",
 "dec": 1
 },
 {
@@ -670,19 +682,6 @@
 "sc": 14,
 "u": "https://www.paris.fr/evenements/copie-de-je-cherche-les-notes-qui-s-aiment-wolfgang-amadeus-mozart-113767",
 "r": "https://www.chatelet.com/programmation/26-27/lart-de-la-nuance/"
-},
-{
-"id": "b68e1a394bd8",
-"t": "Témoigner contre l’oubli",
-"d": "dim 13/12 10:00",
-"l": "Mémorial de la Shoah (4e)",
-"p": "gratuit",
-"th": [
-"autre"
-],
-"sc": 4,
-"u": "https://www.paris.fr/evenements/temoigner-contre-l-oubli-117422",
-"dec": 1
 }
 ]
 },
@@ -719,31 +718,31 @@
 "u": "https://www.paris.fr/evenements/jazzette-a-la-trockette-2-2-125707"
 },
 {
-"id": "004f28d21e32",
-"t": "Ouvrons les écoutilles ! - Echoes of Repair - Francesca Ceccherini",
+"id": "a4ffdae3ea46",
+"t": "Solstice Trio, En partenariat avec le CMDL au 38Riv Jazz Clu",
 "d": "mer 16/12 18:30",
-"l": "La Pop (19e)",
-"p": "15 €",
-"th": [
-"autre"
-],
-"sc": 5,
-"u": "https://www.paris.fr/evenements/ouvrons-les-ecoutilles-echoes-of-repair-francesca-ceccherini-118206",
-"r": "https://2ewt66ry.mapado.com/event/787503-ouvrons-les-ecoutilles-echoes-of-repair",
-"dec": 1
-},
-{
-"id": "fd9e448150ad",
-"t": "Jazz de Noël",
-"d": "ven 18/12 18:30",
-"l": "Conservatoire Municipal Charles Munch (11e)",
-"p": "gratuit",
+"l": "38Riv Jazz Club (4e)",
+"p": "21 €",
 "th": [
 "jazz",
 "concert"
 ],
 "sc": 18,
-"u": "https://www.paris.fr/evenements/jazz-de-noel-127896"
+"u": "https://www.paris.fr/evenements/solstice-trio-en-partenariat-avec-le-cmdl-au-38riv-jazz-clu-126067"
+},
+{
+"id": "3f4002c1240f",
+"t": "Guinguette Circus",
+"d": "sam 19/12 18:00",
+"l": "Ferme Montsouris (14e)",
+"p": "10 €",
+"th": [
+"cirque"
+],
+"sc": 5,
+"u": "https://www.paris.fr/evenements/guinguette-circus-125548",
+"r": "https://www.weezevent.com/",
+"dec": 1
 },
 {
 "id": "e8d83e3761fe",
@@ -888,6 +887,20 @@
 "dec": 1
 },
 {
+"id": "b781cb9a4f95",
+"t": "Fabien Mary Quintet - Autour de Jimmy Heath au 38Riv Jazz Clu",
+"d": "sam 02/01 18:30",
+"l": "38Riv Jazz Club (4e)",
+"p": "27 €",
+"th": [
+"jazz",
+"concert"
+],
+"sc": 10,
+"u": "https://www.paris.fr/evenements/fabien-mary-quintet-autour-de-jimmy-heath-au-38riv-jazz-clu-126850",
+"r": "https://38riv.com/concerts/fabien-mary-quintet"
+},
+{
 "id": "5819abab0a09",
 "t": "Vivaldi / Caccini / Schubert / Haendel / Strauss",
 "d": "dim 03/01 00:00",
@@ -898,21 +911,6 @@
 ],
 "sc": 9,
 "u": "https://75.agendaculturel.fr/concert/vivaldi-caccini-schubert-haendel-strauss.html"
-},
-{
-"id": "808752a79852",
-"t": "Thomas Delor & Laurent Marode, Cool jazz for quiet dreams",
-"d": "dim 03/01 18:30",
-"l": "38Riv Jazz Club (4e)",
-"p": "21 €",
-"th": [
-"jazz",
-"concert"
-],
-"sc": 10,
-"u": "https://www.paris.fr/evenements/thomas-delor-laurent-marode-cool-jazz-for-quiet-dreams-au-126935",
-"r": "https://38riv.com/concerts/thomas-delor-laurent-marode-2",
-"dim_soir": 1
 }
 ]
 },
